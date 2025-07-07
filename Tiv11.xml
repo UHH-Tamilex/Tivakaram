@@ -132,7 +132,7 @@
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
-<entry>
+<entry type="supp">
 <form>eṉṟ<c type="elided">u</c></form>
 <def>said</def>
 <form type="sandhi">eṉṟ</form>
@@ -140,7 +140,7 @@
   <gram type="role">absolutive</gram>
 </gramGrp>
 </entry>
-<entry>
+<entry type="supp">
 <form>ivai</form>
 <def>these</def>
 <gramGrp>
@@ -156,7 +156,7 @@
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
-<entry>
+<entry type="supp">
 <form>kūṟum</form>
 <def>talking</def>
 <form type="sandhi">kūṟun</form>
@@ -164,7 +164,7 @@
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
-<entry>
+<entry type="main">
 <form>toyyil</form>
 <def>the word ‘toyyil’</def>
 <form type="sandhi">toyyiṟ</form>
@@ -172,7 +172,7 @@
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
-<entry>
+<entry type="supp">
 <form>kiḷavi</form>
 <def>word</def>
 <gramGrp>
@@ -252,21 +252,21 @@
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
-<entry>
+<entry type="main">
 <form>arākam</form>
 <def>the word arākam</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
-<entry>
+<entry type="supp">
 <form>eṉa<c type="geminated">p</c></form>
 <def>say</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
 </gramGrp>
 </entry>
-<entry>
+<entry type="supp">
 <form>paṭum</form>
 <def>happens</def>
 <gramGrp>
