@@ -28,7 +28,7 @@ jobs:
           cd lib/_indexer
           yarn install
           yarn pageindex Tiv "Tivākaram"
-          yarn todb Tiv
+          yarn tonikantudb Tiv
           cd ../..
           git pull
 
