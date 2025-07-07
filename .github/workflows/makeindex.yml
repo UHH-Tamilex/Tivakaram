@@ -28,8 +28,7 @@ jobs:
           cd lib/_indexer
           yarn install
           yarn pageindex Tiv "Tivākaram"
-          # yarn todb Tiv
-          # yarn dbtohtml "Tamiḻneṟi Viḷakkam"
+          yarn todb Tiv
           cd ../..
           git pull
 
@@ -37,7 +36,7 @@ jobs:
         with:
           commit_message: automatic wordindex update
           #file_pattern: index.html wordindex.html wordindex.db
-          file_pattern: index.html
+          file_pattern: index.html index.db
           commit_user_name: Tamilex Bot
 
       - name: deploy
