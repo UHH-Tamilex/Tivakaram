@@ -51,6 +51,13 @@
   <text xml:lang="ta" type="edition" subtype="lexicon">
     <body>
         <head><num xml:lang="en">95</num>. <term xml:lang="ta">vicakattiṉ peyar</term></head>
+      <p>
+        <list xml:lang="en">
+          <item>ed. Caṇmukam Piḷḷai &amp; Cuntaramūrtti 1990, <ref target="https://archive.org/details/20240820_20240820_1903/page/41/mode/1up">41</ref>;</item>
+          <item>ed. Cānti Cātaṉā 2004, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZp7kZUy.TVA_BOK_0002448/page/6/mode/1up">6</ref>;</item>
+          <item>BnF Indien 239, <ref target="http://localhost/tamilex/corpus/Tivakaram/Indien_0239.xml?corresp=BnF239&amp;corresp=Tiv1.95&amp;facs=29">12r</ref>.</item>
+      </list>
+      </p>
         <div rend="parallel">
         <lg xml:id="Tiv1.95">
           <l>muṟamē muṟṟil vaikāci yaṉilanāṭ</l>
@@ -140,4 +147,10 @@
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
-</standOff></TEI>
+</standOff><standOff corresp="#Tiv1.95" type="apparatus"><listApp>
+<app loc="12,19">
+        <lem wit="#Ed #SS #BnF239">vaikāci</lem>
+        <rdg wit="#Edv">vaicākam</rdg>
+<rdg wit="#Edv2">vaiyāci</rdg>
+        </app>
+</listApp></standOff></TEI>
