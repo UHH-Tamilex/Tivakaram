@@ -1,0 +1,88 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tivākaram</title> 7. <term xml:lang="ta">ceyaṟkai vaṭiviṉ peyart tokuti</term>.
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+        <listWit>
+            <witness xml:id="Ed">
+                <abbr>Ed</abbr>
+                <expan>Tivākaram critical edition</expan>
+            </witness>
+            <witness xml:id="Edv">
+                <abbr>Ed<hi rend="subscript">v</hi></abbr>
+                <expan>variant reading</expan>
+            </witness>
+            <witness xml:id="Edv2">
+                <abbr>Ed<hi rend="subscript">v2</hi></abbr>
+                <expan>second variant reading</expan>
+            </witness>
+            <witness xml:id="SS">
+                <abbr>ŚS</abbr>
+                <expan><title xml:lang="ta">Cānti Cātaṉa</title> edition, 2004</expan>
+            </witness>
+            <witness xml:id="BnF239" source="Indien_0239.xml">
+                <abbr>BnF239</abbr>
+                <expan>Bibliothèque nationale de France, MS Indien 239</expan>
+            </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition" subtype="lexicon">
+    <body>
+        <head><num xml:lang="en">133</num>. ★ <term xml:lang="ta">cu<sic>ḷki</sic>ṉ peyar</term></head>
+      <p>
+        <list xml:lang="en">
+          <item>ed. Caṇmukam Piḷḷai &amp; Cuntaramūrtti 1990, <ref target="https://archive.org/details/20240820_20240820_1903/page/406/mode/1up">415</ref>.</item>
+      </list>
+      </p>
+        <div rend="parallel">
+        <lg xml:id="Tiv7.133v133">
+          <l>cuḷakē cūrppam.</l>
+        </lg>
+        <lg xml:lang="en">
+            <l>A <foreign xml:lang="ta-Latn">cuḷaku</foreign> is a [type of] winnow.</l>
+        </lg>
+        </div>
+    </body>
+  </text>
+<standOff corresp="#Tiv7.133v133" type="wordsplit">
+<interp type="alignment" select="0">5M2G9M,15MG</interp>
+<entry>
+<form>cuḷak<c type="elided">u</c>-ē</form>
+<def>winnow</def>
+<form type="simple">cuḷaku</form>
+<form type="sandhi">cuḷak</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry type="main">
+<form>cūrppam</form>
+<def>winnow</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
