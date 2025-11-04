@@ -154,7 +154,11 @@
     <seg function="intertitle">
   <lb n="1-4"/>Iraṇṭāvatu <gap reason="ellipsis"/></seg>     
     </fw>
-    
+        <pb facs="29" n="12r"/>
+        <lg xml:id="Tiv1.95">
+          <l><cb n="1"/><lb n="3"/>muṟame muṟṟil vaikāci yaṉilāṭ</l>
+          <l><lb n="4"/>peṟume cuḷaku vicākanāṭ peyare</l>
+        </lg>
         <pb facs="296" n="145v"/>
 
         <lg xml:id="Tiv11.372">
