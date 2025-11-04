@@ -94,7 +94,7 @@
 <entry>
 <form><c type="glide">y</c>aṉilam nāḷ</form>
 <def>Aṉilam day</def>
-<form type="sandhi"><c type="glide">y</c>aṉilanāḷ</form>
+<form type="sandhi"><c type="glide">y</c>aṉilanāṭ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -115,7 +115,7 @@
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
-<entry>
+<entry type="main">
 <form>vicākam</form>
 <def>Vicākam asterism</def>
 <form type="sandhi">vicākan</form>
@@ -126,6 +126,7 @@
 <entry type="supp">
 <form>nāḷ</form>
 <def>day</def>
+<form type="sandhi">nāṭ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
