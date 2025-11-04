@@ -1,0 +1,142 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tivākaram</title> 1. <term xml:lang="ta">teyvappeyart tokuti.</term>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+        <listWit>
+            <witness xml:id="Ed">
+                <abbr>Ed</abbr>
+                <expan>Tivākaram critical edition</expan>
+            </witness>
+            <witness xml:id="Edv">
+                <abbr>Ed<hi rend="subscript">v</hi></abbr>
+                <expan>variant reading</expan>
+            </witness>
+            <witness xml:id="Edv2">
+                <abbr>Ed<hi rend="subscript">v2</hi></abbr>
+                <expan>second variant reading</expan>
+            </witness>
+            <witness xml:id="SS">
+                <abbr>ŚS</abbr>
+                <expan><title xml:lang="ta">Cānti Cātaṉa</title> edition, 2004</expan>
+            </witness>
+            <witness xml:id="BnF239" source="Indien_0239.xml">
+                <abbr>BnF239</abbr>
+                <expan>Bibliothèque nationale de France, MS Indien 239</expan>
+            </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition" subtype="lexicon">
+    <body>
+        <head><num xml:lang="en">95</num>. <term xml:lang="ta">vicakattiṉ peyar</term></head>
+        <div rend="parallel">
+        <lg xml:id="Tiv1.95">
+          <l>muṟamē muṟṟil vaikāci yaṉilanāṭ</l>
+          <l>peṟumē cuḷaku<anchor xml:id="Tiv1.95-n1"/> vicākanāṭ peyarē.</l>
+        </lg>
+        <lg xml:lang="en">
+            <l>a <foreign xml:lang="ta-Latn">Muṟam</foreign> [winnow], a <foreign xml:lang="ta-Latn">Muṟṟil</foreign> [winnow], <foreign xml:lang="ta-Latn">Vaikāci</foreign>, the <foreign xml:lang="ta-Latn">Aṉilam</foreign> asterism</l>
+            <l>&amp; a <foreign xml:lang="ta-Latn">Cuḷaku</foreign> [winnow] are words for the <foreign xml:lang="ta-Latn">Vicākam</foreign> asterism.</l>
+        </lg>
+        </div>
+    </body>
+  </text>
+<standOff corresp="#Tiv1.95" type="notes1">
+<note xml:lang="en" target="#Tiv1.95-n1">The three words for <hi rend="italic">winnow</hi> here suggests that the <foreign xml:lang="ta-Latn">vicākam</foreign> asterism resembles a winnow in the sky.</note>
+</standOff>
+<standOff corresp="#Tiv1.95" type="wordsplit">
+<interp type="alignment" select="0">5MG20MG8MG13MR8MG2M,60MG</interp>
+<entry>
+<form>muṟam-ē</form>
+<def>winnow</def>
+<form type="simple">muṟam</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>muṟṟil</form>
+<def>winnow</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaikāci</form>
+<def>Vaikāci</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṉilam nāḷ</form>
+<def>Aṉilam day</def>
+<form type="sandhi"><c type="glide">y</c>aṉilanāḷ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry type="supp">
+<form>peṟum-ē</form>
+<def>obtains</def>
+<form type="simple">peṟum</form>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>cuḷaku</form>
+<def>winnow</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vicākam</form>
+<def>Vicākam asterism</def>
+<form type="sandhi">vicākan</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry type="supp">
+<form>nāḷ</form>
+<def>day</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry type="supp">
+<form>peyar-ē</form>
+<def>word</def>
+<form type="simple">peyar</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff></TEI>
