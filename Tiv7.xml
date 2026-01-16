@@ -37,7 +37,7 @@
                 <abbr>ŚS</abbr>
                 <expan><title xml:lang="ta">Cānti Cātaṉa</title> edition, 2004</expan>
             </witness>
-            <witness xml:id="BnF239" source="Indien_0239.xml">
+          <witness xml:id="BnF239" source="witnesses/P1-BnF_Indien_0239.xml">
                 <abbr>BnF239</abbr>
                 <expan>Bibliothèque nationale de France, MS Indien 239</expan>
             </witness>
