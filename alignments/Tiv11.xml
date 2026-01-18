@@ -21,113 +21,87 @@
           </msContents>
         </msDesc>
         <listWit>
-          <witness xml:id="Ed">
-            <abbr>Ed</abbr>
-            <expan>Tivākaram critical edition</expan>
-          </witness>
-          <witness xml:id="Edv">
-            <abbr>Ed<hi rend="subscript">v</hi></abbr>
-            <expan>variant reading</expan>
-          </witness>
-          <witness xml:id="Edv2">
-            <abbr>Ed<hi rend="subscript">v2</hi></abbr>
-            <expan>second variant reading</expan>
-          </witness>
-          <witness xml:id="SS">
-            <abbr>ŚS</abbr>
-            <expan><title xml:lang="ta">Cānti Cātaṉa</title> edition, 2004</expan>
-          </witness>
+            <witness xml:id="Ed">
+                <abbr>Ed</abbr>
+                <expan>Tivākaram critical edition</expan>
+            </witness>
+            <witness xml:id="Edv">
+                <abbr>Ed<hi rend="subscript">v</hi></abbr>
+                <expan>variant reading</expan>
+            </witness>
+            <witness xml:id="Edv2">
+                <abbr>Ed<hi rend="subscript">v2</hi></abbr>
+                <expan>second variant reading</expan>
+            </witness>
+            <witness xml:id="SS">
+                <abbr>ŚS</abbr>
+                <expan><title xml:lang="ta">Cānti Cātaṉa</title> edition, 2004</expan>
+            </witness>
           <witness xml:id="BnF239" source="witnesses/P1-BnF_Indien_0239.xml">
-            <abbr>BnF239</abbr>
-            <expan>Bibliothèque nationale de France, MS Indien 239</expan>
-          </witness>
-          <witness xml:id="EdCc" source="witnesses/EdCc-Canti_Catana_2004.xml">
-            <abbr>EdCc</abbr>
-            <expan><title xml:lang="ta">Tivākaram</title>, <term xml:lang="ta">Cānti Cātaṉa</term> edition, 2004</expan>
-          </witness>
-          <witness xml:id="EdC" n="collective"> 
-            <abbr>Ed<hi rend="superscript">C</hi></abbr>
-            <expan><title xml:lang="ta">Tivākaram</title> critical edition</expan>
-            <listWit>
-              <witness xml:id="EdC1" source="witnesses/EdC-critical_edition_part_2.xml">
-                <abbr>Ed<hi rend="superscript">C</hi><hi rend="subscript">1</hi></abbr>
-                <expan><title xml:lang="ta">Tivākaram</title> critical edition, first version</expan>
-                <listWit>
-                  <witness xml:id="EdC1-p1" select="#p1">
-                    <abbr>Ed<hi rend="superscript">C</hi><hi rend="subscript">1</hi>-p</abbr>
-                    <expan><title xml:lang="ta">Tivākaram</title> critical edition, first version, variant reading</expan>
-                  </witness>
-                </listWit>
-              </witness>
-              <witness xml:id="EdC2" source="EdC-critical_edition_part_2.xml">
-                <abbr>Ed<hi rend="superscript">C</hi><hi rend="subscript">2</hi></abbr>
-                <expan><title xml:lang="ta">Tivākaram</title> critical edition, second version</expan>
-                <listWit>
-                  <witness xml:id="EdC2-p1" select="#p1">
-                    <abbr type="siglum">EdC2-p1</abbr>
-                    <expan><title xml:lang="ta">Tivākaram</title> critical edition [witness p1]</expan>
-                  </witness>
-                  <witness xml:id="EdC2-accu" select="#accu">
-                    <abbr type="siglum">EdC2-accu</abbr>
-                    <expan><title xml:lang="ta">Tivākaram</title> critical edition [witness accu]</expan>
-                  </witness>
-                  <witness xml:id="EdC2-mura" select="#mura">
-                    <abbr type="siglum">EdC2-mura</abbr>
-                    <expan><title xml:lang="ta">Tivākaram</title> critical edition [witness mura]</expan>
-                  </witness>
-                </listWit>
-              </witness>
-              <witness xml:id="EdC3" source="EdC-critical_edition_part_2.xml">
-                <abbr>Ed<hi rend="superscript">C</hi><hi rend="subscript">3</hi></abbr>
-                <expan><title xml:lang="ta">Tivākaram</title> critical edition, third version</expan>
-                <listWit>
-                  <witness xml:id="EdC3-p1" select="#p1">
-                    <abbr type="siglum">EdC3-p1</abbr>
-                    <expan><title xml:lang="ta">Tivākaram</title> critical edition [witness p1]</expan>
-                  </witness>
-                  <witness xml:id="EdC3-accu" select="#accu">
-                    <abbr type="siglum">EdC3-accu</abbr>
-                    <expan><title xml:lang="ta">Tivākaram</title> critical edition [witness accu]</expan>
-                  </witness>
-                  <witness xml:id="EdC3-mura" select="#mura">
-                    <abbr type="siglum">EdC3-mura</abbr>
-                    <expan><title xml:lang="ta">Tivākaram</title> critical edition [witness mura]</expan>
-                  </witness>
-                </listWit>
-              </witness>
-            </listWit>
-          </witness>
-          <witness xml:id="EdT" n="collective">
-            <abbr>Ed<hi rend="superscript">T</hi></abbr>
-            <expan><title xml:lang="ta">Tivākaram</title>, ed. <persName xml:lang="ta">Tāṇṭavarāyamutaliyār</persName>, 1840 &amp; 1880 editions</expan>
-            <listWit>
-              <witness xml:id="EdT1" source="witnesses/EdT1-Tantavarayamutaliyar_1840.xml">
-                <abbr>Ed<hi rend="superscript">T</hi><hi rend="subscript">1</hi></abbr>
-                <expan><title xml:lang="ta">Tivākaram</title>, ed. <persName xml:lang="ta">Tāṇṭavarāyamutaliyār</persName> 1840</expan>
-              </witness>
-              <witness xml:id="EdT2" source="witnesses/EdT2-Tantavarayamutaliyar_1880.xml">
-                <abbr>Ed<hi rend="superscript">T</hi><hi rend="subscript">2</hi></abbr>
-                <expan><title xml:lang="ta">Tivākaram</title>, ed. <persName xml:lang="ta">Tāṇṭavarāyamutaliyār</persName> 1880</expan>
-              </witness>
-            </listWit>
-          </witness>
-          <witness xml:id="C1" source="witnesses/Tiv11-C1.xml">
-            <abbr>C<hi rend="subscript">1</hi></abbr>
-            <expan>UVSL MS 449</expan>
-          </witness>
-          <witness xml:id="C2" source="witnesses/Tiv11-C2.xml">
-            <abbr>C<hi rend="subscript">2</hi></abbr>
-            <expan>UVSL MS 1572</expan>
-          </witness>
-          <witness xml:id="P1" source="witnesses/Tiv11-P1.xml">
-            <abbr>P<hi rend="subscript">1</hi></abbr>
-            <expan>BnF Indien 239</expan>
-          </witness>
-          <witness xml:id="P2" source="witnesses/Tiv11-P2.xml">
-            <abbr>P<hi rend="subscript">2</hi></abbr>
-            <expan>BnF Indien 236</expan>
-          </witness>
-        </listWit>
+                <abbr>BnF239</abbr>
+                <expan>Bibliothèque nationale de France, MS Indien 239</expan>
+            </witness>
+        
+<witness xml:id="EdC1" source="witnesses/EdC-critical_edition_part_2.xml">
+<abbr>EdC1</abbr>
+<expan><title xml:lang="ta">Tivākaram</title> critical edition</expan>
+<listWit>
+<witness xml:id="EdC1-p1" select="#p1">
+<abbr type="siglum">EdC1-p1</abbr>
+<expan><title xml:lang="ta">Tivākaram</title> critical edition [witness p1]</expan>
+</witness>
+</listWit>
+</witness>
+<witness xml:id="EdC2" source="EdC-critical_edition_part_2.xml">
+<abbr>EdC2</abbr>
+<expan><title xml:lang="ta">Tivākaram</title> critical edition</expan>
+<listWit>
+<witness xml:id="EdC2-p1" select="#p1">
+<abbr type="siglum">EdC2-p1</abbr>
+<expan><title xml:lang="ta">Tivākaram</title> critical edition [witness p1]</expan>
+</witness>
+<witness xml:id="EdC2-accu" select="#accu">
+<abbr type="siglum">EdC2-accu</abbr>
+<expan><title xml:lang="ta">Tivākaram</title> critical edition [witness accu]</expan>
+</witness>
+<witness xml:id="EdC2-mura" select="#mura">
+<abbr type="siglum">EdC2-mura</abbr>
+<expan><title xml:lang="ta">Tivākaram</title> critical edition [witness mura]</expan>
+</witness>
+</listWit>
+</witness>
+<witness xml:id="C1" source="witnesses/Tiv11-C1.xml">
+<abbr>C1</abbr>
+<expan><title xml:lang="ta">Tivākaram</title></expan>
+</witness>
+<witness xml:id="C2" source="witnesses/Tiv11-C2.xml">
+<abbr>C2</abbr>
+<expan><title xml:lang="ta">Tivākaram</title></expan>
+</witness>
+<witness xml:id="P1" source="witnesses/Tiv11-P1.xml">
+<abbr>P1</abbr>
+<expan><title xml:lang="ta">Tivākaram</title></expan>
+</witness>
+<witness xml:id="T2" source="Tiv11-P1.xml">
+<abbr>T2</abbr>
+<expan><title xml:lang="ta">Tivākaram</title></expan>
+</witness>
+<witness xml:id="P2" source="witnesses/Tiv11-P2.xml">
+<abbr>P2</abbr>
+<expan>Collection (2 <title xml:lang="ta">Nikaṇṭu</title>s)</expan>
+</witness>
+<witness xml:id="EdT1" source="witnesses/EdT1-Tantavarayamutaliyar_1840.xml">
+<abbr>EdT1</abbr>
+<expan><title xml:lang="ta">Tivākaram</title>, ed. <persName xml:lang="ta">Tāṇṭavarāyamutaliyār</persName> 1840</expan>
+</witness>
+<witness xml:id="EdT2" source="witnesses/EdT2-Tantavarayamutaliyar_1880.xml">
+<abbr>EdT2</abbr>
+<expan><title xml:lang="ta">Tivākaram</title>, ed. <persName xml:lang="ta">Tāṇṭavarāyamutaliyār</persName> 1880</expan>
+</witness>
+<witness xml:id="EdCc" source="witnesses/EdCc-Canti_Catana_2004.xml">
+<abbr>EdCc</abbr>
+<expan><title xml:lang="ta">Tivākaram</title>, <term xml:lang="ta">Cānti Cātaṉa</term> edition, 2004</expan>
+</witness></listWit>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
@@ -415,7 +389,7 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
   </desc>
 </interp><listApp>
   <app loc="23,29">
-    <rdgGrp type="lemma" select="#EdCc #EdC #C1 #C2 #P1 #P2">
+    <rdgGrp type="lemma" select="#C1 #C2 #P1 #P2 #EdCc">
       <lem>ēmāppu</lem>
       <rdg type="minor" wit="#C1 #C2 #P1 #P2">emāppu</rdg>
     </rdgGrp>
@@ -425,8 +399,8 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
     </rdgGrp>
   </app>
   <app loc="29,36">
-    <lem wit="#EdCc #EdC1 #EdC3 #EdT #C1 #C2 #P1">mayakka</lem>
-    <rdg wit="#EdC2 #P2">mayakkamu</rdg>
+    <lem wit="#C1 #C2 #P1 #EdT1 #EdT2 #EdCc">mayakka</lem>
+    <rdg wit="#P2">mayakkamu</rdg>
   </app>
 </listApp></standOff><standOff corresp="#Tiv11.1" type="wordsplit">
 <interp type="alignment" select="0">46M,45MG</interp>
