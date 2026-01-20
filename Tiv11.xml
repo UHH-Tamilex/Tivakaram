@@ -42,7 +42,7 @@
             <expan>Bibliothèque nationale de France, MS Indien 239</expan>
           </witness>
           <witness xml:id="EdCc" source="witnesses/EdCc-Canti_Catana_2004.xml">
-            <abbr>EdCc</abbr>
+            <abbr>Ed<hi rend="superscript">Cc</hi></abbr>
             <expan><title xml:lang="ta">Tivākaram</title>, <term xml:lang="ta">Cānti Cātaṉa</term> edition, 2004</expan>
           </witness>
           <witness xml:id="EdC" n="collective"> 
@@ -126,6 +126,10 @@
           <witness xml:id="P2" source="witnesses/Tiv11-P2.xml">
             <abbr>P<hi rend="subscript">2</hi></abbr>
             <expan>BnF Indien 236</expan>
+          </witness>
+          <witness xml:id="I1" source="witnesses/Tiv11-I1.xml">
+            <abbr>I<hi rend="subscript">1</hi></abbr>
+            <expan>RE 47779, Institut français de Pondicherry</expan>
           </witness>
         </listWit>
       </sourceDesc>
@@ -415,9 +419,9 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
   </desc>
 </interp><listApp>
   <app loc="23,29">
-    <rdgGrp type="lemma" select="#EdCc #EdC #C1 #C2 #P1 #P2">
+    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdC3 #C1 #C2 #P1 #P2 #I1">
       <lem>ēmāppu</lem>
-      <rdg type="minor" wit="#C1 #C2 #P1 #P2">emāppu</rdg>
+      <rdg type="minor" wit="#C1 #C2 #P1 #P2 #I1">emāppu</rdg>
     </rdgGrp>
     <rdgGrp select="#EdT1 #EdT2">
       <rdg type="main">ṉēmāppu</rdg>
@@ -426,7 +430,7 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
   </app>
   <app loc="29,36">
     <lem wit="#EdCc #EdC1 #EdC3 #EdT #C1 #C2 #P1">mayakka</lem>
-    <rdg wit="#EdC2 #P2">mayakkamu</rdg>
+    <rdg wit="#EdC2 #P2 #I1">mayakkamu</rdg>
   </app>
 </listApp></standOff><standOff corresp="#Tiv11.1" type="wordsplit">
 <interp type="alignment" select="0">46M,45MG</interp>
