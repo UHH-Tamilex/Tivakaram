@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="ta">Tivākaram</title></title>
+            
+         <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Tamilex</publisher>
+            <date>2026</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Institut français de Pondichéry</orgName>
+                  </repository>
+                  <idno type="shelfmark">RE 47779</idno>
+               <idno type="URI">https://digitalcollections.ifpindia.org/s/manuscripts/item/361708</idno></msIdentifier>
+               <msContents class="#STM">
+            <summary>This manuscript of the <title xml:lang="ta">Tivākaram</title> was digitized as part of the IFP digital collections. It seems to contain the complete <title xml:lang="sa">Tivākaram</title>, followed by an alphabetical lexicon, a folio of another text, and a fragment.</summary>
+                  
+               <msItem xml:id="I1" defective="false"><title xml:lang="ta">Tivākaram</title><textLang mainLang="tam"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="manuscript">
+                     <supportDesc material="palm-leaf palmyra">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="144">1-97, 1-45, unnumbered, fragment.</measure>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              <width quantity=""/>
+                              <height quantity=""/>
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc><handNote scope="sole" script="tamil" medium="black incised soot"/></handDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole" quantity="2"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     <origPlace>Tamilnadu</origPlace>
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>Madras lexicon transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archive.org/iiif/re-47779/manifest.json"/></facsimile>
+  <text corresp="#I1" xml:lang="ta">
+    <body>
+      <pb n="81r" facs="83"/>
+      <p xml:id="Tiv11.1-head"><cb n="1"/><lb n="1"/>emameṉṉum peyar</p>
+      <lg xml:id="Tiv11.1">
+        <l><lb n="2"/>cemaṅ kāva liṉpa miravupoṉ</l>
+        <l><lb n="3"/>emāppu mayakkamu mema mākum</l>
+      </lg>
+    </body>
+  </text>
+</TEI>
