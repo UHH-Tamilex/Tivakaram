@@ -528,14 +528,14 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
-<entry>
+<entry type="main">
 <form>ēmam</form>
 <def>protection</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
-<entry>
+<entry type="supp">
 <form>ākum</form>
 <def>becomes</def>
 <gramGrp>
@@ -569,7 +569,7 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
   </app>
 </listApp></standOff><standOff corresp="#Tiv11.2" type="wordsplit">
 <interp type="alignment" select="0">12MG8M2G7M,29MG</interp>
-<entry>
+<entry type="main">
 <form>ceḻumai</form>
 <def>flourishing</def>
 <gramGrp>
@@ -595,7 +595,7 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
-<entry>
+<entry type="supp">
 <form>ākum</form>
 <def>becomes</def>
 <gramGrp>
@@ -708,21 +708,21 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
-<entry>
+<entry type="supp">
 <form><c type="glide">y</c>i<c type="geminated">m</c></form>
 <def>this</def>
 <gramGrp>
   <gram type="role">pronoun</gram>
 </gramGrp>
 </entry>
-<entry>
+<entry type="supp">
 <form>mūṉṟum</form>
 <def>three</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
-<entry>
+<entry type="supp">
 <form>virikkiṉ</form>
 <def>extent</def>
 <gramGrp>
@@ -730,7 +730,7 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
-<entry>
+<entry type="supp">
 <form>mēlōr</form>
 <def>above-they</def>
 <gramGrp>
@@ -738,14 +738,14 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
-<entry>
+<entry type="main">
 <form>viḻumam</form>
 <def>distress</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
-<entry>
+<entry type="supp">
 <form>eṉpa</form>
 <def>they say</def>
 <gramGrp>
@@ -756,7 +756,7 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
 </entry>
 </standOff><standOff corresp="#Tiv11.4" type="wordsplit">
 <interp type="alignment" select="0">9M2G7MG7M,25MG</interp>
-<entry>
+<entry type="main">
 <form>nantal</form>
 <def>to abound</def>
 <gramGrp>
@@ -782,7 +782,7 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
-<entry>
+<entry type="supp">
 <form>ākum</form>
 <def>becomes</def>
 <gramGrp>
