@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">
+  
+    <teiHeader>
+<listWit>
+<witness xml:id="Ed" source="Tiv11.xml">
+<abbr>Ed</abbr>
+<expan><title xml:lang="ta">Tivākaram</title> 11. <term xml:lang="ta">orucol palporuṭ peyart tokuti.</term></expan>
+</witness>
+<witness xml:id="EdCc" source="EdCc-Canti_Catana_2004.xml">
+<abbr>EdCc</abbr>
+<expan><title xml:lang="ta">Tivākaram</title>, <term xml:lang="ta">Cānti Cātaṉa</term> edition, 2004</expan>
+</witness>
+<witness xml:id="EdC1" source="EdC-critical_edition_part_2.xml">
+<abbr>EdC1</abbr>
+<expan><title xml:lang="ta">Tivākaram</title> critical edition</expan>
+<listWit>
+<witness xml:id="EdC1-p1" select="#p1">
+<abbr type="siglum">EdC1-p1</abbr>
+<expan><title xml:lang="ta">Tivākaram</title> critical edition [witness p1]</expan>
+</witness>
+</listWit>
+</witness>
+<witness xml:id="EdC2" source="EdC-critical_edition_part_2.xml">
+<abbr>EdC2</abbr>
+<expan><title xml:lang="ta">Tivākaram</title> critical edition</expan>
+</witness>
+<witness xml:id="EdC3" source="EdC-critical_edition_part_2.xml">
+<abbr>EdC3</abbr>
+<expan><title xml:lang="ta">Tivākaram</title> critical edition</expan>
+<listWit>
+<witness xml:id="EdC3-p1" select="#p1">
+<abbr type="siglum">EdC3-p1</abbr>
+<expan><title xml:lang="ta">Tivākaram</title> critical edition [witness p1]</expan>
+</witness>
+<witness xml:id="EdC3-accu" select="#accu">
+<abbr type="siglum">EdC3-accu</abbr>
+<expan><title xml:lang="ta">Tivākaram</title> critical edition [witness accu]</expan>
+</witness>
+<witness xml:id="EdC3-mura" select="#mura">
+<abbr type="siglum">EdC3-mura</abbr>
+<expan><title xml:lang="ta">Tivākaram</title> critical edition [witness mura]</expan>
+</witness>
+</listWit>
+</witness>
+<witness xml:id="EdT1" source="EdT1-Tantavarayamutaliyar_1840.xml">
+<abbr>EdT1</abbr>
+<expan><title xml:lang="ta">Tivākaram</title>, ed. <persName xml:lang="ta">Tāṇṭavarāyamutaliyār</persName> 1840</expan>
+</witness>
+<witness xml:id="EdT2" source="EdT2-Tantavarayamutaliyar_1880.xml">
+<abbr>EdT2</abbr>
+<expan><title xml:lang="ta">Tivākaram</title>, ed. <persName xml:lang="ta">Tāṇṭavarāyamutaliyār</persName> 1880</expan>
+</witness>
+<witness xml:id="C1" source="Tiv11-C1.xml">
+<abbr>C1</abbr>
+<expan><title xml:lang="ta">Tivākaram</title></expan>
+</witness>
+<witness xml:id="C2" source="Tiv11-C2.xml">
+<abbr>C2</abbr>
+<expan><title xml:lang="ta">Tivākaram</title></expan>
+</witness>
+<witness xml:id="I1" source="Tiv11-I1.xml">
+<abbr>I1</abbr>
+<expan><title xml:lang="ta">Tivākaram</title></expan>
+</witness>
+<witness xml:id="P1" source="Tiv11-P1.xml">
+<abbr>P1</abbr>
+<expan><title xml:lang="ta">Tivākaram</title></expan>
+</witness>
+<witness xml:id="P2" source="Tiv11-P2.xml">
+<abbr>P2</abbr>
+<expan>Collection (2 <title xml:lang="ta">Nikaṇṭu</title>s)</expan>
+</witness>
+</listWit>
+    <encodingDesc>
+      <editorialDecl>
+        <segmentation>
+          <ab type="tokenization">character</ab>
+          <ab type="blockid">Tiv11.3-head</ab>
+          <ab type="targetedition">Ed</ab>
+          <ab type="scoring">
+            <ab type="match">1</ab>
+            <ab type="mismatch">-1</ab>
+            <ab type="gapopen">-2</ab>
+            <ab type="gapextend">-0.25</ab>
+            <ab type="recursive">true</ab>
+            <ab type="realigndepth">20</ab>
+            <ab type="distancefunction">ngrams</ab>
+            
+          </ab>
+        </segmentation>
+        <normalization method="markup">
+<ab>ignore punctuation</ab>
+<ab>ignore long/short e</ab>
+<ab>ignore long/short o</ab>
+<ab>insert glide after back vowels</ab>
+<ab>insert glide after front vowels</ab>
+<ab>final -m sandhi variants</ab>
+<ab>ignore puḷḷi</ab>
+<ab>remove spaces</ab>
+        </normalization>
+        <ab type="tagfilters">
+<tag subtype="ignore">pc</tag>
+<tag subtype="ignore">abbr</tag>
+<tag subtype="ignore">corr</tag>
+<tag subtype="ignore">ex</tag>
+<tag subtype="ignore">head</tag>
+<tag subtype="ignore">label</tag>
+<tag subtype="ignore">note</tag>
+<tag subtype="ignore">num</tag>
+<tag subtype="ignore">locus</tag>
+<tag subtype="ignore">supplied</tag>
+<tag subtype="ignore">surplus</tag>
+        </ab>
+      </editorialDecl>
+    </encodingDesc>
+    
+        <xenoData>
+      <stemma format="nexml" id="stemma0"><nex:nexml xmlns:nex="http://www.nexml.org/2009" version="0.9"><nex:otus id="otus1"><nex:otu id="otu0" label="EdT1"/><nex:otu id="otu1" label="EdT2"/><nex:otu id="otu2" label="C1"/><nex:otu id="otu3" label="Ed"/><nex:otu id="otu4" label="EdCc"/><nex:otu id="otu5" label="I1"/></nex:otus><nex:trees otus="otus1" id="trees1"><nex:tree id="guidetree" label="guidetree" xsi:type="nex:FloatTree" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><nex:node id="fdb9e1d7-04fb-4c64-95c7-e4dfffd9fbab" root="true"/><nex:node id="81c6ba10-90b6-4465-bf24-f1ae44a22360"/><nex:node id="7c2346f6-6ad2-4412-928e-d0300b7f35a4"/><nex:node id="31a81e1e-0db0-47f8-a125-08de5d316ef2" label="EdT1" otu="otu3"/><nex:node id="7a263240-0bea-457f-b50b-f43952f3e9f8" label="EdT2" otu="otu4"/><nex:node id="43ee9a37-dbb1-4c7c-a978-a8bbd9568fcc"/><nex:node id="9a3f535b-46ec-4875-b1d8-bb2a34b45e25" label="C1" otu="otu6"/><nex:node id="1db34784-1ebb-49c6-9d7f-05484d9aa12c" label="Ed" otu="otu7"/><nex:node id="0c287d59-b2d8-4305-b59e-efa16babfbdf"/><nex:node id="670080e1-3e83-445c-8992-a5b775b5acc7" label="EdCc" otu="otu9"/><nex:node id="bd04565e-838b-424c-9e81-ff9b027a08d2" label="I1" otu="otu10"/><nex:edge source="fdb9e1d7-04fb-4c64-95c7-e4dfffd9fbab" target="81c6ba10-90b6-4465-bf24-f1ae44a22360" id="edge0" length="0.15123218009077233"/><nex:edge source="fdb9e1d7-04fb-4c64-95c7-e4dfffd9fbab" target="0c287d59-b2d8-4305-b59e-efa16babfbdf" id="edge1" length="0.15123218009077233"/><nex:edge source="81c6ba10-90b6-4465-bf24-f1ae44a22360" target="7c2346f6-6ad2-4412-928e-d0300b7f35a4" id="edge2" length="0"/><nex:edge source="81c6ba10-90b6-4465-bf24-f1ae44a22360" target="43ee9a37-dbb1-4c7c-a978-a8bbd9568fcc" id="edge3" length="0"/><nex:edge source="0c287d59-b2d8-4305-b59e-efa16babfbdf" target="670080e1-3e83-445c-8992-a5b775b5acc7" id="edge4" length="0.4471106212312268"/><nex:edge source="0c287d59-b2d8-4305-b59e-efa16babfbdf" target="bd04565e-838b-424c-9e81-ff9b027a08d2" id="edge5" length="0.5528893787687732"/><nex:edge source="7c2346f6-6ad2-4412-928e-d0300b7f35a4" target="31a81e1e-0db0-47f8-a125-08de5d316ef2" id="edge6" length="0"/><nex:edge source="7c2346f6-6ad2-4412-928e-d0300b7f35a4" target="7a263240-0bea-457f-b50b-f43952f3e9f8" id="edge7" length="0"/><nex:edge source="43ee9a37-dbb1-4c7c-a978-a8bbd9568fcc" target="9a3f535b-46ec-4875-b1d8-bb2a34b45e25" id="edge8" length="0"/><nex:edge source="43ee9a37-dbb1-4c7c-a978-a8bbd9568fcc" target="1db34784-1ebb-49c6-9d7f-05484d9aa12c" id="edge9" length="0"/></nex:tree></nex:trees></nex:nexml></stemma>
+    </xenoData>
+    
+  </teiHeader>
+
+    <TEI n="EdT1">
+        <text><cl><w n="0">v</w><w n="1">i</w><w n="2">ḻ</w><w n="3">u</w><w n="4">m</w><w n="5">a</w><w n="6">m</w></cl><cl><w n="7">e</w><w n="8">ṉ</w><w n="9" lemma="a"/><w n="10">ṉ</w><w n="11">u</w><w n="12">m</w><w n="13" lemma="a"> </w><w n="14">p</w><w n="15">e</w><w n="16">y</w><w n="17">a</w><w n="18" lemma="r">r–</w><w n="19" lemma="a"/></cl></text>
+    </TEI>
+    <TEI n="EdT2">
+        <text><cl><w n="0">v</w><w n="1">i</w><w n="2">ḻ</w><w n="3">u</w><w n="4">m</w><w n="5">a</w><w n="6">m</w></cl><cl><w n="7">e</w><w n="8">ṉ</w><w n="9" lemma="a"/><w n="10">ṉ</w><w n="11">u</w><w n="12">m</w><w n="13" lemma="a"> </w><w n="14">p</w><w n="15">e</w><w n="16">y</w><w n="17">a</w><w n="18" lemma="r">r–</w><w n="19" lemma="a"/></cl></text>
+    </TEI>
+    <TEI n="C1">
+        <text><cl><w n="0">v</w><w n="1">i</w><w n="2">ḻ</w><w n="3">u</w><w n="4">m</w><w n="5">a</w><w n="6">m</w></cl><cl><w n="7">e</w><w n="8">ṉ</w><w n="9" lemma="a"/><w n="10">ṉ</w><w n="11">u</w><w n="12">m</w><w n="13" lemma="a"> </w><w n="14">p</w><w n="15">e</w><w n="16">y</w><w n="17">a</w><w n="18">r</w><w n="19" lemma="a"> -</w></cl></text>
+    </TEI>
+    <TEI n="Ed">
+        <text><cl><w n="0" lemma="v">. v</w><w n="1">i</w><w n="2">ḻ</w><w n="3">u</w><w n="4">m</w><w n="5">a</w><w n="6" lemma="m">m </w></cl><cl><w n="7">e</w><w n="8">ṉ</w><w n="9" lemma="a"/><w n="10">ṉ</w><w n="11">u</w><w n="12">m</w><w n="13" lemma="a"> </w><w n="14">p</w><w n="15">e</w><w n="16">y</w><w n="17">a</w><w n="18">r</w><w n="19" lemma="a"/></cl></text>
+    </TEI>
+    <TEI n="EdCc">
+        <text><cl><w n="0">v</w><w n="1">i</w><w n="2">ḻ</w><w n="3">u</w><w n="4">m</w><w n="5">a</w><w n="6">m</w></cl><cl><w n="7"/><w n="8"/><w n="9"/><w n="10"/><w n="11"/><w n="12"/><w n="13"/><w n="14"/><w n="15"/><w n="16"/><w n="17"/><w n="18"/><w n="19" lemma="a"/></cl></text>
+    </TEI>
+    <TEI n="I1">
+        <text><cl><w n="0">v</w><w n="1">i</w><w n="2">ḻ</w><w n="3">u</w><w n="4">y</w><w n="5">a</w><w n="6">m</w></cl><cl><w n="7">e</w><w n="8">ṉ</w><w n="9" lemma="a"/><w n="10">ṉ</w><w n="11">u</w><w n="12">m</w><w n="13" lemma="a"> </w><w n="14">p</w><w n="15">e</w><w n="16">y</w><w n="17">a</w><w n="18">r</w><w n="19" lemma="a"/></cl></text>
+    </TEI></teiCorpus>

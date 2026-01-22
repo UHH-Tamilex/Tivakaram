@@ -91,10 +91,23 @@
     <body>
       <milestone n="344r" facs="88" unit="folio"/>
       <p><lb n="6"/>patiṉorāvatu orucoṟpalporuṭ peyart tokuti - <g ref="#pcs"/></p>
-      <p>emameṉṉum <lb n="7"/>peyar -</p>
+      <p xml:id="Tiv11.1-head">emameṉṉum <lb n="7"/>peyar -</p>
       <lg xml:id="Tiv11.1">
         <l>cemaṅ kāva liṉpa miravupoṉ -</l>
         <l>emāppu mayakka mema mākum -</l>
+      </lg>
+      <p xml:id="Tiv11.2-head">ceḻumai yeṉṉum peyar -</p>
+      <lg xml:id="Tiv11.2">
+       <l>ceḻumai vaḷaṉuṅ koḻup<lb n="8"/>pu mākum -</l>
+      </lg>
+      <p xml:id="Tiv11.3-head">viḻumameṉṉum peyar -</p>
+      <lg xml:id="Tiv11.3">
+        <l>ciṟappuc cīrmai yiṭumpaiyim <sic>mu</sic>ṉṟum -</l>
+       <l>virikkiṉ melor viḻuma meṉpa -</l>
+      </lg>
+      <p xml:id="Tiv11.4-head">nantaleṉṉum <lb n="9"/>peyar -</p>
+      <lg xml:id="Tiv11.4">
+       <l>nantal keṭu mākkamu mākum -</l>
       </lg>
     </body>
   </text>
