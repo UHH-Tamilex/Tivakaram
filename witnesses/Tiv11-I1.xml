@@ -88,11 +88,24 @@
    <graphic url="https://iiif.archive.org/iiif/re-47779/manifest.json"/></facsimile>
   <text corresp="#I1" xml:lang="ta">
     <body>
+
+      <pb n="78r" facs="80"/>
+      <cb n="3"/>
+      <p xml:id="Tiv11.2-head"><lb n="3"/>ceḻumai yeṉṉum peyar</p>
+      <lg xml:id="Tiv11.2">
+        <l><lb n="4"/>ceḻumai vaḷaṉuṅ koḻuppu mākum</l>
+      </lg>
+
       <pb n="81r" facs="83"/>
       <p xml:id="Tiv11.1-head"><cb n="1"/><lb n="1"/>emameṉṉum peyar</p>
       <lg xml:id="Tiv11.1">
         <l><lb n="2"/>cemaṅ kāva liṉpa miravupoṉ</l>
         <l><lb n="3"/>emāppu mayakkamu mema mākum</l>
+      </lg>
+      <p xml:id="Tiv11.3-head"><lb n="4"/>viḻuyameṉṉum peyar</p>
+      <lg xml:id="Tiv11.3">
+        <l><lb n="5"/>ciṟappuc cīrmai yiṭumpaiyim <unclear>mū</unclear>ṉṟum</l>
+        <l><lb n="6"/>virikkiṉ melor viḻuma meṉpa</l>
       </lg>
     </body>
   </text>

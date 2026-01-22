@@ -91,10 +91,22 @@
     <body>
       <milestone n="215r" facs="233" unit="folio"/>
       <fw place="left-margin"><lb n="1"/>patiṉorā<lb n="2"/>vatu oru<lb n="3"/>coṟ pal<lb n="4"/>poruṭ <lb n="5"/>peyart <lb n="6"/>tokuti</fw>
+
       <lg xml:id="Tiv11.1">
         <l><cb n="1"/><lb n="1"/>cemaṅ kāval <lb n="2"/>iṉpa miravupoṉ</l>
         <l><lb n="3"/>emāppu mayakkam <lb n="4"/>ema mākum</l>
       </lg>
+      <lg xml:id="Tiv11.2">
+        <l><lb n="5"/>ceḻumai vaḷaṉum</l>
+      </lg>
+      <lg xml:id="Tiv11.3">
+        <l><lb n="6"/>yiṭumpaiyim mūṉṟum</l>
+        <l><lb n="7"/>virikkiṉ melor <cb n="2"/><lb n="1"/>viḻuma meṉpa</l>
+      </lg>
+      <lg xml:id="Tiv11.4">
+       <l><lb n="2"/>nantal keṭum <lb n="3"/>ākkamu mākum</l>
+      </lg>
+
     </body>
   </text>
 </TEI>

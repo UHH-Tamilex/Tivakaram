@@ -89,13 +89,42 @@
     <graphic url="https://iiif.archive.org/iiif/dli.jZY9lup2kZl6TuXGlZQdjZp7kZUy.TVA_BOK_0002448/manifest.json" facs="201"/></facsimile>
   <text corresp="#EdCc" xml:lang="ta">
     <body>
+      <pb n="97" facs="105"/>
+      <cb n="2"/>
+
+      <head type="sub" xml:id="Tiv11.2-head"><lb n="17"/>ceḻumai</head>
+      <lg xml:id="Tiv11.2">
+        <l><lb n="18"/>ceḻumai, vaḷaṉum, koḻuppum (ākum).</l>
+      </lg>
+      <p><lb n="19"/>(<num xml:lang="en">2</num> peyarkaḷ)  <num xml:lang="en">114</num></p>
+
+      <pb n="98" facs="106"/>
+      <cb n="2"/>
+
+       <head type="sub" xml:id="Tiv11.4-head"><lb n="4"/>nantal</head>
+      <lg xml:id="Tiv11.4">
+        <l><lb n="5"/>nantal, kēṭum, ākkamum (ākum).</l>
+      </lg>
+      <p><lb n="6"/>(<num xml:lang="en">2</num> peyarkaḷ)  <num xml:lang="en">136</num></p>
+
       <pb n="103" facs="111"/>
+      <cb n="1"/>
+
       <head type="sub" xml:id="Tiv11.1-head"><lb n="28"/>ēmam</head>
       <lg xml:id="Tiv11.1">
         <l><lb n="29"/>cēmam, kāval, iṉpam, iravu, poṉ,</l>
         <l><lb n="30"/>ēmāppu, mayakkam, ēmam (ākum).</l>
       </lg>
       <p><lb n="31"/>(<num xml:lang="en">7</num> peyarkaḷ)  <num xml:lang="en">255</num></p>
+
+      <pb n="108" facs="116"/>
+      <cb n="2"/>
+      <head type="sub" xml:id="Tiv11.3-head"><lb n="18"/>viḻumam</head>
+      <lg xml:id="Tiv11.3">
+        <l><lb n="19"/>ciṟappu, cīrmai, iṭumpai, (im mūṉṟum</l>
+        <l><lb n="20"/>virikkiṉ mēlōr) viḻumam (eṉpa).</l>
+      </lg>
+      <p><lb n="21"/>(<num xml:lang="en">3</num> peyarkaḷ)  <num xml:lang="en">372</num></p>
     </body>
   </text>
 </TEI>

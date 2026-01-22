@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-        <title><title xml:lang="ta">Tivākaram</title>, ed. <persName xml:lang="ta">Tāṇṭavarāyamutaliyār</persName> 1880</title>
+            <title><title xml:lang="ta">Tivākaram</title> critical edition</title>
             
          <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
          <publicationStmt>
@@ -17,13 +17,13 @@
                   <repository>
                      <orgName>Internet Archive</orgName>
                   </repository>
-                  <idno type="shelfmark">ark:/13960/s2bm64jptg9</idno>
+                  <idno type="shelfmark">ark:/13960/t9n379w3p</idno>
                   <idno type="alternate"/>
-               <idno type="URI">https://archive.org/details/tva-bok-0045216-1880</idno></msIdentifier>
+               <idno type="URI">https://archive.org/details/20240820_20240820_1903</idno></msIdentifier>
                <msContents class="#STM">
                   <summary>This is the second of two parts of the critical edition, published in 1993.</summary>
                   
-               <msItem xml:id="EdT2" defective="false"><title xml:lang="ta">Tivākaram</title><textLang mainLang="tam"/></msItem></msContents>
+               <msItem xml:id="EdC" defective="false"><title xml:lang="ta">Tivākaram</title><textLang mainLang="tam"/></msItem></msContents>
                <physDesc>
                   
                   
@@ -86,37 +86,103 @@
       
    <revisionDesc/></teiHeader>
    <facsimile>
-    <graphic url="https://iiif.archive.org/iiif/tva-bok-0045216-1880/manifest.json" facs="159"/></facsimile>
-  <text corresp="#EdT2" xml:lang="ta">
+   <graphic url="https://iiif.archive.org/iiif/20240820_20240820_1903/manifest.json" facs="258"/></facsimile>
+  <text corresp="#EdC" xml:lang="ta">
     <body>
 
-      <pb n="153" facs="151"/>
-      <p xml:id="Tiv11.2-head"><lb n="3"/>ceḻumai yeṉṉum peyar–</p>
-      <lg xml:id="Tiv11.2">
-        <l>ceḻumai vaḷaṉuṅ koḻuppu mākum</l>
-      </lg>
-      <p>2</p>
+    <head type="sub"><pb n="649" facs="137"/><lb n="1"/>nāṉkāvatu</head>
+    <head><lb n="2"/>marappeyart tokuti</head>
+ 
+    <head corresp="#Tiv4.1-head">
+      <lb n="3"/><num xml:lang="en">628.</num> 
+      pañca taruviṉ eṉṉum peyar
+   </head>
+   
+   <lg corresp="#Tiv11.4">
+        <l><lb n="4"/>cantāṉam, tēvatāram, (taru+) kaṟpakam.</l>
+        <l><lb n="5"/>mantāram, pāricātam, avaṟṟiṉ varukkam.</l>
+    </lg>
 
-      <pb n="154" facs="152"/>
-      <p xml:id="Tiv11.4-head"><lb n="11"/>nantaleṉṉum peyar–</p>
-      <lg xml:id="Tiv11.4">
-        <l>nantal kēṭu mākkamu mākum</l>
-      </lg>
-      <p>2</p>
+     <head corresp="#Tiv4.1-head">
+      <lb n="6"/><num xml:lang="en">629.</num> 
+     cantaṉattiṉ peyar 
+   </head>
+   
+   <lg corresp="#Tiv11.4">
+        <l><lb n="7"/>cāntam, malayam, cantira tilakam,</l>
+        <l><lb n="8"/>(ēytta) āram, cantu, ivai cantaṉam.</l>
+    </lg>
+ <head corresp="#Tiv4.1-head">
+      <lb n="3"/><num xml:lang="en">630.</num> 
+      
+   </head>
+   
+   <lg corresp="#Tiv11.4">
+        <l><lb n="4"/></l>
+        <l><lb n="5"/></l>
+    </lg>
+ <head corresp="#Tiv4.1-head">
+      <lb n="3"/><num xml:lang="en">631.</num> 
+      
+   </head>
+   
+   <lg corresp="#Tiv11.4">
+        <l><lb n="4"/></l>
+        <l><lb n="5"/></l>
+    </lg>
+ <head corresp="#Tiv4.1-head">
+      <lb n="3"/><num xml:lang="en">632.</num> 
+      
+   </head>
+   
+   <lg corresp="#Tiv11.4">
+        <l><lb n="4"/></l>
+        <l><lb n="5"/></l>
+    </lg>
+ <head corresp="#Tiv4.1-head">
+      <lb n="3"/><num xml:lang="en">633.</num> 
+      
+   </head>
+   
+   <lg corresp="#Tiv11.4">
+        <l><lb n="4"/></l>
+        <l><lb n="5"/></l>
+    </lg>
+ <head corresp="#Tiv4.1-head">
+      <lb n="3"/><num xml:lang="en">634.</num> 
+      
+   </head>
+   
+   <lg corresp="#Tiv11.4">
+        <l><lb n="4"/></l>
+        <l><lb n="5"/></l>
+    </lg>
+ <head corresp="#Tiv4.1-head">
+      <lb n="3"/><num xml:lang="en">635.</num> 
+      
+   </head>
+   
+   <lg corresp="#Tiv11.4">
+        <l><lb n="4"/></l>
+        <l><lb n="5"/></l>
+    </lg>
+ <head corresp="#Tiv4.1-head">
+      <lb n="3"/><num xml:lang="en">636.</num> 
+      
+   </head>
+   
+   <lg corresp="#Tiv11.4">
+        <l><lb n="4"/></l>
+        <l><lb n="5"/></l>
+    </lg>
+ <head corresp="#Tiv4.1-head">
+      <lb n="3"/><num xml:lang="en">637.</num> 
+      
+   </head>
+   
+   <lg corresp="#Tiv11.4">
+        <l><lb n="4"/></l>
+        <l><lb n="5"/></l>
+    </lg>
 
-      <pb n="161" facs="159"/>
-      <p xml:id="Tiv11.1-head"><lb n="13"/>ēmameṉṉum peyar —</p>
-      <lg xml:id="Tiv11.1">
-          <l>cēmaṅ kāvaliṉpa miravu<lb n="14"/>poṉṉē</l>
-          <l>māppumayakka mēmamākum.  7</l>
-      </lg>
-
-      <pb n="169" facs="167"/>
-      <p xml:id="Tiv11.3-head"><lb n="15"/>viḻumameṉṉum peyar–</p>
-      <lg xml:id="Tiv11.3">
-        <l>cilappuc cīrmai yiṭum<lb n="16"/>paiyim mūṉṟum</l>
-          <l>virikkiṉ mēlōr viḻuma meṉpa.</l>
-      </lg>
-    </body>
-  </text>
-</TEI>
+</body></text></TEI>
