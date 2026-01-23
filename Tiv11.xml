@@ -49,7 +49,7 @@
             <abbr>Ed<hi rend="superscript">C</hi></abbr>
             <expan><title xml:lang="ta">Tivākaram</title> critical edition</expan>
             <listWit>
-              <witness xml:id="EdC1" source="witnesses/EdC-critical_edition_part_2.xml">
+              <witness xml:id="EdC1" source="witnesses/Tiv11-EdC.xml">
                 <abbr>Ed<hi rend="superscript">C</hi><hi rend="subscript">1</hi></abbr>
                 <expan><title xml:lang="ta">Tivākaram</title> critical edition, first version</expan>
                 <listWit>
@@ -59,7 +59,7 @@
                   </witness>
                 </listWit>
               </witness>
-              <witness xml:id="EdC2" source="witnesses/EdC-critical_edition_part_2.xml">
+              <witness xml:id="EdC2" source="witnesses/Tiv11-EdC.xml">
                 <abbr>Ed<hi rend="superscript">C</hi><hi rend="subscript">2</hi></abbr>
                 <expan><title xml:lang="ta">Tivākaram</title> critical edition, second version</expan>
                 <listWit>
@@ -77,7 +77,7 @@
                   </witness>
                 </listWit>
               </witness>
-              <witness xml:id="EdC3" source="witnesses/EdC-critical_edition_part_2.xml">
+              <witness xml:id="EdC3" source="witnesses/Tiv11-EdC.xml">
                 <abbr>Ed<hi rend="superscript">C</hi><hi rend="subscript">3</hi></abbr>
                 <expan><title xml:lang="ta">Tivākaram</title> critical edition, third version</expan>
                 <listWit>
@@ -144,7 +144,7 @@
         <div rend="parallel">
         <lg xml:id="Tiv11.1">
           <l>cēmaṅ kāva liṉpa miravupoṉ</l>
-          <l>ēmāppu<anchor n="1"/> mayakka mēma mākum.</l>
+          <l>ēmāppu<anchor n="1"/> mayakkamu mēma mākum.</l>
         </lg>
         <lg xml:lang="en">
           <l>Well-being, protection, delight, the night,<note place="foot">This seems to reflect the possibility that <foreign xml:lang="ta">ēmam</foreign> is a variant spelling for <foreign xml:lang="ta">yāmam</foreign>.</note> wealth,<note place="foot">The semantic field for Sanskrit <foreign xml:lang="sa">kṣema</foreign> suggests that <foreign xml:lang="ta">poṉ</foreign> means <q>wealth</q> here, rather than the more literal <q>gold.</q> However, it may also reflect the possibility of <foreign xml:lang="ta">ēmam</foreign> being derived from Sanskrit <foreign xml:lang="sa">hēman</foreign>.</note></l>
@@ -166,7 +166,7 @@
         <div rend="parallel">
         <lg xml:id="Tiv11.3">
           <l>ciṟappuc cīrmai yiṭumpaiyim mūṉṟum</l>
-          <l>virikkiṉ mēlōr viḻuma meṉpa.</l>
+          <l>virikkiṉ mēlōr viḻuma meṉpa.<anchor n="1"/></l>
         </lg>
         <lg xml:lang="en">
           <l>Excellence, greatness, suffering ― these three</l>
@@ -174,15 +174,14 @@
         </lg>
         </div>
 
-        <head type="sub" xml:id="Tiv11.4-head"><num xml:lang="en">3</num>. <term xml:lang="ta">nantal eṉṉum peyar</term></head>
+        <head type="sub" xml:id="Tiv11.4-head"><num xml:lang="en">4</num>. <term xml:lang="ta">nantal eṉṉum peyar</term></head>
         <div rend="parallel">
         <lg xml:id="Tiv11.4">
           <l>nantal kēṭu mākkamu mākum.</l>
-          <l></l>
+          <l/>
         </lg>
         <lg xml:lang="en">
-          <l></l>
-          <l></l>
+          <l><foreign xml:lang="ta">Nantal</foreign> is loss and gain.</l>
         </lg>
         </div>
 
@@ -339,8 +338,12 @@
 </listApp></standOff>
 
 <standOff corresp="#Tiv11.1" type="notes1">
-    <note n="1" xml:lang="en">Although traditionally these two lines should be split <foreign xml:lang="ta">muravupo / ṉēmāppu</foreign>, all manuscripts consulted split the lines as <foreign xml:lang="ta">muravupoṉ / ēmāppu</foreign>.</note>
+    <note n="1" xml:lang="en">Although traditionally these two lines should be split <foreign xml:lang="ta">miravupo / ṉēmāppu</foreign>, all manuscripts consulted split the lines as <foreign xml:lang="ta">miravupoṉ / ēmāppu</foreign>.</note>
 </standOff>
+
+<standOff corresp="#Tiv11.3" type="notes1">
+    <note n="1" xml:lang="en">The reading <foreign xml:lang="ta">ṉantal</foreign> at the beginning of the next verse in <abbr corresp="#P2"/> suggests that <foreign xml:lang="ta">eṉpa</foreign> here may have been read as <foreign xml:lang="ta">eṉpaṉ</foreign>.</note>
+  </standOff>
 
 <standOff corresp="#Tiv11.372" type="notes1">
 <note xml:lang="en" target="#Tiv2273-note1">The critical edition reads <foreign xml:lang="ta">uḻavunīril</foreign> together, understanding something like <q>in ploughing water</q>. This perhaps works better with the variant reading <foreign xml:lang="ta">uḻavunilattil</foreign>, <q>in ploughed land</q>. However, as one variant reading at the end of line 2 shows (<foreign xml:lang="ta-Latn">eṉa vaintun</foreign>), the first two lines have been interpreted as containing 5 items. Moreover, <foreign xml:lang="ta-Latn">toyyal</foreign> is given as a synonym for <foreign xml:lang="ta-Latn">uḻavu</foreign> in <title xml:lang="ta">Cūṭāmaṇi</title> <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZp7kZUy.TVA_BOK_0002448/page/411/mode/1up">5.61</ref>. The variant reading of <foreign xml:lang="ta-Latn">toyyal</foreign> for <foreign xml:lang="ta-Latn">toyyil</foreign> is not recorded in the critical edition, but it is found in <abbr corresp="#BnF239"/>.</note>
@@ -467,12 +470,12 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
       <rdg type="minor" wit="#EdT2">ṉē māppu</rdg>
     </rdgGrp>
   </app>
-  <app loc="29,36">
-    <lem wit="#EdCc #EdC1 #EdC3 #EdT #C1 #P1">mayakka</lem>
-    <rdg wit="#EdC2 #C2 #P2 #I1">mayakkamu</rdg>
+  <app loc="29,38">
+    <lem wit="#EdC2 #P2 #I1">mayakkamu</lem>
+    <rdg wit="#EdCc #EdC1 #EdC3 #EdT #C1 #C2 #P1">mayakka</rdg>
   </app>
 </listApp></standOff><standOff corresp="#Tiv11.1" type="wordsplit">
-<interp type="alignment" select="0">46M,45MG</interp>
+<interp type="alignment" select="0">37MG11M,48MG</interp>
 <entry>
 <form>cēmam</form>
 <def>safety</def>
@@ -517,20 +520,22 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
 </gramGrp>
 </entry>
 <entry>
-<form>mayakkam</form>
+<form>mayakkam-um</form>
 <def>stupor</def>
+<form type="simple">mayakkam</form>
 <gramGrp>
   <gram type="role">verbal noun</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
-<entry>
+<entry type="main">
 <form>ēmam</form>
 <def>protection</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
-<entry>
+<entry type="supp">
 <form>ākum</form>
 <def>becomes</def>
 <gramGrp>
@@ -553,17 +558,18 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
   </desc>
 </interp><listApp>
   <app loc="14,26">
-    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC3 #EdT #C1 #C2 #P1 #I1">
+    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC3 #EdT #C1 #P1 #P2 #I1">
       <lem>koḻuppu mākum</lem>
       <rdg type="minor" wit="#EdCc">koḻuppum (ākum)</rdg>
       <rdg type="minor" wit="#EdC3">koḻuppum ākum</rdg>
       <rdg type="minor" wit="#C1">koḻup<lb n="8"/>pu mākum</rdg>
     </rdgGrp>
     <rdg wit="#EdC1-p1">koḻumai ākum.</rdg>
+    <rdg wit="#C2"/>
   </app>
 </listApp></standOff><standOff corresp="#Tiv11.2" type="wordsplit">
 <interp type="alignment" select="0">12MG8M2G7M,29MG</interp>
-<entry>
+<entry type="main">
 <form>ceḻumai</form>
 <def>flourishing</def>
 <gramGrp>
@@ -589,7 +595,7 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
-<entry>
+<entry type="supp">
 <form>ākum</form>
 <def>becomes</def>
 <gramGrp>
@@ -612,44 +618,175 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
   </desc>
 </interp><listApp>
   <app loc="0,8">
-    <rdgGrp type="lemma" select="#EdC2 #EdC3 #EdT1 #C1 #C2 #P1 #I1">
+    <rdgGrp type="lemma" select="#EdC2 #EdC3 #EdT1 #C1 #P1 #P2 #I1">
       <lem> ciṟappuc</lem>
       <rdg type="minor" wit="#EdC2"><num xml:lang="en">2.</num> ciṟappuc</rdg>
     </rdgGrp>
     <rdg wit="#EdCc #EdC1">ciṟappu,</rdg>
     <rdg wit="#EdT2">cilappuc</rdg>
+    <rdg wit="#C2"/>
+  </app>
+  <app loc="8,14">
+    <lem wit="#EdCc #EdC1 #EdC2 #EdC3 #EdT #C1 #P1 #P2 #I1">cīrmai</lem>
+    <rdg wit="#C2"/>
   </app>
   <app loc="14,25">
-    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdT #C1 #C2 #P1 #I1">
+    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdT #C1 #C2 #P1 #P2 #I1">
       <lem>yiṭumpaiyim</lem>
       <rdg type="minor" wit="#EdCc">iṭumpai, (im</rdg>
       <rdg type="minor" wit="#EdC1">iṭumpaiim</rdg>
       <rdg type="minor" wit="#EdT2">yiṭum<lb n="16"/>paiyim</rdg>
-      <rdg type="minor" wit="#C2">iṭumpaiyim</rdg>
+      <rdg type="minor" wit="#P2">iṭumpaiyim</rdg>
     </rdgGrp>
     <rdg wit="#EdC3">iḷumpai im</rdg>
   </app>
   <app loc="25,31">
-    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdC3 #EdT #C2 #P1 #I1">
+    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdC3 #EdT #C2 #P1 #P2 #I1">
       <lem>mūṉṟum</lem>
       <rdg type="minor" wit="#I1"><unclear>mū</unclear>ṉṟum</rdg>
     </rdgGrp>
     <rdg wit="#C1"><sic>mu</sic>ṉṟum -</rdg>
   </app>
   <app loc="39,44">
-    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC3 #EdT #C1 #C2 #P1 #I1">
+    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC3 #EdT #C1 #C2 #P1 #P2 #I1">
       <lem>mēlōr</lem>
       <rdg type="minor" wit="#EdCc">mēlōr)</rdg>
-      <rdg type="minor" wit="#C1 #C2 #P1 #I1">melor</rdg>
+      <rdg type="minor" wit="#C1 #C2 #P1 #P2 #I1">melor</rdg>
     </rdgGrp>
     <rdg wit="#EdC2">nūlōr</rdg>
   </app>
   <app loc="50,55">
-    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdC3 #EdT #C1 #C2 #P1 #I1">
+    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdC3 #EdT #C1 #C2 #P1 #P2 #I1">
       <lem>meṉpa</lem>
       <rdg type="minor" wit="#EdCc">m (eṉpa)</rdg>
       <rdg type="minor" wit="#EdC1 #EdC3">m eṉpa</rdg>
     </rdgGrp>
     <rdg wit="#EdC1-p1">m eṉpar.</rdg>
   </app>
-</listApp></standOff></TEI>
+</listApp></standOff><standOff type="apparatus" corresp="#Tiv11.4" source="alignments/Tiv11.4.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app loc="0,6">
+    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdC3 #EdT #C1 #C2 #P1 #I1">
+      <lem> nantal</lem>
+      <rdg type="minor" wit="#EdC2"><num xml:lang="en">134.</num>nantal</rdg>
+    </rdgGrp>
+    <rdg wit="#P2">ṉantal</rdg>
+  </app>
+</listApp></standOff><standOff corresp="#Tiv11.3" type="wordsplit">
+<interp type="alignment" select="0">56M,55MG</interp>
+<entry>
+<form>ciṟappu<c type="geminated">c</c></form>
+<def>superiority</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cīrmai</form>
+<def>excellence/renown</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>iṭumpai</form>
+<def>affliction</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry type="supp">
+<form><c type="glide">y</c>i<c type="geminated">m</c></form>
+<def>this</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry type="supp">
+<form>mūṉṟum</form>
+<def>three</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry type="supp">
+<form>virikkiṉ</form>
+<def>extent</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry type="supp">
+<form>mēlōr</form>
+<def>above-they</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry type="main">
+<form>viḻumam</form>
+<def>distress</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry type="supp">
+<form>eṉpa</form>
+<def>they say</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">imperfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#Tiv11.4" type="wordsplit">
+<interp type="alignment" select="0">9M2G7MG7M,25MG</interp>
+<entry type="main">
+<form>nantal</form>
+<def>to abound</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kēṭ<c type="elided">u</c>-um</form>
+<def>loss</def>
+<form type="simple">kēṭu</form>
+<form type="sandhi">kēṭ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>ākkam-um</form>
+<def>gain</def>
+<form type="simple">ākkam</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry type="supp">
+<form>ākum</form>
+<def>becomes</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
