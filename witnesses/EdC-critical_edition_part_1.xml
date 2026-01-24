@@ -90,98 +90,250 @@
   <text corresp="#EdC" xml:lang="ta">
     <body>
 
-    <head type="sub"><pb n="649" facs="137"/><lb n="1"/>nāṉkāvatu</head>
+    <head type="sub"><pb n="203"/><lb n="1"/>nāṉkāvatu</head>
     <head><lb n="2"/>marappeyart tokuti</head>
  
     <head corresp="#Tiv4.1-head">
       <lb n="3"/><num xml:lang="en">628.</num> 
       பஞ்ச தருவின் பெயர்
    </head>
-   
    <lg corresp="#Tiv4.1">
         <l><lb n="4"/>சந்தானம், தேவ தாரம், (தருக்) கற்பகம்,</l>
         <l><lb n="5"/>மந்தாரம், பாரிசாதம், அவற்றின் வருக்கம்.</l>
     </lg>
 
-     <head corresp="#Tiv4.2-head">
+    <head corresp="#Tiv4.2-head">
       <lb n="6"/><num xml:lang="en">629.</num> 
      சந்தனத்தின் பெயர் 
    </head>
-   
    <lg corresp="#Tiv4.2">
         <l><lb n="7"/>சாந்தம், மலயம், சந்திர திலகம்,</l>
         <l><lb n="8"/>(ஏய்த்த) ஆரம், சந்து, இவை சந்தனம்.</l>
     </lg>
- <head corresp="#Tiv4.3-head">
+
+    <head corresp="#Tiv4.3-head">
       <lb n="9"/><num xml:lang="en">630.</num> 
      அகிலின் பெயர் 
    </head>
-   
-   <lg corresp="#Tiv4.4">
+   <lg corresp="#Tiv4.3">
         <l><lb n="10"/>அகருவும், பூழிலும், அகில் என அறைவர்;</l>
         <l><lb n="11"/>(பகரின்) காக துண்டமும் ஆகும்.</l>
     </lg>
- <head corresp="#Tiv4.4-head">
-      <lb n="12"/><num xml:lang="en">631.</num> 
+
+<pb n="204"/>
+    <head corresp="#Tiv4.4-head">
+      <lb n="1"/><num xml:lang="en">631.</num> 
     மராமரத்தின் பெயர்  
    </head>
-   
    <lg corresp="#Tiv4.4">
-        <l><lb n="13"/>சாலம், மராமரம்.</l>
+        <l><lb n="2"/>சாலம், மராமரம்.</l>
        </lg>
- <head corresp="#Tiv4.5-head">
+
+       <head corresp="#Tiv4.5-head">
       <lb n="3"/><num xml:lang="en">632.</num> 
-      
+ஆச்சாவின் பெயர்      
    </head>
-   
    <lg corresp="#Tiv4.5">
-        <l><lb n="4"/></l>
-        <l><lb n="5"/></l>
-    </lg>
- <head corresp="#Tiv4.6-head">
-      <lb n="3"/><num xml:lang="en">633.</num> 
-      
-   </head>
-   
-   <lg corresp="#Tiv4.6">
-        <l><lb n="4"/></l>
-        <l><lb n="5"/></l>
-    </lg>
- <head corresp="#Tiv4.7-head">
-      <lb n="3"/><num xml:lang="en">634.</num> 
-      
-   </head>
-   
-   <lg corresp="#Tiv4.7">
-        <l><lb n="4"/></l>
-        <l><lb n="5"/></l>
-    </lg>
- <head corresp="#Tiv4.8-head">
-      <lb n="3"/><num xml:lang="en">635.</num> 
-      
-   </head>
-   
-   <lg corresp="#Tiv4.8">
-        <l><lb n="4"/></l>
-        <l><lb n="5"/></l>
-    </lg>
- <head corresp="#Tiv4.9-head">
-      <lb n="3"/><num xml:lang="en">636.</num> 
-      
-   </head>
-   
-   <lg corresp="#Tiv4.9">
-        <l><lb n="4"/></l>
-        <l><lb n="5"/></l>
-    </lg>
- <head corresp="#Tiv4.10-head">
-      <lb n="3"/><num xml:lang="en">637.</num> 
-      
-   </head>
-   
-   <lg corresp="#Tiv4.10">
-        <l><lb n="4"/></l>
-        <l><lb n="5"/></l>
+        <l><lb n="4"/>ஆவே, ஆச்சா.</l>
     </lg>
 
-</body></text></TEI>
+    <head corresp="#Tiv4.6-head">
+      <lb n="5"/><num xml:lang="en">633.</num> 
+மகிழமரத்தின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.6">
+        <l><lb n="6"/>வகுளம், இலஞ்சி, மகிழமரம் என்ப.</l>
+    </lg>
+தேக்கின் பெயர்
+    <head corresp="#Tiv4.7-head">
+      <lb n="7"/><num xml:lang="en">634.</num>
+   
+   </head>
+   <lg corresp="#Tiv4.7">
+        <l><lb n="8"/>சாதி, தேக்கே.</l>
+    </lg>
+
+<pb n="205"/>      
+    <head corresp="#Tiv4.8-head">
+      <lb n="1"/><num xml:lang="en">635.</num> 
+செண்பகத்தின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.8">
+        <l><lb n="2"/>சண்பகம், செண்பகம்.</l>
+    </lg>
+
+    <head corresp="#Tiv4.9-head">
+      <lb n="3"/><num xml:lang="en">636.</num> 
+ஆலின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.9">
+        <l><lb n="4"/>ஆதவம், கான்மரம், வடமரம், தொன்மரம்,</l>
+        <l><lb n="5"/>(ஓதிய) பழுமரம், கோளி, ஆலே.</l>
+    </lg>
+
+    <head corresp="#Tiv4.10-head">
+      <lb n="6"/><num xml:lang="en">637.</num> 
+ அரசின் பெயர்     
+   </head>
+   <lg corresp="#Tiv4.10">
+        <l><lb n="7"/>கணவம், பணையே, மராமரம், போதி,</l>
+        <l><lb n="8"/>அச்சு வத்தம், பிப்பிலம், அரசே.</l>
+    </lg>
+
+    <head corresp="#Tiv4.11-head">
+      <lb n="9"/><num xml:lang="en">638.</num> 
+அசோகின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.11">
+        <l><lb n="10"/>பிண்டி, செயலை, காகோளி, அசோகே.</l>
+    </lg>
+
+<pb n="206"/>      
+    <head corresp="#Tiv4.12-head">
+      <lb n="1"/><num xml:lang="en">639.</num> 
+ இரத்தியின் பெயர்     
+   </head>
+   <lg corresp="#Tiv4.12">
+        <l><lb n="2"/>இரத்தி, இறலி.</l>
+    </lg>
+
+    <head corresp="#Tiv4.13-head">
+      <lb n="3"/><num xml:lang="en">640.</num> 
+ மருதின் பெயர்     
+   </head>
+   <lg corresp="#Tiv4.13">
+        <l><lb n="4"/>அருச்சுனம், மருதே.</l>
+    </lg>
+கொன்றையின் பெயர்
+    <head corresp="#Tiv4.14-head">
+      <lb n="5"/><num xml:lang="en">641.</num> 
+      
+   </head>
+   <lg corresp="#Tiv4.14">
+        <l><lb n="6"/>இதழி, கடுக்கை, ஆரக்குவதம் கொன்றை.</l>
+    </lg>
+
+<pb n="207"/>      
+    <head corresp="#Tiv4.15-head">
+      <lb n="1"/><num xml:lang="en">642.</num> 
+குராவின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.15">
+        <l><lb n="2"/>கோட்டம், குடிலம், குரா எனக் கூறுவர்.</l>
+    </lg>
+
+    <head corresp="#Tiv4.16-head">
+      <lb n="3"/><num xml:lang="en">643.</num> 
+நாவலின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.16">
+        <l><lb n="4"/>சம்பு, நாவல்.</l>
+    </lg>
+
+    <head corresp="#Tiv4.17-head">
+      <lb n="5"/><num xml:lang="en">644.</num> 
+ வேம்பின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.17">
+        <l><lb n="6"/>நிம்பம், வேம்பே.</l>
+    </lg>
+
+    <head corresp="#Tiv4.18-head">
+      <lb n="7"/><num xml:lang="en">645.</num> 
+அத்தியின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.18">
+        <l><lb n="8"/>அதவும், உதும்பரமும், அத்தி ஆகும்.</l>
+    </lg>
+
+    <head corresp="#Tiv4.19-head">
+      <lb n="9"/><num xml:lang="en">646.</num> 
+புளிமாவின் பெயர்
+   </head>
+   <lg corresp="#Tiv4.19">
+        <l><lb n="10"/>ஆம்பிரம், சூதம், மாழை, புளிமா.</l>
+    </lg>
+
+<pb n="208"/>      
+    <head corresp="#Tiv4.20-head">
+      <lb n="1"/><num xml:lang="en">647.</num> 
+தேமாவின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.20">
+        <l><lb n="2"/>சூதம், சேகரம், ஆம்பிரம், கொக்கே</l>
+        <l><lb n="3"/>தீதுஇல் மரத்துஇவை தேமா ஆகும்.</l>
+    </lg>
+
+    <head corresp="#Tiv4.21-head">
+      <lb n="4"/><num xml:lang="en">648.</num> 
+இருப்பையின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.21">
+        <l><lb n="5"/>மதூகம், இருப்பை எனவகுத் தனரே.</l>
+    </lg>
+
+    <head corresp="#Tiv4.22-head">
+      <lb n="6"/><num xml:lang="en">649.</num> 
+செருந்தியின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.22">
+        <l><lb n="7"/>பஞ்சரம், செங்கோடு, செருந்திஎனப் பகர்வர்.</l>
+    </lg>
+
+    <head corresp="#Tiv4.23-head">
+      <lb n="8"/><num xml:lang="en">650.</num> 
+கோங்கின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.23">
+        <l><lb n="9"/>குயா, சூடிணர், கன்னிகாரம், கோங்கே.</l>
+    </lg>
+
+    <head corresp="#Tiv4.24-head">
+      <lb n="10"/><num xml:lang="en">651.</num> 
+பச்சிலை மரத்தின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.24">
+        <l><lb n="11"/>பசும்படி, தமாலம், பச்சிலை ஆகும்.</l>
+    </lg>
+
+<pb n="208"/>      
+    <head corresp="#Tiv4.20-head">
+      <lb n="1"/><num xml:lang="en">647.</num> 
+      
+   </head>
+   <lg corresp="#Tiv4.15">
+        <l><lb n="2"/></l>
+    </lg>
+
+    <head corresp="#Tiv4.16-head">
+      <lb n="3"/><num xml:lang="en">648.</num> 
+      
+   </head>
+   <lg corresp="#Tiv4.16">
+        <l><lb n="4"/></l>
+    </lg>
+
+    <head corresp="#Tiv4.17-head">
+      <lb n="5"/><num xml:lang="en">649.</num> 
+      
+   </head>8
+   <lg corresp="#Tiv4.17">
+        <l><lb n="6"/></l>
+    </lg>
+
+    <head corresp="#Tiv4.1-head">
+      <lb n="5"/><num xml:lang="en">650.</num> 
+      
+   </head>
+   <lg corresp="#Tiv4.18">
+        <l><lb n="6"/></l>
+    </lg>
+    <head corresp="#Tiv4.19-head">
+      <lb n="5"/><num xml:lang="en">651.</num> 
+      
+   </head>
+   <lg corresp="#Tiv4.19">
+        <l><lb n="6"/></l>
+    </lg>
+
+   </body></text></TEI>
