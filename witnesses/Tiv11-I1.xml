@@ -88,6 +88,14 @@
    <graphic url="https://iiif.archive.org/iiif/re-47779/manifest.json"/></facsimile>
   <text corresp="#I1" xml:lang="ta">
     <body>
+      <pb n="76v" facs="79"/>
+      <cb n="4"/>
+
+      <p xml:id="Tiv11.5-head"><lb n="1"/>unti yeṉṉum peyar</p>
+      <lg xml:id="Tiv11.5">
+        <l><lb n="2"/>untikop pūḷun teruruḷum yāṟum</l>
+        <l><lb n="3"/>vantuḻi yāḻkkaṇṇato ruṟuppum varaiyār</l>
+      </lg>
 
       <pb n="78r" facs="80"/>
       <cb n="3"/>
@@ -97,9 +105,17 @@
       </lg>
 
       <pb n="78v" facs="81"/>
-      <cb n="4"/>
+      <cb n="3"/>
+      <p xml:id="Tiv11.4-head"><lb n="13"/>nanta leṉṉum peyar</p>
       <lg xml:id="Tiv11.4">
-        <l><lb n="1"/>nantal keṭu mākkamu mākum</l>
+        <l><cb n="4"/><lb n="1"/>nantal keṭu mākkamu mākum</l>
+      </lg>
+
+      <pb n="80v" facs="83"/>
+      <cb n="3"/>
+      <p xml:id="Tiv11.8-head"><lb n="2"/>vemmai yeṉṉum peyar</p>
+      <lg xml:id="Tiv11.8">
+        <l><lb n="3"/>vemmai veṇṭal viraiveṉa viḷampum</l>
       </lg>
 
       <pb n="81r" facs="83"/>
@@ -108,10 +124,23 @@
         <l><lb n="2"/>cemaṅ kāva liṉpa miravupoṉ</l>
         <l><lb n="3"/>emāppu mayakkamu mema mākum</l>
       </lg>
-      <p xml:id="Tiv11.3-head"><lb n="4"/>viḻuyameṉṉum peyar</p>
+      <p xml:id="Tiv11.3-head"><lb n="4"/>viḻumameṉṉum peyar</p>
       <lg xml:id="Tiv11.3">
         <l><lb n="5"/>ciṟappuc cīrmai yiṭumpaiyim <unclear>mū</unclear>ṉṟum</l>
         <l><lb n="6"/>virikkiṉ melor viḻuma meṉpa</l>
+      </lg>
+      <p xml:id="Tiv11.6-head"><lb n="7"/>uṟai yeṉṉum peyar</p>
+      <lg xml:id="Tiv11.6">
+        <l><lb n="7"/>nīrmuta lākiya tuḷiyu maruntumutal</l>
+        <l><lb n="8"/>noynīk kiyiṉpaṅ koṭukkum poruḷum</l>
+        <l><lb n="9"/>kūṟai mācu kaḻuvu<unclear>va</unclear>r nīrum</l>
+        <l><lb n="10"/>pāluṟu piraiyuṅ kāramu moḻukalum</l>
+        <l><cb n="2"/><lb n="1"/>oriṭaic collu muṟaiyeṉa<gap reason="lost" quantity="4" unit="character"/></l>
+        </lg>
+      <p xml:id="Tiv11.7-head"><lb n="2"/>pāḻi yeṉṉum peyar</p>
+      <lg xml:id="Tiv11.7">
+        <l><lb n="3"/>uḷarum valiyu muṟaiyuñ cayaṉamum</l>
+        <l><lb n="4"/>pāḻi yeṉṉum pakarap paṭume</l>
       </lg>
     </body>
   </text>

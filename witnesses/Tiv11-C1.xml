@@ -109,6 +109,29 @@
       <lg xml:id="Tiv11.4">
        <l>nantal keṭu mākkamu mākum -</l>
       </lg>
+      <p xml:id="Tiv11.5-head">unti yeṉṉum peyar -</p>
+      <lg xml:id="Tiv11.5">
+        <l>untikop pūḻun teruruḷum yāṟum -</l>
+        <l>vantuḻiyāḻk kaṇṇa<lb n="10"/>to ruṟuppum varaiyār -</l>
+      </lg>
+      <p xml:id="Tiv11.6-head">uṟai yeṉṉum peyar -</p>
+      <lg xml:id="Tiv11.6">
+       <l>nīrmuta lākiya tuḷiyu maruntumutal -</l>
+       <l>noynīk kiyiṉpaṅ koṭukkum <lb n="11"/>poruḷum -</l>
+       <l>kūṟai mācu kaḻuvuvar nīrum -</l>
+       <l>pāluṟu piraiyuṅ kāramu moḻukalum -</l>
+       <l>vuriṭaic collu muṟaiyeṉaṟ kuriya -</l> 
+      </lg>
+      <p xml:id="Tiv11.7-head">pāḻi yeṉṉum <lb n="12"/>peyar -</p>
+      <lg xml:id="Tiv11.7">
+       <l>uḷarum valimaiyu muṟaiyuñ cayaṉamum -</l>
+        <l>pāḻi yeṉṟu pakarap paṭume -</l>
+      </lg>
+      <p xml:id="Tiv11.8-head">vemmai yeṉṉum peyar -</p>
+      <lg xml:id="Tiv11.8">
+       <l>veṇṭal viruppam viraiveṉa viḷampuvar -</l>
+      </lg>
+
     </body>
   </text>
 </TEI>
