@@ -840,7 +840,7 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
 </entry>
 </standOff><standOff corresp="#Tiv11.5" type="wordsplit">
 <interp type="alignment" select="0">10MG9MG5M2G6MG13MG7M2G11M,68MG</interp>
-<entry>
+<entry type="main">
 <form>unti</form>
 <def>navel</def>
 <gramGrp>
@@ -857,18 +857,12 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>tēr</form>
-<def>chariot</def>
+<form>tēr uruḷ-um</form>
+<def>chariot wheel</def>
+<form type="simple">tēr uruḷ</form>
+<form type="sandhi">tēruruḷ</form>
 <gramGrp>
   <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>uruḷ-um</form>
-<def>wheel</def>
-<form type="simple">uruḷ</form>
-<gramGrp>
-  <gram type="role">verbal root</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
@@ -882,7 +876,7 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
-<entry>
+<entry type="supp">
 <form>vant<c type="elided">u</c></form>
 <def>come</def>
 <form type="sandhi">vant</form>
@@ -890,7 +884,7 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
   <gram type="role">absolutive</gram>
 </gramGrp>
 </entry>
-<entry>
+<entry type="supp">
 <form>uḻi</form>
 <def>when</def>
 <gramGrp>
@@ -899,38 +893,16 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
 </gramGrp>
 </entry>
 <entry>
-<form>yāḻ<c type="geminated">k</c></form>
-<def>lute</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>kaṇṇat<c type="elided">u</c></form>
-<def>place-it</def>
-<form type="sandhi">kaṇṇat</form>
-<gramGrp>
-  <gram type="role">pronominalised noun</gram>
-  <gram type="role">neuter singular</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>ōr</form>
-<def>one</def>
-<gramGrp>
-</gramGrp>
-</entry>
-<entry>
-<form>uṟupp<c type="elided">u</c>-um</form>
-<def>part</def>
-<form type="simple">uṟuppu</form>
-<form type="sandhi">uṟupp</form>
+<form>yāḻ<c type="geminated">k</c> kaṇṇat<c type="elided">u</c> ōr uṟupp<c type="elided">u</c>-um</form>
+<def>part of a lute</def>
+<form type="simple">yāḻ kaṇṇatu ōr uṟuppu</form>
+<form type="sandhi">yāḻ<c type="geminated">k</c>kaṇṇatōruṟupp</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
-<entry>
+<entry type="supp">
 <form>varaiyār</form>
 <def>they will not exclude</def>
 <gramGrp>
@@ -940,142 +912,44 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#Tiv11.6" type="wordsplit">
-<interp type="alignment" select="0">17MG3ML17MG20MG23MG13MG8MG8MG12MG13MG6M,149MG</interp>
+<interp type="alignment" select="0">17MG3ML38MG23MG13MG8MG8MG12MG13MG6M,149MG</interp>
 <entry>
-<form>nīr</form>
-<def>water</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>mutal</form>
-<def>start</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>ākiya</form>
-<def>become</def>
-<gramGrp>
-  <gram type="role">peyareccam</gram>
-  <gram type="role">perfective aspect</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>tuḷi-<c type="glide">y</c>um</form>
-<def>drop</def>
-<form type="simple">tuḷi</form>
-<gramGrp>
-  <gram type="role">root noun</gram>
-</gramGrp>
-<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
-</entry>
-<entry>
-<form>maruntu</form>
-<def>remedy</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>mutal</form>
-<def>start</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>nōy</form>
-<def>pain</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>nīkki</form>
-<def>rejected</def>
-<form type="sandhi">nīki</form>
-<gramGrp>
-  <gram type="role">absolutive</gram>
-</gramGrp>
-</entry>
-<entry>
-<form><c type="glide">y</c>iṉpam</form>
-<def>pleasure</def>
-<form type="sandhi"><c type="glide">y</c>iṉpaṅ</form>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>koṭukkum</form>
-<def>giving</def>
-<gramGrp>
-  <gram type="role">peyareccam</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>poruḷ-um</form>
-<def>substance</def>
-<form type="simple">poruḷ</form>
+<form>nīr mutal ākiya tuḷi-~um</form>
+<def>drop of water, etc.</def>
+<form type="simple">nīr mutal ākiya tuḷi</form>
+<form type="sandhi">nīrmutalākiyatuḷiyu</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>kūṟai</form>
-<def>clothes</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>mācu</form>
-<def>stain</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>kaḻuvuvar</form>
-<def>they who remove</def>
-<gramGrp>
-  <gram type="role">participial noun</gram>
-  <gram type="role">third person</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>nīr-um</form>
-<def>water</def>
-<form type="simple">nīr</form>
+<form>maruntu mutal nōy nīkki <c type="glide">y</c>iṉpam koṭukkum poruḷ-um</form>
+<def>remedy, etc. to remove pain and give pleasure</def>
+<form type="simple">maruntu mutal nōy nīkki iṉpam koṭukkum poruḷ</form>
+<form type="sandhi">maruntumutalnōynīkki<c type="glide">y</c>iṉpaṅkoṭukkumporuḷuṅ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>pāl</form>
-<def>milk</def>
+<form>kūṟai mācu kaḻuvuvar nīr-um</form>
+<def>fluid for removing stains from clothes</def>
+<form type="simple">kūṟai mācu kaḻuvuvar nīr</form>
+<form type="sandhi">kūṟaimācukaḻuvuvarnīrum</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>uṟu</form>
-<def>have</def>
+<form>pāl uṟu purai-<c type="glide">y</c>um</form>
+<def>agent for curdling milk</def>
+<form type="simple">pāl uṟu purai</form>
+<form type="sandhi">pāluṟupurai</form>
 <gramGrp>
-  <gram type="role">verbal root</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>purai-<c type="glide">y</c>um</form>
-<def>resemble</def>
-<form type="simple">purai</form>
-<gramGrp>
-  <gram type="role">verbal root</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
@@ -1098,35 +972,23 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>ōr</form>
-<def>one</def>
-<gramGrp>
-</gramGrp>
-</entry>
-<entry>
-<form>iṭai<c type="geminated">c</c></form>
-<def>middle</def>
+<form>ōr iṭai<c type="geminated">c</c> col-<c type="geminated">l</c>um</form>
+<def>a particle</def>
+<form type="simple">ōr iṭai col</form>
+<form type="sandhi">ōriṭaic<c type="geminated">c</c>oll</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-</entry>
-<entry>
-<form>col-<c type="geminated">l</c>um</form>
-<def>word</def>
-<form type="simple">col</form>
-<gramGrp>
-  <gram type="role">root noun</gram>
-</gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
-<entry>
+<entry type="main">
 <form>uṟai</form>
 <def>drip</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
-<entry>
+<entry type="supp">
 <form><c type="glide">y</c>eṉaṟk<c type="elided">u</c></form>
 <def>for saying</def>
 <form type="sandhi"><c type="glide">y</c>eṉaṟk</form>
@@ -1135,7 +997,7 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
   <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
-<entry>
+<entry type="supp">
 <form>uriya</form>
 <def>right-they</def>
 <gramGrp>
@@ -1252,26 +1114,17 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
     </rdgGrp>
   </app>
   <app loc="31,45">
-    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #C1 #P2 #I1">
+    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #C1 #C2 #P1 #P2 #I1">
       <lem>nōynīk kiyiṉpaṅ</lem>
       <rdg type="minor" wit="#EdCc #EdC1">nōy nīkki iṉpam</rdg>
       <rdg type="minor" wit="#EdC2">nōynīkki yiṉpaṅ</rdg>
-      <rdg type="minor" wit="#C1 #I1">noynīk kiyiṉpaṅ</rdg>
+      <rdg type="minor" wit="#C1 #C2 #I1">noynīk kiyiṉpaṅ</rdg>
       <rdg type="minor" wit="#P2">noynīk kiyiṉpam</rdg>
     </rdgGrp>
     <rdgGrp select="#EdC3 #EdT1 #EdT2">
       <rdg type="main">ṉōy nīkki yiṉpaṅ</rdg>
       <rdg type="minor" wit="#EdT1">ṉōynīk kiyiṉpaṅ</rdg>
     </rdgGrp>
-    <rdg wit="#C2">noynī kiyiṉpaṅ</rdg>
-    <rdg wit="#P1">nōynīk kiyiṉpaṅ</rdg>
-  </app>
-  <app loc="45,53">
-    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdC3 #EdT #C1 #C2 #P2 #I1">
-      <lem>koṭukkum</lem>
-      <rdg type="minor" wit="#EdT1">koṭuk<lb n="21"/>kum</rdg>
-    </rdgGrp>
-    <rdg wit="#P1">koṭukkum</rdg>
   </app>
   <app loc="53,60">
     <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdC3 #EdT #C1 #C2 #P1 #I1">
@@ -1338,10 +1191,6 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
     </rdgGrp>
     <rdg wit="#EdT1">mōriṭac</rdg>
     <rdg wit="#C1">m - vuriṭaic</rdg>
-  </app>
-  <app loc="119,124">
-    <lem wit="#EdCc #EdC1 #EdC2 #EdC3 #EdT #C1 #C2 #P2 #I1">collu</lem>
-    <rdg wit="#P1">collu</rdg>
   </app>
   <app loc="124,134">
     <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdC3 #EdT #C1 #C2 #P1 #P2">
@@ -1467,4 +1316,111 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
     <rdg wit="#EdC3-mura">paṭumē.</rdg>
     <rdg wit="#I1">viḷampum</rdg>
   </app>
-</listApp></standOff></TEI>
+</listApp></standOff><standOff corresp="#Tiv11.7" type="wordsplit">
+<interp type="alignment" select="0">2MG6MG10MG9MG23MG2M,56MG</interp>
+<entry>
+<form>ūr-um</form>
+<def>village</def>
+<form type="simple">ūr</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>vali-<c type="glide">y</c>um</form>
+<def>strength</def>
+<form type="simple">vali</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>uṟai <c type="glide">y</c>uḷ-um</form>
+<def>abode</def>
+<form type="simple">uṟai uḷ</form>
+<form type="sandhi">uṟai<c type="glide">y</c>uḷ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>cayaṉam-um</form>
+<def>couch</def>
+<form type="simple">cayaṉam</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry type="main">
+<form>pāḻi</form>
+<def>village</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry type="supp">
+<form><c type="glide">y</c>eṉṟu</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry type="supp">
+<form>pakara<c type="geminated">p</c></form>
+<def>announce</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry type="supp">
+<form>paṭum-ē</form>
+<def>happens</def>
+<form type="simple">paṭum</form>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#Tiv11.8" type="wordsplit">
+<interp type="alignment" select="0">18MG14M,32MG</interp>
+<entry type="main">
+<form>vemmai</form>
+<def>hotness</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṇṭal</form>
+<def>desire</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viraiv<c type="elided">u</c></form>
+<def>haste</def>
+<form type="sandhi">viraiv</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry type="supp">
+<form>eṉa</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry type="supp">
+<form>viḷampuvar</form>
+<def>they say</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
