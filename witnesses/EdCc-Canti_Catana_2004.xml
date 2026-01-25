@@ -89,6 +89,16 @@
     <graphic url="https://iiif.archive.org/iiif/dli.jZY9lup2kZl6TuXGlZQdjZp7kZUy.TVA_BOK_0002448/manifest.json" facs="201"/></facsimile>
   <text corresp="#EdCc" xml:lang="ta">
     <body>
+      <pb n="94" facs="102"/>
+      <cb n="2"/>
+
+      <head type="sub" xml:id="Tiv11.5-head"><lb n="24"/>unti</head>
+      <lg xml:id="Tiv11.5">
+        <l><lb n="25"/>unti, koppūḻum, tēr uruḷum, yāṟum,</l>
+        <l><lb n="26"/>(vantuḻi) yāḻkkaṇṇatu ōr uṟuppum (varaiyār).</l>
+      </lg>
+      <p><lb n="27"/>(<num xml:lang="en">4</num> peyarkaḷ)  <num xml:lang="en">41</num></p>
+
       <pb n="97" facs="105"/>
       <cb n="2"/>
 
@@ -107,8 +117,27 @@
       </lg>
       <p><lb n="6"/>(<num xml:lang="en">2</num> peyarkaḷ)  <num xml:lang="en">136</num></p>
 
+      <pb n="102" facs="110"/>
+      <cb n="1"/>
+
+      <head type="sub" xml:id="Tiv11.8-head"><lb n="4"/>vemmai</head>
+      <lg xml:id="Tiv11.8">
+        <l><lb n="5"/>vemmai, vēṭkai, viraivu (eṉa viḷampuvar).</l>
+      </lg>
+      <p><lb n="6"/>(<num xml:lang="en">2</num> peyarkaḷ)  <num xml:lang="en">228</num></p>
+
       <pb n="103" facs="111"/>
       <cb n="1"/>
+
+      <head type="sub" xml:id="Tiv11.1-head"><lb n="9"/>uṟai</head>
+      <lg xml:id="Tiv11.6">
+        <l><lb n="10"/>nīr mutalākiya tuḷiyum, maruntu mutal,</l>
+        <l><lb n="11"/>nōy nīkki iṉpam koṭukkum poruḷum,</l>
+        <l><lb n="12"/>kūṟai mācu kaḻuvu uvar nīrum,</l>
+        <l><lb n="13"/>pāl uṟu piṟaiyum, kāramum, oḻukalum,</l>
+        <l><lb n="14"/>ōr iṭaic collum, uṟai eṉaṟku uriya.</l>
+      </lg>
+      <p><lb n="15"/>(<num xml:lang="en">8</num> peyarkaḷ)  <num xml:lang="en">251</num></p>
 
       <head type="sub" xml:id="Tiv11.1-head"><lb n="28"/>ēmam</head>
       <lg xml:id="Tiv11.1">
@@ -117,6 +146,16 @@
       </lg>
       <p><lb n="31"/>(<num xml:lang="en">7</num> peyarkaḷ)  <num xml:lang="en">255</num></p>
 
+      <pb n="107" facs="115"/>
+      <cb n="1"/>
+      <head type="sub" xml:id="Tiv11.7-head"><lb n="5"/>pāḻi</head>
+      <lg xml:id="Tiv11.7">
+        <l><lb n="6"/>ūrum, valiyum, uṟaiyuḷum, cayaṉamum,</l>
+        <l><lb n="7"/>pāḻi (eṉṟu pakarppaṭumē).</l>
+      </lg>
+      <p>(<num xml:lang="en">4</num> peyarkaḷ)  <num xml:lang="en">337</num></p>
+
+      <p><lb n="21"/>(<num xml:lang="en">3</num> peyarkaḷ)  <num xml:lang="en">372</num></p>
       <pb n="108" facs="116"/>
       <cb n="2"/>
       <head type="sub" xml:id="Tiv11.3-head"><lb n="18"/>viḻumam</head>

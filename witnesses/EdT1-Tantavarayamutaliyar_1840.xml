@@ -89,6 +89,14 @@
     <graphic url="https://iiif.archive.org/iiif/tva-bok-0028609/manifest.json" facs="201"/></facsimile>
   <text corresp="#EdT1" xml:lang="ta">
     <body>
+      <pb n="186" facs="185"/>
+      <p xml:id="Tiv11.5-head"><lb n="1"/>unti yeṉṉum peyar―</p>
+      <lg xml:id="Tiv11.5">
+        <l>untikop pū<lb n="2"/>ḻun teruruḷum yāṟum,</l>
+        <l>vantuḻi yāḻkkaṇ <lb n="3"/>ṇatōru ṟuppum varaiyār.</l>
+      </lg>
+      <p><g ref="#āka"/> 4.</p>
+
       <pb n="191" facs="190"/>
       <p xml:id="Tiv11.2-head"><lb n="11"/>ceḻumai yeṉṉum peyar―</p>
       <lg xml:id="Tiv11.2">
@@ -103,11 +111,36 @@
       </lg>
       <p><g ref="#āka"/> 2.</p>
 
+      <pb n="199" facs="198"/>
+      <p xml:id="Tiv11.8-head"><lb n="9"/>vemmai yeṉṉum peyar–</p>
+      <lg xml:id="Tiv11.8">
+        <l>vemmai <lb n="10"/>vēṭkai viraiveṉa viḷampuvar.</l>
+      </lg>
+      <p><g ref="#āka"/> 2.</p>
+
+      <pb n="201" facs="200"/>
+      <p xml:id="Tiv11.6-head"><lb n="19"/>uṟai yeṉṉum peyar—</p>
+      <lg xml:id="Tiv11.6">
+        <l>nīrmuta lākiya <lb n="20"/>tuḷiyu maruntumuta,</l>
+        <l>ṉōynīk kiyiṉpaṅ koṭuk<lb n="21"/>kum poruḷuṅ,</l>
+        <l>kūṟai mācu kaḻuvuvar nīrum,</l>
+        <l>pā<lb n="22"/>luṟu piraiyuṅ kāramu moḻukalu,</l>
+        <l>mōriṭac collu muṟaiyeṉaṟ kuriya.</l>
+      </lg>
+      <p><g ref="#āka"/> 8.</p>
+
       <pb n="202" facs="201"/>
       <p xml:id="Tiv11.1-head"><lb n="3"/>ēmameṉṉum peyar—</p>
       <lg xml:id="Tiv11.1">
           <l>cēmaṅ kāva liṉpa mira<lb n="4"/>vupoṉ,</l>
           <l>ṉēmāppu mayakka mēma mākum.  7.</l>
+      </lg>
+
+      <pb n="210" facs="209"/>
+      <p xml:id="Tiv11.7-head"><lb n="1"/>pāḻi yeṉṉum peyar–</p>
+      <lg xml:id="Tiv11.7">
+        <l>ūrum valiyu <lb n="2"/>muṟaiyuḷuñ cayanamum,</l>
+        <l>pāḻi yeṉṟu pakarap paṭumē.</l>
       </lg>
 
       <pb n="213" facs="212"/>

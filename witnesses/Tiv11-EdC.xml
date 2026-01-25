@@ -126,6 +126,57 @@
     </lg>
     <p><lb n="24"/>nantal eṉṉum peyar: <num xml:lang="en">(2)</num></p>
     <p><lb n="25"/><num xml:lang="en">1.</num> kēṭu, <num xml:lang="en">2.</num> ākkam.</p>
+
+    <head corresp="#Tiv11.5-head"><pb n="650" facs="138"/><lb n="1"/><num xml:lang="en">1906.</num> unti eṉṉum peyar</head>
+    <lg corresp="#Tiv11.5">
+        <l><lb n="2"/>unti, kop pūḻum, tēruruḷum, yāṟum,</l>
+        <l><lb n="3"/>(vantuḻi) yāḻk kaṇṇatōr uṟuppum varaiyār.</l>
+    </lg>
+    <p><lb n="4"/>unti eṉṉum peyar: <num xml:lang="en">(4)</num></p>
+      <p><lb n="5"/><num xml:lang="en">1.</num> koppūḻ, <num xml:lang="en">2.</num> tēruruḷ, <num xml:lang="en">3.</num> yāṟu, <num xml:lang="en">4.</num> yāḻk <lb n="6"/>kaṇṇatōr uṟuppu.</p>
+
+    <head corresp="#Tiv11.6-head"><lb n="7"/><num xml:lang="en">1907.</num> uṟai eṉṉum peyar</head>
+    <lg corresp="#Tiv11.6">
+        <l><lb n="8"/>nīrmuta lākiya tuḷiyum, maruntumutal</l>
+        <l><lb n="9"/>nōy nīkki iṉpam koṭukkum poruḷum,</l>
+        <l><lb n="10"/>kūṟai mācu kaḻuvuvar nīrum,</l>
+        <l><lb n="11"/>pāluṟu piraiyum, kāramum, <app><lem>oḻukalum</lem><rdg wit="#p1">oḻukkamum</rdg></app>,</l>
+        <l><lb n="12"/>ōr·iṭaic collum uṟai eṉaṟku uriya.</l>
+    </lg>
+    <p><lb n="13"/>uṟai eṉṉum peyar: <num xml:lang="en">(7)</num></p>
+      <p><lb n="14"/><num xml:lang="en">1.</num> nīr mutalākiya tuḷi, <num xml:lang="en">2.</num> maruntu mutal nōy nīkki <lb n="15"/>iṉpam koṭukkum poruḷ, <num xml:lang="en">3.</num> kūṟai mācu kaḻuvuvar nīr, <lb n="16"/><num xml:lang="en">4.</num> pāluṟu pirai, <num xml:lang="en">5.</num> kāram, <num xml:lang="en">6</num>oḻukal, <num xml:lang="en">7.</num> ōr iṭaic <lb n="17"/>col.</p>
+      <p><lb n="18"/>pāṭavēṟupāṭu ― viḷakkam</p>
+      <p><lb n="19"/><num xml:lang="en">4:4</num> oḻukkamum</p>
+
+    <head corresp="#Tiv11.7-head"><lb n="20"/><num xml:lang="en">1908.</num> pāḻi eṉṉum peyar</head>
+    <lg corresp="#Tiv11.7">
+        <l><lb n="21"/>ūrum, <app><lem>valiyum</lem><rdg wit="#p1">valimaiyum</rdg></app>, uṟaiyuḷum, cayaṉamum,</l>
+        <l><lb n="22"/>pāḻi eṉṟu pakarap paṭumē.</l>
+    </lg>
+      <p><lb n="23"/>pāḻi eṉṉum peyar: <num xml:lang="en">(4)</num></p>
+    <p><lb n="24"/><num xml:lang="en">1.</num> ūr, <num xml:lang="en">2.</num> vali, <num xml:lang="en">3.</num> uṟaiyuḷ, <num xml:lang="en">4.</num> cayaṉam.</p>
+      <p><lb n="25"/>pāṭavēṟupāṭu ― viḷakkam</p>
+      <p><lb n="26"/><num xml:lang="en">1:2</num> valimaiyum.</p>
+
+    <head corresp="#Tiv11.8-head"><lb n="27"/><num xml:lang="en">1909.</num> vemmai eṉṉum peyar</head>
+    <lg corresp="#Tiv11.8">
+        <l><lb n="28"/>vemmai, vēṇṭal, viraivu eṉa viḷampuvar.</l>
+    </lg>
+    <p><lb n="29"/>vemmai eṉṉum peyar: <num xml:lang="en">(2)</num></p>
+    <p><lb n="30"/><num xml:lang="en">1.</num> vēṇṭal, <num xml:lang="en">2.</num> viraivu.</p>
+    <!--
+
+    <head corresp="#Tiv11.-head"><lb n=""/><num xml:lang="en">.</num>  eṉṉum peyar</head>
+    <lg corresp="#Tiv11.">
+        <l><lb n=""/></l>
+        <l><lb n=""/>.</l>
+    </lg>
+    <p><lb n=""/> eṉṉum peyar: <num xml:lang="en">()</num></p>
+    <p><lb n=""/><num xml:lang="en">1.</num> , <num xml:lang="en">2.</num> , <num xml:lang="en">3.</num> , <num xml:lang="en">4.</num> .</p>
+    <p><lb n=""/>pāṭavēṟupāṭu ― viḷakkam</p>
+    <p><lb n=""/><num xml:lang="en"></num> .</p>
+
+    -->
   </body>
   </text>
   <text corresp="#EdC2" xml:lang="ta">
@@ -133,9 +184,20 @@
 
     <!-- second version -->
 
+    <pb facs="251" n="763"/>
+      <lg corresp="#Tiv11.5">
+        <l><lb n="3"/><num xml:lang="en">43.</num> unti koppūḻum tēruruḷum yāṟum</l>
+        <l><lb n="4"/>vantuḻi yāḻkkaṇṇatō ruṟuppum varaiyār.</l>
+      </lg>
+
     <pb facs="254" n="766"/>
       <lg corresp="#Tiv11.4">
-        <l><lb n="13"/><num xml:lang="en">134.</num>nantal kēṭum ākkamu mākum.</l>
+        <l><lb n="13"/><num xml:lang="en">134.</num> nantal kēṭum ākkamu mākum.</l>
+      </lg>
+
+    <pb facs="267" n="769"/>
+      <lg corresp="#Tiv11.8">
+        <l><lb n="10"/><num xml:lang="en">218.</num> vemmai vēṇṭal viraiveṉ viḷampuvar.</l>
       </lg>
 
     <pb facs="258" n="770"/>
@@ -148,6 +210,18 @@
         <l><lb n="2"/><num xml:lang="en">2.</num> ciṟappuc cīrmai yiṭumpaiyim mūṉṟum</l>
         <l><lb n="3"/>virikkiṉ nūlōr viḻuma meṉpa.</l>
       </lg>
+      <lg corresp="#Tiv11.6">
+       <l><lb n="4"/><num xml:lang="en">3.</num> nīrmutalākiya tuḷiyu maruntumutal</l>
+       <l><lb n="5"/>nōynīkki yiṉpaṅ koṭukkum poruḷum</l>
+       <l><lb n="6"/>kūṟai mācu kaḻuvuvar nīrum</l>
+       <l><lb n="7"/>pāluṟu piraiyuṅ kāramum oḻukalum</l>
+       <l><lb n="8"/>oriṭaic collum uṟaiyeṉaṟ kuriya.</l>
+      </lg>
+      <lg corresp="#Tiv11.7">
+       <l><lb n="9"/><num xml:lang="en">4.</num>ūrum valiyum uṟaiyuḷuñ cayaṉamum</l>
+       <l><lb n="10"/>pāḻi yeṉṟu pakarap paṭumē.</l>
+      </lg>
+
     </body>
   </text>
   <text corresp="#EdC3" xml:lang="ta">
@@ -215,6 +289,25 @@
   </lg>
   <p><lb n="23"/><num xml:lang="en">2</num> āṅka.</p>
 
+  <pb n="790" facs="278"/>
+
+  <head corresp="#Tiv11.5-head"><lb n="1"/><num xml:lang="en">52.</num> unti eṉṉum peyar</head>
+  <lg corresp="#Tiv11.5">
+    <l><lb n="2"/>unti koppūḻum tēruruḷum yāṟum</l>
+    <l><lb n="3"/>vantuḻi yāḻkkaṇṇatō ruṟuppum varaiyār</l>
+  </lg>
+
+  <pb n="791" facs="279"/>
+
+  <head corresp="#Tiv11.6-head"><lb n="1"/><num xml:lang="en">58.</num> uṟai eṉṉum peyar</head>
+  <lg corresp="#Tiv11.6">
+    <l><lb n="2"/>nīrmuta lākiya tuḷiyum maruntum</l>
+    <l><lb n="3"/>mutaṉōy nīkki yiṉpaṅ koṭukkum</l>
+    <l><lb n="4"/>poruḷum kūṟai mācu kaḻuvuvar nīrum</l>
+    <l><lb n="5"/>pāluṟu piraiyum kāramum oḻukalum</l>
+    <l><lb n="6"/>oriṭaic collum uṟaiyeṉaṟ kuriya.</l>
+  </lg>
+
   <pb n="793" facs="281"/>
 
   <head><lb n="11"/><num xml:lang="en">71.</num> ēmam eṉṉum peyar</head>
@@ -237,6 +330,14 @@
     <l><lb n="5"/>nantal kēṭum ākkamum ākum.</l>
   </lg>
 
+  <pb n="824" facs="312"/>
+
+  <head corresp="#Tiv11.7-head"><lb n="4"/><num xml:lang="en">255.</num> pāḻi eṉṉum peyar</head>
+  <lg corresp="#Tiv11.7">
+    <l><lb n="5"/>ūrum valiyum uṟaiyuḷum cayaṉamum</l>
+    <l><lb n="6"/>pāḻi eṉṟu pakarap paṭumē.</l>
+  </lg>
+
   <pb n="840" facs="328"/>
 
   <head corresp="#Tiv11.3-head"><lb n="1"/><num xml:lang="en">346.</num> viḻumam eṉṉum peyar</head>
@@ -244,5 +345,11 @@
     <l><lb n="2"/>ciṟappuc cīrmai iḷumpai immūṉṟum</l>
     <l><lb n="3"/>virikkiṉ mēlōr viḻumam eṉpa.</l>
   </lg>
+
+  <head corresp="#Tiv11.8-head"><lb n="17"/><num xml:lang="en">352.</num> vemmai eṉṉum peyar</head>
+  <lg corresp="#Tiv11.8">
+    <l><lb n="18"/>vemmai vēṇṭal <app><lem>viraivu eṉa viḷampular</lem><rdg wit="#mura">viraiveṉap paṭumē</rdg></app>.</l>
+  </lg>
+      <p><lb n="19"/><num xml:lang="en">3-4</num> viraiveṉap paṭumē (mu.rā)</p>
 
 </body></text></TEI>
