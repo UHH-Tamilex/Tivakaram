@@ -570,45 +570,187 @@
     </lg>
 
 <pb n="217"/>      
-    <head corresp="#Tiv4.20-head">
-      <lb n="1"/><num xml:lang="en">647.</num> 
+    <head corresp="#Tiv4.58-head">
+      <lb n="1"/><num xml:lang="en">685.</num> 
+அகத்தியின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.58">
+        <l><lb n="2"/>அச்சம் அகத்தி ஆகும் என்ப.</l>
+    </lg>
+
+    <head corresp="#Tiv4.59-head">
+      <lb n="3"/><num xml:lang="en">686.</num> 
+ எருக்கின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.59">
+        <l><lb n="4"/>அருக்கம், எருக்கே.</l>
+    </lg>
+
+    <head corresp="#Tiv4.60-head">
+      <lb n="5"/><num xml:lang="en">687.</num> 
+களாவின் பெயர்     
+   </head>
+   <lg corresp="#Tiv4.60">
+        <l><lb n="6"/>களம், களா வே.</l>
+    </lg>
+ 
+<pb n="218"/>      
+    <head corresp="#Tiv4.61-head">
+      <lb n="1"/><num xml:lang="en">688.</num> 
+இலந்தையின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.61">
+        <l><lb n="2"/>இரத்தி, இலந்தை என்னக் கூறுவர்.</l>
+    </lg>
+
+    <head corresp="#Tiv4.62-head">
+      <lb n="3"/><num xml:lang="en">689.</num> 
+காயாவின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.62">
+        <l><lb n="4"/>காசை, பூவை, காயா ஆகும்.</l>
+    </lg>
+
+    <head corresp="#Tiv4.63-head">
+      <lb n="5"/><num xml:lang="en">690.</num> 
+நறவமரத்தின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.63">
+        <l><lb n="6"/>நறவம், சுள்ளி.</l>
+    </lg>
+
+    <head corresp="#Tiv4.64-head">
+      <lb n="7"/><num xml:lang="en">691.</num> 
+ஞாழலின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.64">
+        <l><lb n="8"/>நாகம், ஞாழல்.</l>
+    </lg>
+
+    <head corresp="#Tiv4.65-head">
+      <lb n="9"/><num xml:lang="en">692.</num> 
+புன்கின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.65">
+        <l><lb n="10"/நத்த மாலம், புன்கு என நவில்வர்.></l>
+    </lg>
+    
+<pb n="219"/>      
+    <head corresp="#Tiv4.66-head">
+      <lb n="1"/><num xml:lang="en">693.</num> 
+குங்கும மரத்தின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.66">
+        <l><lb n="2"/>மரவம், துருக்கம், குங்குமம் ஆகும்.</l>
+    </lg>
+
+    <head corresp="#Tiv4.67-head">
+      <lb n="3"/><num xml:lang="en">694.</num> 
+தணக்கின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.67">
+        <l><lb n="4"/>நுணவை, தணக்கே.</l>
+    </lg>
+
+    <head corresp="#Tiv4.68-head">
+      <lb n="5"/><num xml:lang="en">695.</num> 
+ஓடைமரத்தின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.68">
+        <l><lb n="6"/>உலவை, ஓடை.</l>
+    </lg>
+
+<pb n="220"/>      
+    <head corresp="#Tiv4.69-head">
+      <lb n="1"/><num xml:lang="en">696.</num> 
+ ஒடுவை மரத்தின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.69">
+        <l><lb n="2"/>ஒடுவை, உடுப்பை.</l>
+    </lg>
+
+    <head corresp="#Tiv4.70-head">
+      <lb n="3"/><num xml:lang="en">697.</num> 
+உன்னமரத்தின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.70">
+        <l><lb n="4"/>உன்னம், உழிஞ்சில்.</l>
+    </lg>
+
+    <head corresp="#Tiv4.71-head">
+      <lb n="5"/><num xml:lang="en">698.</num> 
+ஆண்மரத்தின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.71">
+        <l><lb n="6"/>எகினம், செம்மரம் ஆண்மரம் என்ப.</l>
+    </lg>
+
+    <head corresp="#Tiv4.72-head">
+      <lb n="7"/><num xml:lang="en">699.</num> 
+கமுகின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.72">
+        <l><lb n="8"/>கந்தி, பூகம், பூதகம், கமுகே.</l>
+    </lg>
+
+<pb n="221"/>      
+    <head corresp="#Tiv4.66-head">
+      <lb n="1"/><num xml:lang="en">693.</num> 
       
    </head>
-   <lg corresp="#Tiv4.15">
+   <lg corresp="#Tiv4.66">
         <l><lb n="2"/></l>
     </lg>
 
-    <head corresp="#Tiv4.16-head">
-      <lb n="3"/><num xml:lang="en">648.</num> 
+    <head corresp="#Tiv4.67-head">
+      <lb n="3"/><num xml:lang="en">694.</num> 
       
    </head>
-   <lg corresp="#Tiv4.16">
+   <lg corresp="#Tiv4.67">
         <l><lb n="4"/></l>
     </lg>
 
-    <head corresp="#Tiv4.17-head">
-      <lb n="5"/><num xml:lang="en">649.</num> 
+    <head corresp="#Tiv4.68-head">
+      <lb n="5"/><num xml:lang="en">695.</num> 
       
-   </head>8
-   <lg corresp="#Tiv4.17">
+   </head>
+   <lg corresp="#Tiv4.68">
         <l><lb n="6"/></l>
     </lg>
 
-    <head corresp="#Tiv4.1-head">
-      <lb n="5"/><num xml:lang="en">650.</num> 
+<pb n="222"/>      
+    <head corresp="#Tiv4.69-head">
+      <lb n="1"/><num xml:lang="en">696.</num> 
       
    </head>
-   <lg corresp="#Tiv4.18">
+   <lg corresp="#Tiv4.69">
+        <l><lb n="2"/></l>
+    </lg>
+
+    <head corresp="#Tiv4.70-head">
+      <lb n="3"/><num xml:lang="en">697.</num> 
+      
+   </head>
+   <lg corresp="#Tiv4.70">
+        <l><lb n="4"/></l>
+    </lg>
+
+    <head corresp="#Tiv4.71-head">
+      <lb n="5"/><num xml:lang="en">698.</num> 
+      
+   </head>
+   <lg corresp="#Tiv4.71">
         <l><lb n="6"/></l>
     </lg>
 
-    <head corresp="#Tiv4.19-head">
-      <lb n="5"/><num xml:lang="en">651.</num> 
+    <head corresp="#Tiv4.72-head">
+      <lb n="7"/><num xml:lang="en">699.</num> 
       
    </head>
-   <lg corresp="#Tiv4.19">
-        <l><lb n="6"/></l>
+   <lg corresp="#Tiv4.72">
+        <l><lb n="8"/></l>
     </lg>
-    </body>
+
+   </body>
   </text>
 </TEI>
