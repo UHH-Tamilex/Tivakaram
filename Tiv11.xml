@@ -82,16 +82,16 @@
                 <expan><title xml:lang="ta">Tivākaram</title> critical edition, third version</expan>
                 <listWit>
                   <witness xml:id="EdC3-p1" select="#p1">
-                    <abbr type="siglum">EdC3-p1</abbr>
-                    <expan><title xml:lang="ta">Tivākaram</title> critical edition [witness p1]</expan>
+                    <abbr>Ed<hi rend="superscript">C</hi><hi rend="subscript">3</hi>-p</abbr>
+                    <expan><title xml:lang="ta">Tivākaram</title> critical edition [variant reading]</expan>
                   </witness>
                   <witness xml:id="EdC3-accu" select="#accu">
-                    <abbr type="siglum">EdC3-accu</abbr>
-                    <expan><title xml:lang="ta">Tivākaram</title> critical edition [witness accu]</expan>
+                    <abbr>Ed<hi rend="superscript">C</hi><hi rend="subscript">3</hi>-accu.</abbr>
+                    <expan><title xml:lang="ta">Tivākaram</title> critical edition [witness accu.]</expan>
                   </witness>
                   <witness xml:id="EdC3-mura" select="#mura">
-                    <abbr type="siglum">EdC3-mura</abbr>
-                    <expan><title xml:lang="ta">Tivākaram</title> critical edition [witness mura]</expan>
+                    <abbr>Ed<hi rend="superscript">C</hi><hi rend="subscript">3</hi>-mu.rā.</abbr>
+                    <expan><title xml:lang="ta">Tivākaram</title> critical edition [witness mu.rā.]</expan>
                   </witness>
                 </listWit>
               </witness>
@@ -178,13 +178,63 @@
         <div rend="parallel">
         <lg xml:id="Tiv11.4">
           <l>nantal kēṭu mākkamu mākum.</l>
-          <l/>
         </lg>
         <lg xml:lang="en">
           <l><foreign xml:lang="ta">Nantal</foreign> is loss and gain.</l>
         </lg>
         </div>
 
+        <head type="sub" xml:id="Tiv11.5-head"><num xml:lang="en">5</num>. <term xml:lang="ta">unti yeṉṉum peyar</term></head>
+        <div rend="parallel">
+        <lg xml:id="Tiv11.5">
+          <l>untikop pūḻun tēruruḷum yāṟum</l>
+          <l>vantuḻi yāḻkkaṇṇatō ruṟuppum varaiyār.</l>
+        </lg>
+        <lg xml:lang="en">
+          <l><foreign xml:lang="ta">Unti</foreign> occurs as the navel, the wheel of a chariot, or a river;</l>
+          <l>nor do they exclude a part of a <foreign xml:lang="ta">yāḻ</foreign>.</l>
+        </lg>
+        </div>
+
+        <head type="sub" xml:id="Tiv11.6-head"><num xml:lang="en">6</num>. <term xml:lang="ta">uṟai yeṉṉum peyar</term></head>
+        <div rend="parallel">
+        <lg xml:id="Tiv11.6">
+          <l>nīrmuta lākiya tuḷiyu maruntumutal</l>
+          <l>nōynīk kiyiṉpaṅ koṭukkum poruḷuṅ</l>
+          <l>kūṟai mācu kaḻuvuvar nīrum</l>
+          <l>pāluṟu puraiyuṅ kāramu moḻukalu</l>
+          <l>mōriṭaic collu muṟaiyeṉaṟ kuriya.</l>
+        </lg>
+        <lg xml:lang="en">
+          <l>A drop — of water or otherwise, a remedy — or something</l>
+          <l rend="indent">that removes pain and gives pleasure,</l>
+          <l>liquid they use to wash a stain out of clothes,</l>
+          <l>a ferment to curdle milk, a caustic agent, a drip,</l>
+          <l>or [used as] a particle<note place="foot"><foreign xml:lang="ta">Uṟai</foreign> does not appear in the <title xml:lang="ta">Tolkāppiyam Iṭaiyiyal</title> or it's commentaries as a particle.</note> ― these are suitable for expressing <foreign xml:lang="ta">uṟai</foreign>.</l>
+        </lg>
+        </div>
+
+      <head type="sub" xml:id="Tiv11.7-head"><num xml:lang="en">7</num>. <term xml:lang="ta">pāḻi yeṉṉum peyar</term></head>
+      <div rend="parallel">
+        <lg xml:id="Tiv11.7">
+          <l>ūrum valiyu muṟaiyuḷuñ cayaṉamum</l>
+          <l>pāḻi yeṉṟu pakarap paṭumē.</l>  
+        </lg>
+        <lg xml:lang="en">
+          <l>A village, strength, an abode, a couch ―</l>
+          <l><foreign xml:lang="ta">pāḻi</foreign> is thus declared.</l>
+        </lg>
+      </div>
+
+      <head type="sub" xml:id="Tiv11.8-head"><num xml:lang="en">8</num>. <term xml:lang="ta">vemmai yeṉṉum peyar</term></head>
+      <div rend="parallel">
+        <lg xml:id="Tiv11.8">
+          <l>vemmai vēṇṭal viraiveṉa viḷampuvar.</l>
+        </lg>
+        <lg xml:lang="en">
+          <l><foreign xml:lang="ta">Vemmai</foreign>, they say, is desire and haste.</l>
+        </lg>
+      </div>
         <head type="sub"><num xml:lang="en">2273</num>. <term xml:lang="ta">toyyil eṉṉum peyar</term></head>
         <div rend="parallel">
         <lg xml:id="Tiv11.372">
@@ -344,7 +394,6 @@
 <standOff corresp="#Tiv11.3" type="notes1">
     <note n="1" xml:lang="en">The reading <foreign xml:lang="ta">ṉantal</foreign> at the beginning of the next verse in <abbr corresp="#P2"/> suggests that <foreign xml:lang="ta">eṉpa</foreign> here may have been read as <foreign xml:lang="ta">eṉpaṉ</foreign>.</note>
   </standOff>
-
 <standOff corresp="#Tiv11.372" type="notes1">
 <note xml:lang="en" target="#Tiv2273-note1">The critical edition reads <foreign xml:lang="ta">uḻavunīril</foreign> together, understanding something like <q>in ploughing water</q>. This perhaps works better with the variant reading <foreign xml:lang="ta">uḻavunilattil</foreign>, <q>in ploughed land</q>. However, as one variant reading at the end of line 2 shows (<foreign xml:lang="ta-Latn">eṉa vaintun</foreign>), the first two lines have been interpreted as containing 5 items. Moreover, <foreign xml:lang="ta-Latn">toyyal</foreign> is given as a synonym for <foreign xml:lang="ta-Latn">uḻavu</foreign> in <title xml:lang="ta">Cūṭāmaṇi</title> <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZp7kZUy.TVA_BOK_0002448/page/411/mode/1up">5.61</ref>. The variant reading of <foreign xml:lang="ta-Latn">toyyal</foreign> for <foreign xml:lang="ta-Latn">toyyil</foreign> is not recorded in the critical edition, but it is found in <abbr corresp="#BnF239"/>.</note>
 </standOff>
@@ -787,6 +836,591 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
 <def>becomes</def>
 <gramGrp>
   <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#Tiv11.5" type="wordsplit">
+<interp type="alignment" select="0">10MG9MG5M2G6MG13MG7M2G11M,68MG</interp>
+<entry type="main">
+<form>unti</form>
+<def>navel</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koppūḻ-um</form>
+<def>navel</def>
+<form type="simple">koppūḻ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>tēr uruḷ-um</form>
+<def>chariot wheel</def>
+<form type="simple">tēr uruḷ</form>
+<form type="sandhi">tēruruḷ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>yāṟ<c type="elided">u</c>-um</form>
+<def>river</def>
+<form type="simple">yāṟu</form>
+<form type="sandhi">yāṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry type="supp">
+<form>vant<c type="elided">u</c></form>
+<def>come</def>
+<form type="sandhi">vant</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry type="supp">
+<form>uḻi</form>
+<def>when</def>
+<gramGrp>
+  <gram type="role">adverb</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yāḻ<c type="geminated">k</c> kaṇṇat<c type="elided">u</c> ōr uṟupp<c type="elided">u</c>-um</form>
+<def>part of a lute</def>
+<form type="simple">yāḻ kaṇṇatu ōr uṟuppu</form>
+<form type="sandhi">yāḻ<c type="geminated">k</c>kaṇṇatōruṟupp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry type="supp">
+<form>varaiyār</form>
+<def>they will not exclude</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#Tiv11.6" type="wordsplit">
+<interp type="alignment" select="0">17MG3ML38MG23MG13MG8MG8MG12MG13MG6M,149MG</interp>
+<entry>
+<form>nīr mutal ākiya tuḷi-~um</form>
+<def>drop of water, etc.</def>
+<form type="simple">nīr mutal ākiya tuḷi</form>
+<form type="sandhi">nīrmutalākiyatuḷiyu</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>maruntu mutal nōy nīkki <c type="glide">y</c>iṉpam koṭukkum poruḷ-um</form>
+<def>remedy, etc. to remove pain and give pleasure</def>
+<form type="simple">maruntu mutal nōy nīkki iṉpam koṭukkum poruḷ</form>
+<form type="sandhi">maruntumutalnōynīkki<c type="glide">y</c>iṉpaṅkoṭukkumporuḷuṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kūṟai mācu kaḻuvuvar nīr-um</form>
+<def>fluid for removing stains from clothes</def>
+<form type="simple">kūṟai mācu kaḻuvuvar nīr</form>
+<form type="sandhi">kūṟaimācukaḻuvuvarnīrum</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>pāl uṟu purai-<c type="glide">y</c>um</form>
+<def>agent for curdling milk</def>
+<form type="simple">pāl uṟu purai</form>
+<form type="sandhi">pāluṟupurai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kāram-um</form>
+<def>caustic agent</def>
+<form type="simple">kāram</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>oḻukal-um</form>
+<def>flowing</def>
+<form type="simple">oḻukal</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>ōr iṭai<c type="geminated">c</c> col-<c type="geminated">l</c>um</form>
+<def>a particle</def>
+<form type="simple">ōr iṭai col</form>
+<form type="sandhi">ōriṭaic<c type="geminated">c</c>oll</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry type="main">
+<form>uṟai</form>
+<def>drip</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry type="supp">
+<form><c type="glide">y</c>eṉaṟk<c type="elided">u</c></form>
+<def>for saying</def>
+<form type="sandhi"><c type="glide">y</c>eṉaṟk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry type="supp">
+<form>uriya</form>
+<def>right-they</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">plural</gram>
+</gramGrp>
+</entry>
+</standOff><standOff type="apparatus" corresp="#Tiv11.5" source="alignments/Tiv11.5.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app loc="7,12">
+    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdC3 #EdT #C1 #C2 #P2">
+      <lem>pūḻun</lem>
+      <rdg type="minor" wit="#EdCc #EdC1 #EdC2 #EdC3">pūḻum</rdg>
+      <rdg type="minor" wit="#EdT1">pū<lb n="2"/>ḻun</rdg>
+    </rdgGrp>
+    <rdg wit="#P1"><sic>pu</sic>ḻun</rdg>
+    <rdg wit="#I1">pūḷun</rdg>
+  </app>
+  <app loc="12,21">
+    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdC3 #EdT1 #C1 #I1">
+      <lem>tēruruḷum</lem>
+      <rdg type="minor" wit="#EdCc">tēr uruḷum</rdg>
+      <rdg type="minor" wit="#EdT1 #C1 #I1">teruruḷum</rdg>
+    </rdgGrp>
+    <rdg wit="#EdT2">te<lb n="26"/>ruḷum</rdg>
+    <rdg wit="#C2">teruṟuḷum</rdg>
+    <rdg wit="#P1">teruruḷu</rdg>
+    <rdg wit="#P2">teruruḷu m</rdg>
+  </app>
+  <app loc="21,26">
+    <lem wit="#EdCc #EdC1 #EdC2 #EdC3 #EdT #C1 #C2 #I1">yāṟum</lem>
+    <rdg wit="#P1">yāṟu</rdg>
+    <rdg wit="#P2">āṟum</rdg>
+  </app>
+  <app loc="33,44">
+    <rdgGrp type="lemma" select="#EdC1 #EdC2 #EdC3 #EdT #C1 #C2 #P2 #I1">
+      <lem>yāḻkkaṇṇatō</lem>
+      <rdg type="minor" wit="#EdC1 #EdT2">yāḻk kaṇṇatō</rdg>
+      <rdg type="minor" wit="#EdT1">yāḻkkaṇ <lb n="3"/>ṇatō</rdg>
+      <rdg type="minor" wit="#C1">yāḻk kaṇṇa<lb n="10"/>to</rdg>
+      <rdg type="minor" wit="#C2">yāḻk kaṇṇato</rdg>
+      <rdg type="minor" wit="#P2 #I1">yāḻkkaṇṇato</rdg>
+    </rdgGrp>
+    <rdg wit="#EdCc">yāḻkkaṇṇatu ō</rdg>
+    <rdg wit="#P1">yākkaṇṇato</rdg>
+  </app>
+  <app loc="44,52">
+    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdC3 #EdT #C1 #P2 #I1">
+      <lem>ruṟuppum</lem>
+      <rdg type="minor" wit="#EdCc #EdC1">r uṟuppum</rdg>
+      <rdg type="minor" wit="#EdT1">ru ṟuppum</rdg>
+    </rdgGrp>
+    <rdg wit="#C2">ruṟuppu</rdg>
+    <rdg wit="#P1">raṟuppum</rdg>
+  </app>
+</listApp></standOff><standOff type="apparatus" corresp="#Tiv11.6" source="alignments/Tiv11.6.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app loc="0,7">
+    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdC3 #EdT #C1 #C2 #P2 #I1">
+      <lem> nīrmuta</lem>
+      <rdg type="minor" wit="#EdCc">nīr muta</rdg>
+      <rdg type="minor" wit="#EdC2"><num xml:lang="en">3.</num> nīrmuta</rdg>
+    </rdgGrp>
+    <rdg wit="#P1">nimuta</rdg>
+  </app>
+  <app loc="7,13">
+    <lem wit="#EdCc #EdC1 #EdC2 #EdC3 #EdT #C1 #C2 #P2 #I1">lākiya</lem>
+    <rdg wit="#P1">lākkiya</rdg>
+  </app>
+  <app loc="13,19">
+    <lem wit="#EdC2 #EdT1 #C1 #C2 #P1 #P2 #I1">tuḷiyu</lem>
+    <rdgGrp select="#EdCc #EdC1 #EdC3">
+      <rdg type="main">tuḷiyum</rdg>
+      <rdg type="minor" wit="#EdCc #EdC1">tuḷiyum,</rdg>
+    </rdgGrp>
+    <rdg wit="#EdT2">tuḷiya</rdg>
+  </app>
+  <app loc="19,31">
+    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #C1 #C2 #P1 #P2 #I1">
+      <lem>maruntumutal</lem>
+      <rdg type="minor" wit="#EdCc">maruntu mutal</rdg>
+    </rdgGrp>
+    <rdg wit="#EdC3">maruntum <lb n="3"/>muta</rdg>
+    <rdgGrp select="#EdT1 #EdT2">
+      <rdg type="main">maruntumuta</rdg>
+      <rdg type="minor" wit="#EdT1">maruntumuta,</rdg>
+      <rdg type="minor" wit="#EdT2">maru<lb n="14"/>ntu muta</rdg>
+    </rdgGrp>
+  </app>
+  <app loc="31,45">
+    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #C1 #C2 #P1 #P2 #I1">
+      <lem>nōynīk kiyiṉpaṅ</lem>
+      <rdg type="minor" wit="#EdCc #EdC1">nōy nīkki iṉpam</rdg>
+      <rdg type="minor" wit="#EdC2">nōynīkki yiṉpaṅ</rdg>
+      <rdg type="minor" wit="#C1 #C2 #I1">noynīk kiyiṉpaṅ</rdg>
+      <rdg type="minor" wit="#P2">noynīk kiyiṉpam</rdg>
+    </rdgGrp>
+    <rdgGrp select="#EdC3 #EdT1 #EdT2">
+      <rdg type="main">ṉōy nīkki yiṉpaṅ</rdg>
+      <rdg type="minor" wit="#EdT1">ṉōynīk kiyiṉpaṅ</rdg>
+    </rdgGrp>
+  </app>
+  <app loc="53,60">
+    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdC3 #EdT #C1 #C2 #P1 #I1">
+      <lem>poruḷuṅ</lem>
+      <rdg type="minor" wit="#EdCc #EdC1 #EdC2 #EdC3 #C1 #C2 #P1 #I1">poruḷum</rdg>
+    </rdgGrp>
+    <rdg wit="#P2"><unclear>pora</unclear>ruḷum</rdg>
+  </app>
+  <app loc="69,78">
+    <rdgGrp type="lemma" select="#EdC1 #EdC2 #EdC3 #EdT1 #C1 #P2 #I1">
+      <lem>kaḻuvuvar</lem>
+      <rdg type="minor" wit="#I1">kaḻuvu<unclear>va</unclear>r</rdg>
+    </rdgGrp>
+    <rdg wit="#EdCc">kaḻuvu uvar</rdg>
+    <rdg wit="#EdT2">kaḻu</rdg>
+    <rdg wit="#C2">kaḻuvar</rdg>
+    <rdg wit="#P1">kaḻuvu</rdg>
+  </app>
+  <app loc="83,89">
+    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdC3 #EdT #C1 #P1 #P2 #I1">
+      <lem>pāluṟu</lem>
+      <rdg type="minor" wit="#EdCc">pāl uṟu</rdg>
+      <rdg type="minor" wit="#EdT1">pā<lb n="22"/>luṟu</rdg>
+    </rdgGrp>
+    <rdg wit="#C2">pāluṟai</rdg>
+  </app>
+  <app loc="89,97">
+    <lem>puraiyuṅ</lem>
+    <rdgGrp select="#EdCc #C2">
+      <rdg type="main">piṟaiyum</rdg>
+      <rdg type="minor" wit="#EdCc">piṟaiyum,</rdg>
+    </rdgGrp>
+    <rdgGrp select="#EdC1 #EdC2 #EdC3 #EdT #C1 #P1 #P2 #I1">
+      <rdg type="main">piraiyum</rdg>
+      <rdg type="minor" wit="#EdC1">piraiyum,</rdg>
+      <rdg type="minor" wit="#EdC2 #EdT #C1 #P1 #I1">piraiyuṅ</rdg>
+      <rdg type="minor" wit="#P2">piraiyum -</rdg>
+    </rdgGrp>
+  </app>
+  <app loc="97,103">
+    <lem wit="#EdCc #EdC1 #EdC2 #EdC3 #EdT1 #C1 #C2 #P2 #I1">kāramu</lem>
+    <rdg wit="#EdT2">karāmu</rdg>
+    <rdg wit="#P1">kārama</rdg>
+  </app>
+  <app loc="103,111">
+    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdC3 #EdT #C1 #C2 #P1 #P2 #I1">
+      <lem>moḻukalu</lem>
+      <rdg type="minor" wit="#EdCc #EdC1">m, oḻukalu</rdg>
+      <rdg type="minor" wit="#EdC2 #EdC3">m oḻukalu</rdg>
+      <rdg type="minor" wit="#EdT2">moḻuka<lb n="16"/>lu</rdg>
+    </rdgGrp>
+    <rdg wit="#EdC1-p1">m, oḻukkamu</rdg>
+  </app>
+  <app loc="111,119">
+    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdC3 #EdT2 #C2 #P1 #P2 #I1">
+      <lem>mōriṭaic</lem>
+      <rdg type="minor" wit="#EdCc">m, <lb n="14"/>ōr iṭaic</rdg>
+      <rdg type="minor" wit="#EdC1">m, <lb n="12"/>ōr·iṭaic</rdg>
+      <rdg type="minor" wit="#EdC2">m <lb n="8"/>oriṭaic</rdg>
+      <rdg type="minor" wit="#EdC3 #P2">m <lb n="6"/>oriṭaic</rdg>
+      <rdg type="minor" wit="#C2">m <cb n="4"/><lb n="1"/>oriṭaic</rdg>
+      <rdg type="minor" wit="#P1">m <cb n="3"/><lb n="1"/>ōriṭaic</rdg>
+      <rdg type="minor" wit="#I1">m <cb n="2"/><lb n="1"/>oriṭaic</rdg>
+    </rdgGrp>
+    <rdg wit="#EdT1">mōriṭac</rdg>
+    <rdg wit="#C1">m - vuriṭaic</rdg>
+  </app>
+  <app loc="124,134">
+    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdC3 #EdT #C1 #C2 #P1 #P2">
+      <lem>muṟaiyeṉaṟ</lem>
+      <rdg type="minor" wit="#EdCc">m, uṟai eṉaṟ</rdg>
+      <rdg type="minor" wit="#EdC1">m uṟai eṉaṟ</rdg>
+      <rdg type="minor" wit="#EdC2 #EdC3">m uṟaiyeṉaṟ</rdg>
+      <rdg type="minor" wit="#C2">m <lb n="2"/>uṟaiyeṉaṟ</rdg>
+      <rdg type="minor" wit="#P1">muṟaiye ṉaṟ</rdg>
+      <rdg type="minor" wit="#P2">m - uṟaiyeṉaṟ</rdg>
+    </rdgGrp>
+    <rdg wit="#I1">muṟaiyeṉa<gap reason="lost" quantity="1" unit="character"/></rdg>
+  </app>
+  <app loc="134,140">
+    <lem wit="#EdC2 #EdC3 #EdT #C1 #C2 #P2">kuriya</lem>
+    <rdg wit="#EdCc #EdC1">ku uriya.</rdg>
+    <rdg wit="#P1">kupa</rdg>
+    <rdg wit="#I1">
+      <gap reason="lost" quantity="4" unit="character"/>
+    </rdg>
+  </app>
+</listApp></standOff><standOff type="apparatus" corresp="#Tiv11.7" source="alignments/Tiv11.7.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app loc="0,4">
+    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdC3 #EdT">
+      <lem> ūrum</lem>
+      <rdg type="minor" wit="#EdC2"><num xml:lang="en">4.</num>ūrum</rdg>
+    </rdgGrp>
+    <rdg wit="#C1 #C2 #P1 #P2 #I1">uḷarum</rdg>
+  </app>
+  <app loc="4,10">
+    <lem wit="#EdCc #EdC1 #EdC2 #EdC3 #EdT #I1">valiyu</lem>
+    <rdg wit="#EdC1-p1 #C1">valimaiyu</rdg>
+    <rdg wit="#C2 #P2">valiyum</rdg>
+    <rdg wit="#P1">valiyum</rdg>
+  </app>
+  <app loc="10,20">
+    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdC3 #EdT">
+      <lem>muṟaiyuḷuñ</lem>
+      <rdg type="minor" wit="#EdCc #EdC1">m, uṟaiyuḷum</rdg>
+      <rdg type="minor" wit="#EdC2">m uṟaiyuḷuñ</rdg>
+      <rdg type="minor" wit="#EdC3">m uṟaiyuḷum</rdg>
+      <rdg type="minor" wit="#EdT2">muṟaiyuḷu<lb n="33"/>ñ</rdg>
+    </rdgGrp>
+    <rdg wit="#C1 #C2 #P1 #P2 #I1">muṟaiyuñ</rdg>
+  </app>
+  <app loc="20,29">
+    <lem wit="#EdCc #EdC1 #EdC2 #EdC3 #C1 #C2 #P1 #P2 #I1">cayaṉamum</lem>
+    <rdgGrp select="#EdT1 #EdT2">
+      <rdg type="main">cayanamum</rdg>
+      <rdg type="minor" wit="#EdT1">cayanamum,</rdg>
+    </rdgGrp>
+  </app>
+  <app loc="33,38">
+    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdC3 #EdT #C1 #C2 #P1 #P2">
+      <lem>yeṉṟu</lem>
+      <rdg type="minor" wit="#EdCc">(eṉṟu</rdg>
+      <rdg type="minor" wit="#EdC1 #EdC3">eṉṟu</rdg>
+    </rdgGrp>
+    <rdg wit="#I1">yeṉṉum</rdg>
+  </app>
+</listApp></standOff><standOff type="apparatus" corresp="#Tiv11.8" source="alignments/Tiv11.8.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app loc="0,12">
+    <rdgGrp type="lemma" select="#EdC1 #EdC2 #EdC3 #C2 #P1 #P2 #I1">
+      <lem> vemmai vēṇṭal</lem>
+      <rdg type="minor" wit="#EdC1">vemmai, vēṇṭal</rdg>
+      <rdg type="minor" wit="#EdC2"><num xml:lang="en">218.</num> vemmai vēṇṭal</rdg>
+      <rdg type="minor" wit="#C2 #P1 #P2 #I1">vemmai veṇṭal</rdg>
+    </rdgGrp>
+    <rdgGrp select="#EdCc #EdT1 #EdT2">
+      <rdg type="main">vemmai vēṭkai</rdg>
+      <rdg type="minor" wit="#EdCc">vemmai, vēṭkai,</rdg>
+      <rdg type="minor" wit="#EdT1">vemmai <lb n="10"/>vēṭkai</rdg>
+      <rdg type="minor" wit="#EdT2">vemmaivēṭkai</rdg>
+    </rdgGrp>
+    <rdg wit="#C1">veṇṭal viruppam</rdg>
+  </app>
+  <app loc="12,21">
+    <rdgGrp type="lemma" select="#EdC2 #EdT #C1 #C2 #P1 #P2 #I1">
+      <lem>viraiveṉa</lem>
+      <rdg type="minor" wit="#EdC2">viraiveṉ</rdg>
+      <rdg type="minor" wit="#C2">virai veṉa</rdg>
+    </rdgGrp>
+    <rdgGrp select="#EdCc #EdC1 #EdC3">
+      <rdg type="main">viraivu eṉa</rdg>
+      <rdg type="minor" wit="#EdCc">viraivu (eṉa</rdg>
+    </rdgGrp>
+    <rdg wit="#EdC3-mura">viraiveṉap</rdg>
+  </app>
+  <app loc="21,31">
+    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdT #C1 #C2 #P1 #P2">
+      <lem>viḷampuvar</lem>
+      <rdg type="minor" wit="#EdCc">viḷampuvar)</rdg>
+    </rdgGrp>
+    <rdg wit="#EdC3">viḷampular.</rdg>
+    <rdg wit="#EdC3-mura">paṭumē.</rdg>
+    <rdg wit="#I1">viḷampum</rdg>
+  </app>
+</listApp></standOff><standOff corresp="#Tiv11.7" type="wordsplit">
+<interp type="alignment" select="0">2MG6MG10MG9MG23MG2M,56MG</interp>
+<entry>
+<form>ūr-um</form>
+<def>village</def>
+<form type="simple">ūr</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>vali-<c type="glide">y</c>um</form>
+<def>strength</def>
+<form type="simple">vali</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>uṟai <c type="glide">y</c>uḷ-um</form>
+<def>abode</def>
+<form type="simple">uṟai uḷ</form>
+<form type="sandhi">uṟai<c type="glide">y</c>uḷ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>cayaṉam-um</form>
+<def>couch</def>
+<form type="simple">cayaṉam</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry type="main">
+<form>pāḻi</form>
+<def>village</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry type="supp">
+<form><c type="glide">y</c>eṉṟu</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry type="supp">
+<form>pakara<c type="geminated">p</c></form>
+<def>announce</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry type="supp">
+<form>paṭum-ē</form>
+<def>happens</def>
+<form type="simple">paṭum</form>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#Tiv11.8" type="wordsplit">
+<interp type="alignment" select="0">18MG14M,32MG</interp>
+<entry type="main">
+<form>vemmai</form>
+<def>hotness</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṇṭal</form>
+<def>desire</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viraiv<c type="elided">u</c></form>
+<def>haste</def>
+<form type="sandhi">viraiv</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry type="supp">
+<form>eṉa</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry type="supp">
+<form>viḷampuvar</form>
+<def>they say</def>
+<gramGrp>
+  <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 </standOff></TEI>

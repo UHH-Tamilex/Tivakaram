@@ -109,6 +109,23 @@
       <lg xml:id="Tiv11.4">
         <l><lb n="6"/>ṉantal keṭu mākkamu mākum</l>
       </lg>
-
+      <lg xml:id="Tiv11.5">
+        <l><lb n="7"/>untikop pūḻun - teruruḷu māṟum</l>
+        <l><cb n="2"/><lb n="1"/>vantuḻi yāḻkkaṇṇato - ruṟuppum varaiyār</l>
+      </lg>
+      <lg xml:id="Tiv11.6">
+        <l><lb n="2"/>nīrmuta lākiya - tuḷiyu maruntumutal</l>
+        <l><lb n="3"/>noynīk kiyiṉpam - koṭukkum <unclear>pora</unclear>ruḷum</l>
+        <l><lb n="4"/>kūṟai mācu - kaḻuvuvar nīrum</l>
+        <l><lb n="5"/>pāluṟu piraiyum - kāramu moḻukalum</l>
+        <l><lb n="6"/>oriṭaic collum - uṟaiyeṉaṟ kuriya</l>
+      </lg>
+      <lg xml:id="Tiv11.7">
+        <l><lb n="7"/>uḷarum valiyum muṟaiyuñ cayaṉamum</l>
+        <l><cb n="3"/><lb n="1"/>pāḻi yeṉṟu - pakarap paṭume</l>
+      </lg>
+      <lg xml:id="Tiv11.8">
+       <l><lb n="2"/>vemmai veṇṭal - viraiveṉa viḷampuvar</l>
+      </lg>
     </body>
   </text></TEI>

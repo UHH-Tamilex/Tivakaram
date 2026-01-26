@@ -90,6 +90,14 @@
   <text corresp="#EdT2" xml:lang="ta">
     <body>
 
+      <pb n="148" facs="146"/>
+      <p xml:id="Tiv11.5-head"><lb n="25"/>unti yeṉṉum peyar–</p>
+      <lg xml:id="Tiv11.5">
+        <l>untikoppūḻun te<lb n="26"/>ruḷumyāṟum</l>
+        <l>vantuḻiyāḻk kaṇṇatō ruṟuppum <lb n="27"/>varaiyār</l>
+      </lg>
+      <p>4</p>
+
       <pb n="153" facs="151"/>
       <p xml:id="Tiv11.2-head"><lb n="3"/>ceḻumai yeṉṉum peyar–</p>
       <lg xml:id="Tiv11.2">
@@ -104,12 +112,38 @@
       </lg>
       <p>2</p>
 
+      <pb n="159" facs="157"/>
+      <p xml:id="Tiv11.8-head"><lb n="17"/>vemmai yeṉṉum peyar–</p>
+      <lg xml:id="Tiv11.8">
+        <l>vemmaivēṭkai <lb n="18"/>viraiveṉaviḷampuvar</l>
+      </lg>
+      <p>2</p>
+
       <pb n="161" facs="159"/>
+
+      <p xml:id="Tiv11.6-head"><lb n="13"/>uṟai yeṉṉum peyar —</p>
+      <lg xml:id="Tiv11.6">
+        <l>nīrmuta lākiya tuḷiya maru<lb n="14"/>ntu</l>
+        <l>mutaṉōy nīkki yiṉpaṅ koṭukkum</l>
+        <l>poruḷuṅ kū<lb n="15"/>ṟai mācukaḻu nīrum</l>
+        <l>pāluṟu piraiyuṅ karāmu moḻuka<lb n="16"/>lu</l>
+        <l>mōriṭaic collu muṟaiyeṉaṟ kuriya.</l>
+      </lg>
+      <p>8.</p>
+
       <p xml:id="Tiv11.1-head"><lb n="13"/>ēmameṉṉum peyar —</p>
       <lg xml:id="Tiv11.1">
           <l>cēmaṅ kāvaliṉpa miravu<lb n="14"/>poṉṉē</l>
           <l>māppumayakka mēmamākum.  7</l>
       </lg>
+
+      <pb n="166" facs="164"/>
+      <p xml:id="Tiv11.7-head"><lb n="32"/>pāḻi yeṉṉum peyar–</p>
+      <lg xml:id="Tiv11.7">
+        <l>ūrum valiyu muṟaiyuḷu<lb n="33"/>ñ cayanamum</l>
+        <l>pāḻi yeṉṟu pakarap paṭumē</l>
+      </lg>
+      <p>3</p>
 
       <pb n="169" facs="167"/>
       <p xml:id="Tiv11.3-head"><lb n="15"/>viḻumameṉṉum peyar–</p>
