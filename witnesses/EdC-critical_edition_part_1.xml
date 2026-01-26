@@ -694,52 +694,148 @@
     </lg>
 
 <pb n="221"/>      
-    <head corresp="#Tiv4.66-head">
-      <lb n="1"/><num xml:lang="en">693.</num> 
-      
+    <head corresp="#Tiv4.73-head">
+      <lb n="1"/><num xml:lang="en">700.</num> 
+பனையின் பெயர்      
    </head>
-   <lg corresp="#Tiv4.66">
-        <l><lb n="2"/></l>
+   <lg corresp="#Tiv4.73">
+        <l><lb n="2"/>பெண்ணை, தாலம், புல், தாளி, போந்தை என்று</l>
+        <l><lb n="3"/>எண்ணிய நாமம் பனையின் பெயரே.</l>
     </lg>
 
-    <head corresp="#Tiv4.67-head">
-      <lb n="3"/><num xml:lang="en">694.</num> 
-      
+    <head corresp="#Tiv4.74-head">
+      <lb n="4"/><num xml:lang="en">701.</num> 
+ இளம்பனையின் பெயர்     
    </head>
-   <lg corresp="#Tiv4.67">
-        <l><lb n="4"/></l>
+   <lg corresp="#Tiv4.74">
+        <l><lb n="5"/>போந்தை இளம்பனை ஆகப் புகல்வர்.</l>
     </lg>
 
-    <head corresp="#Tiv4.68-head">
-      <lb n="5"/><num xml:lang="en">695.</num> 
-      
+    <head corresp="#Tiv4.75-head">
+      <lb n="6"/><num xml:lang="en">702.</num> 
+தெங்கின் பெயர்      
    </head>
-   <lg corresp="#Tiv4.68">
-        <l><lb n="6"/></l>
+   <lg corresp="#Tiv4.75">
+        <l><lb n="7"/நாளிகேரம், தெங்கு, தாழை என நவில்வர்.></l>
     </lg>
 
 <pb n="222"/>      
-    <head corresp="#Tiv4.69-head">
-      <lb n="1"/><num xml:lang="en">696.</num> 
+    <head corresp="#Tiv4.76-head">
+      <lb n="1"/><num xml:lang="en">703.</num> 
+மூங்கிலின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.76">
+        <l><lb n="2"/>காம்பு, திரிகண், வேழம், சந்தி,</l>
+        <l><lb n="3"/>தூம்பு, முளை, வெதிர், விண்டு, வேரல்,</l>
+        <l><lb n="4"/>முந்தூழ், தட்டை, கீசகம், வேய், பணை,</l>
+        <l><lb n="5"/>அம்பு, வரை, வேணு, கழை, அமை, ஓங்கல்,</l>
+        <l><lb n="6"/>திகிரி, கிளை, கண், பாண்டில் உட்பட</l>
+        <l><lb n="7"/>வருபவை மூங்கில் எனவகுத் தனரே.</l>
+    </lg>
+
+    <head corresp="#Tiv4.77-head">
+      <lb n="8"/><num xml:lang="en">704</num> 
+கரும்பின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.77">
+        <l><lb n="9"/>கழை, வேழம், இக்கு, கன்னல், கரும்பே.</l>
+    </lg>
+
+    <head corresp="#Tiv4.78-head">
+      <lb n="10"/><num xml:lang="en">705.</num> 
+தாழையின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.78">
+        <l><lb n="11"/>கண்டல், கேதகை, மடி, கைதை, முடங்கல்,</l>
+        <l><lb n="12"/>வண்டு இமிர் தாழை எனவகுத் தனரே.</l>
+    </lg>
+
+
+<pb n="223"/>      
+    <head corresp="#Tiv4.79-head">
+      <lb n="1"/><num xml:lang="en">706.</num> 
+வாழையின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.79">
+        <l><lb n="2"/>கதலியும், அரம்பையும், வாழை ஆகும்.</l>
+    </lg>
+
+    <head corresp="#Tiv4.80-head">
+      <lb n="3"/><num xml:lang="en">707</num> 
+பூவாது காய்க்கும் மரத்தின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.80">
+        <l><lb n="4"/>கோளி, பூவாது காய்க்கும் (குளிர்) மரம்.</l>
+    </lg>
+
+    <head corresp="#Tiv4.81-head">
+      <lb n="5"/><num xml:lang="en">708.</num> 
+வண்டு உணா மலர்மரத்தின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.81">
+        <l><lb n="6"/>சண்பகமும், வேங்கையும், வண்டுஉணா மலர்மரம்.</l>
+    </lg>
+
+    <head corresp="#Tiv4.82-head">
+      <lb n="7"/><num xml:lang="en">709.</num> 
+மரப்பொதுப் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.82">
+        <l><lb n="8"/>பாதவம், தாரு, தருவே, தாவரம்,</l>
+        <l><lb n="9"/>(ஓதிய) மூலம், மரப்பொதுப் பெயரே.</l>
+      </lg>
+
+<pb n="224"/>      
+    <head corresp="#Tiv4.83-head">
+      <lb n="1"/><num xml:lang="en">710.</num> 
+மரச்செறிவின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.83">
+        <l><lb n="2"/>பொதும்பர், மரச்செறிவே.</l>
+    </lg>
+
+    <head corresp="#Tiv4.84-head">
+      <lb n="3"/><num xml:lang="en">711</num> 
+மரப்பொதும்பின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.84">
+        <l><lb n="4"/>கோடரம், பொதும்பே.</l>
+    </lg>
+
+    <head corresp="#Tiv4.85-head">
+      <lb n="5"/><num xml:lang="en">712.</num> 
+நந்தவனத்தின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.78">
+        <l><lb n="6"/>(தேம்) பொழில், மரக்கா, தோட்டம், துடைவை,</l>
+        <l><lb n="7"/>உய்யானம், சோலை, வனம், உத்தி யானம்,</l>
+        <l><lb n="8"/>தண்டலை, கானம், அடவி, பதினொன்றும்</l>
+        <l><lb n="9"/>வண்டுஇமிர் நந்தவனம் என இசைப்பர்.</l>        
+      </lg>
+
+
+<pb n="225"/>      
+    <head corresp="#Tiv4.76-head">
+      <lb n="1"/><num xml:lang="en">703.</num> 
       
    </head>
-   <lg corresp="#Tiv4.69">
+   <lg corresp="#Tiv4.76">
         <l><lb n="2"/></l>
     </lg>
 
-    <head corresp="#Tiv4.70-head">
-      <lb n="3"/><num xml:lang="en">697.</num> 
+    <head corresp="#Tiv4.77-head">
+      <lb n="3"/><num xml:lang="en">704</num> 
       
    </head>
-   <lg corresp="#Tiv4.70">
+   <lg corresp="#Tiv4.77">
         <l><lb n="4"/></l>
     </lg>
 
-    <head corresp="#Tiv4.71-head">
-      <lb n="5"/><num xml:lang="en">698.</num> 
+    <head corresp="#Tiv4.78-head">
+      <lb n="5"/><num xml:lang="en">705.</num> 
       
    </head>
-   <lg corresp="#Tiv4.71">
+   <lg corresp="#Tiv4.78">
         <l><lb n="6"/></l>
     </lg>
 
@@ -750,7 +846,7 @@
    <lg corresp="#Tiv4.72">
         <l><lb n="8"/></l>
     </lg>
-
+ 
    </body>
   </text>
 </TEI>
