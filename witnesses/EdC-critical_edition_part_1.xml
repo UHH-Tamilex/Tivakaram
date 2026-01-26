@@ -806,47 +806,138 @@
       <lb n="5"/><num xml:lang="en">712.</num> 
 நந்தவனத்தின் பெயர்      
    </head>
-   <lg corresp="#Tiv4.78">
+   <lg corresp="#Tiv4.85">
         <l><lb n="6"/>(தேம்) பொழில், மரக்கா, தோட்டம், துடைவை,</l>
         <l><lb n="7"/>உய்யானம், சோலை, வனம், உத்தி யானம்,</l>
         <l><lb n="8"/>தண்டலை, கானம், அடவி, பதினொன்றும்</l>
         <l><lb n="9"/>வண்டுஇமிர் நந்தவனம் என இசைப்பர்.</l>        
       </lg>
 
-
 <pb n="225"/>      
-    <head corresp="#Tiv4.76-head">
-      <lb n="1"/><num xml:lang="en">703.</num> 
-      
+    <head corresp="#Tiv4.86-head">
+      <lb n="1"/><num xml:lang="en">713.</num> 
+காட்டின் பெயர்      
    </head>
-   <lg corresp="#Tiv4.76">
-        <l><lb n="2"/></l>
+   <lg corresp="#Tiv4.86">
+        <l><lb n="2"/>கடம், வியல், பழுவம், கட்சி, குறும்பொறை,</l>
+        <l><lb n="3"/>கடறு, காந் தாரம், அடவி, கான், வனம்,</l>
+        <l><lb n="4"/>கவனம், காண்டம், கனம், முளரி,</l>
+        <l><lb n="5"/>சுரம், அத்தம், ஆரணியம், கானங், களரி,</l>
+        <l><lb n="6"/>(சீர் அணி) பொச்சை, விடர், தில்லம், காடே.</l>
     </lg>
 
-    <head corresp="#Tiv4.77-head">
-      <lb n="3"/><num xml:lang="en">704</num> 
-      
+    <head corresp="#Tiv4.87-head">
+      <lb n="7"/><num xml:lang="en">714</num> 
+முதுகாட்டின் பெயர்      
    </head>
-   <lg corresp="#Tiv4.77">
-        <l><lb n="4"/></l>
+   <lg corresp="#Tiv4.87">
+        <l><lb n="8"/>முதை, இலை உதிர்வு பிறங்குஇயல் முதுகாடே.</l>
     </lg>
 
-    <head corresp="#Tiv4.78-head">
-      <lb n="5"/><num xml:lang="en">705.</num> 
-      
+    <head corresp="#Tiv4.88-head">
+      <lb n="9"/><num xml:lang="en">715.</num> 
+கரிகாட்டின் பெயர்      
    </head>
-   <lg corresp="#Tiv4.78">
-        <l><lb n="6"/></l>
+   <lg corresp="#Tiv4.88">
+        <l><lb n="10"/>பொச்சையும், சுரமும், (பொதி) கரி காடே.</l>
     </lg>
 
-    <head corresp="#Tiv4.72-head">
-      <lb n="7"/><num xml:lang="en">699.</num> 
-      
+<pb n="226"/>      
+    <head corresp="#Tiv4.89-head">
+      <lb n="1"/><num xml:lang="en">716.</num> 
+காவற்காட்டின் பெயர்      
    </head>
-   <lg corresp="#Tiv4.72">
-        <l><lb n="8"/></l>
+   <lg corresp="#Tiv4.89">
+        <l><lb n="2"/>அரணம், மிளை, காவற் காடுஎன அறைவர்.</l>
     </lg>
- 
+
+    <head corresp="#Tiv4.90-head">
+      <lb n="3"/><num xml:lang="en">717</num> 
+ஒருபெயர் மரவகைப் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.90">
+        <l><lb n="4"/>ஒருமரம் ஒரு பெயர் உரைக்கும் கிளவி</l>
+        <l><lb n="5"/>வரைவு இல் என்மனார் வள்ளியோரே.</l>
+    </lg>
+
+    <head corresp="#Tiv4.91-head">
+      <lb n="6"/><num xml:lang="en">718.</num> 
+மிடைதூற்றின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.91">
+        <l><lb n="7"/>இறும்பே, மிடைதூறு.</l>
+    </lg>
+
+    <head corresp="#Tiv4.92-head">
+      <lb n="8"/><num xml:lang="en">719.</num> 
+ஈங்கையின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.92">
+        <l><lb n="9"/>இண்டை, ஈங்கை.</l>
+    </lg>
+
+<pb n="227"/>      
+    <head corresp="#Tiv4.93-head">
+      <lb n="1"/><num xml:lang="en">720.</num> 
+ முள்ளுடை மூலத்தின் பெயர்     
+   </head>
+   <lg corresp="#Tiv4.93">
+        <l><lb n="2"/>முண்டகம், முள்ளுடை மூலம் என்ப.</l>
+    </lg>
+
+    <head corresp="#Tiv4.94-head">
+      <lb n="3"/><num xml:lang="en">721</num> 
+முள்ளின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.94">
+        <l><lb n="4"/>கண்டகம், கடுவே, முள்எனக் கருதுவர்.</l>
+    </lg>
+
+    <head corresp="#Tiv4.95-head">
+      <lb n="5"/><num xml:lang="en">722.</num> 
+மரவயிரத்தின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.95">
+        <l><lb n="6"/>ஆசினி, கரிலே, அரியே, வயிரம்,</l>
+        <l><lb n="7"/>சேகே, மரத்தின் காழ்ப்புஎனச் செப்புவர்.</l>
+    </lg>
+
+<pb n="228"/>      
+    <head corresp="#Tiv4.96-head">
+      <lb n="1"/><num xml:lang="en">723.</num> 
+பிரம்பின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.96">
+        <l><lb n="2"/>வேத்திரம், சாதி, சூரல், பிரம்பே.</l>
+    </lg>
+
+    <head corresp="#Tiv4.97-head">
+      <lb n="3"/><num xml:lang="en">724</num> 
+ உள்வயிர மரத்தின் பெயர்     
+   </head>
+   <lg corresp="#Tiv4.97">
+        <l><lb n="4"/>அகக்கா ழனவே வன்மரம் ஆகும்</l>
+        <l><lb n="5"/>அவையே கருங்காலி முதலா யுள்ளன.</l>
+    </lg>
+
+    <head corresp="#Tiv4.98-head">
+      <lb n="6"/><num xml:lang="en">725.</num> 
+புறவயிர மரத்தின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.98">
+        <l><lb n="7"/>புறக்கா ழனவே வன்புல் என்ப.</l>
+        <l><lb n="8"/>அவைதாம், தெரிக்கின் பனைதெங்கு கமுகு மூங்கில்.</l>
+    </lg>
+
+    <head corresp="#Tiv4.99-head">
+      <lb n="9"/><num xml:lang="en">726.</num> 
+ வயிரமல்லாத மரத்தின் பெயர்     
+   </head>
+   <lg corresp="#Tiv4.99">
+        <l><lb n="10"/>முருக்கு நார்பான் மரமுத லாயின</l>
+        <l><lb n="11"/>வெளிற்றுமரம் என்னும் விகற்பம் பெறுமே.</l>
+    </lg>
+
    </body>
   </text>
 </TEI>
