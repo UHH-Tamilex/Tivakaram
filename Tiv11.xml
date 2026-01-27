@@ -200,7 +200,7 @@
         <div rend="parallel">
         <lg xml:id="Tiv11.6">
           <l>nīrmuta lākiya tuḷiyu maruntumutal</l>
-          <l>nōynīk kiyiṉpaṅ koṭukkum poruḷuṅ</l>
+          <l>nōynīkki yiṉpaṅ koṭukkum poruḷuṅ</l>
           <l>kūṟai mācu kaḻuvuvar nīrum</l>
           <l>pāluṟu puraiyuṅ kāramu moḻukalu</l>
           <l>mōriṭaic collu muṟaiyeṉaṟ kuriya.</l>
@@ -1104,9 +1104,12 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
     <rdg wit="#EdT2">tuḷiya</rdg>
   </app>
   <app loc="19,31">
-    <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #C1 #C2 #P1 #P2 #I1">
-      <lem>maruntumutal</lem>
-      <rdg type="minor" wit="#EdCc">maruntu mutal</rdg>
+    <lem>maruntumutal</lem>
+    <rdgGrp select="#EdCc #EdC1 #EdC2 #C1 #C2 #P1 #P2 #I1">
+      <rdg type="main">maruntu mutal</rdg>
+      <rdg type="minor" wit="#EdCc">maruntu mutal,</rdg>
+      <rdg type="minor" wit="#EdC1 #EdC2 #C2 #P1 #P2 #I1">maruntumutal</rdg>
+      <rdg type="minor" wit="#C1">maruntumutal -</rdg>
     </rdgGrp>
     <rdg wit="#EdC3">maruntum <lb n="3"/>muta</rdg>
     <rdgGrp select="#EdT1 #EdT2">
@@ -1115,17 +1118,26 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
       <rdg type="minor" wit="#EdT2">maru<lb n="14"/>ntu muta</rdg>
     </rdgGrp>
   </app>
-  <app loc="31,45">
+  <app loc="31,34">
     <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #C1 #C2 #P1 #P2 #I1">
-      <lem>nōynīk kiyiṉpaṅ</lem>
-      <rdg type="minor" wit="#EdCc #EdC1">nōy nīkki iṉpam</rdg>
-      <rdg type="minor" wit="#EdC2">nōynīkki yiṉpaṅ</rdg>
-      <rdg type="minor" wit="#C1 #C2 #I1">noynīk kiyiṉpaṅ</rdg>
-      <rdg type="minor" wit="#P2">noynīk kiyiṉpam</rdg>
+      <lem>nōy</lem>
+      <rdg type="minor" wit="#C1 #C2 #P2 #I1">noy</rdg>
     </rdgGrp>
-    <rdgGrp select="#EdC3 #EdT1 #EdT2">
-      <rdg type="main">ṉōy nīkki yiṉpaṅ</rdg>
-      <rdg type="minor" wit="#EdT1">ṉōynīk kiyiṉpaṅ</rdg>
+    <rdg wit="#EdC3 #EdT">ṉōy</rdg>
+  </app>
+  <app loc="39,45">
+    <lem>yiṉpaṅ</lem>
+    <rdgGrp select="#EdCc #EdC1 #EdC2 #EdC3 #EdT #C1 #C2 #P1 #P2 #I1">
+      <rdg type="main">iṉpam</rdg>
+      <rdg type="minor" wit="#EdC2 #EdC3 #EdT #C1 #C2 #P1 #I1">yiṉpaṅ</rdg>
+      <rdg type="minor" wit="#P2">yiṉpam -</rdg>
+    </rdgGrp>
+  </app>
+  <app loc="45,53">
+    <lem>koṭukkum</lem>
+    <rdgGrp select="#EdCc #EdC1 #EdC2 #EdC3 #EdT1 #EdT2 #C1 #C2 #P1 #P2 #I1">
+      <rdg type="main">koṭukkum</rdg>
+      <rdg type="minor" wit="#EdT1">koṭuk<lb n="21"/>kum</rdg>
     </rdgGrp>
   </app>
   <app loc="53,60">
@@ -1193,6 +1205,10 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
     </rdgGrp>
     <rdg wit="#EdT1">mōriṭac</rdg>
     <rdg wit="#C1">m - vuriṭaic</rdg>
+  </app>
+  <app loc="119,124">
+    <lem>collu</lem>
+    <rdg wit="#EdCc #EdC1 #EdC2 #EdC3 #EdT #C1 #C2 #P1 #P2 #I1">collu</rdg>
   </app>
   <app loc="124,134">
     <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdC3 #EdT #C1 #C2 #P1 #P2">
