@@ -187,12 +187,12 @@
         <head type="sub" xml:id="Tiv11.5-head"><num xml:lang="en">5</num>. <term xml:lang="ta">unti yeṉṉum peyar</term></head>
         <div rend="parallel">
         <lg xml:id="Tiv11.5">
-          <l>untikop pūḻun tēruruḷum yāṟum</l>
+          <l>unti koppūḻun tēruruḷum yāṟum</l>
           <l>vantuḻi yāḻkkaṇṇatō ruṟuppum varaiyār.</l>
         </lg>
         <lg xml:lang="en">
           <l><foreign xml:lang="ta">Unti</foreign> occurs as the navel, the wheel of a chariot, or a river;</l>
-          <l>nor do they exclude a part of a <foreign xml:lang="ta">yāḻ</foreign>.</l>
+          <l>nor do they exclude [as its meaning] a part of a <foreign xml:lang="ta">yāḻ</foreign>.</l>
         </lg>
         </div>
 
@@ -1020,14 +1020,16 @@ The 2004 <title xml:lang="ta">Cānti Cātaṉa</title> edition identifies this h
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app loc="7,12">
+  <app loc="4,12">
     <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdC3 #EdT #C1 #C2 #P2">
-      <lem>pūḻun</lem>
-      <rdg type="minor" wit="#EdCc #EdC1 #EdC2 #EdC3">pūḻum</rdg>
-      <rdg type="minor" wit="#EdT1">pū<lb n="2"/>ḻun</rdg>
+      <lem>koppūḻun</lem>
+      <rdg type="minor" wit="#EdCc #EdC2 #EdC3">koppūḻum</rdg>
+      <rdg type="minor" wit="#EdC1">kop pūḻum</rdg>
+      <rdg type="minor" wit="#EdT1">kop pū<lb n="2"/>ḻun</rdg>
+      <rdg type="minor" wit="#C1 #C2 #P2">kop pūḻun</rdg>
     </rdgGrp>
-    <rdg wit="#P1"><sic>pu</sic>ḻun</rdg>
-    <rdg wit="#I1">pūḷun</rdg>
+    <rdg wit="#P1">kop <sic>pu</sic>ḻun</rdg>
+    <rdg wit="#I1">kop pūḷun</rdg>
   </app>
   <app loc="12,21">
     <rdgGrp type="lemma" select="#EdCc #EdC1 #EdC2 #EdC3 #EdT1 #C1 #I1">
