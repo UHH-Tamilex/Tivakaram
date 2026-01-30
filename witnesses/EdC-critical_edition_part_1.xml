@@ -1201,6 +1201,116 @@
     </lg>
 
 <pb n="237"/>      
+    <head corresp="#Tiv4.130-head">
+      <lb n="1"/><num xml:lang="en">757.</num> 
+திப்பிலியின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.130">
+        <l><lb n="2"/>திப்பிலி, காமன், சிறுமூ லகமே.</l>
+    </lg>
+
+    <head corresp="#Tiv4.131-head">
+      <lb n="3"/><num xml:lang="en">758</num> 
+துளசியின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.131">
+        <l><lb n="4"/>குல்லை, துளவம், துழாய்என மொழிப.</l>
+    </lg>
+
+    <head corresp="#Tiv4.132-head">
+      <lb n="5"/><num xml:lang="en">759.</num> 
+மிளகின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.132">
+        <l><lb n="6"/>மரீசி, கறிஇவை மிளகுஎன வைப்பர்.</l>
+    </lg>
+
+    <head corresp="#Tiv4.133-head">
+      <lb n="7"/><num xml:lang="en">760.</num> 
+மஞ்சளின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.133">
+        <l><lb n="8"/>மஞ்சள், அரிசனம்.</l>
+    </lg>
+
+<pb n="238"/>      
+    <head corresp="#Tiv4.134-head">
+      <lb n="1"/><num xml:lang="en">761.</num> 
+கருணைக்கிழங்கின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.134">
+        <l><lb n="2"/>கந்தம், கருணை.</l>
+    </lg>
+
+    <head corresp="#Tiv4.135-head">
+      <lb n="3"/><num xml:lang="en">762</num> 
+சிறுகிழங்கின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.135">
+        <l><lb n="4"/>சுரசம் சிறுகிழங்கு ஆகும் என்ப.</l>
+    </lg>
+
+    <head corresp="#Tiv4.136-head">
+      <lb n="5"/><num xml:lang="en">763.</num> 
+வாசந்தரு பண்டத்தின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.136">
+        <l><lb n="6"/>தகரம், தக்கோலம், கோட்டம், சாதிக்காய்,</l>
+        <l><lb n="7"/>இலவங்கம், ஏலம், கச்சோலம், மாஞ்சி எனப்</l>
+        <l><lb n="8"/>பகரும் வாசம்தரு பண்டப் பெயரே.</l>
+    </lg>
+
+<pb n="239"/>      
+    <head corresp="#Tiv4.137-head">
+      <lb n="1"/><num xml:lang="en">764.</num> 
+கடுகின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.137">
+        <l><lb n="2"/>கடிப்பகை, ஐயவி, கடுகின் பெயரே.</l>
+    </lg>
+
+    <head corresp="#Tiv4.138-head">
+      <lb n="3"/><num xml:lang="en">765</num> 
+கொத்தமல்லியின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.138">
+        <l><lb n="4"/>உருளரிசி, கொத்த மல்லி என உரைப்பர்.</l>
+    </lg>
+
+    <head corresp="#Tiv4.139-head">
+      <lb n="5"/><num xml:lang="en">766.</num> 
+கொடிக்குழலின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.139">
+        <l><lb n="6"/>கழங்கே, மூழல், கொடிக் கழல் எனக் கருதுவர்.</l>
+    </lg>
+
+    <head corresp="#Tiv4.140-head">
+      <lb n="7"/><num xml:lang="en">767.</num> 
+கிலுகிலுப்பையின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.140">
+        <l><lb n="8"/>பகன்றை, கிலுகிலுப்பை.</l>
+    </lg>
+
+<pb n="240"/>      
+    <head corresp="#Tiv4.141-head">
+      <lb n="1"/><num xml:lang="en">768.</num> 
+சேம்பின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.141">
+        <l><lb n="2"/>சகுடம், சேம்பே.</l>
+    </lg>
+
+    <head corresp="#Tiv4.142-head">
+      <lb n="3"/><num xml:lang="en">769</num> 
+சிறுகீரையின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.142">
+        <l><lb n="4"/>சில்லி, சாகினி, சிறுகீரைப் பெயரே.</l>
+    </lg>
+
+<pb n="241"/>      
     <head corresp="#Tiv4.96-head">
       <lb n="1"/><num xml:lang="en">723.</num> 
       
@@ -1236,6 +1346,6 @@
         <l><lb n="11"/></l>
     </lg>
 
-   </body>
+  </body>
   </text>
 </TEI>
