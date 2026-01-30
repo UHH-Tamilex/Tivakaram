@@ -1366,6 +1366,7 @@
    </head>
    <lg corresp="#Tiv4.149">
         <l><lb n="6"/>இயவை, தோரை எனும் உணவின் பெயரே.</l>
+    </lg>
 
     <pb n="243"/>      
     <head corresp="#Tiv4.150-head">
@@ -1390,6 +1391,7 @@
    </head>
    <lg corresp="#Tiv4.152">
         <l><lb n="6"/>ஏனல், செந்தினை.</l>
+    </lg>
 
 <pb n="244"/>      
     <head corresp="#Tiv4.153-head">
@@ -1406,43 +1408,169 @@
    </head>
    <lg corresp="#Tiv4.154">
         <l><lb n="4"/>எண்ணும், திலமும், எள்என இசைப்பர்.</l>
+    </lg>
 
 <pb n="245"/>      
-    <head corresp="#Tiv4.143-head">
-      <lb n="1"/><num xml:lang="en">770.</num> 
+    <head corresp="#Tiv4.155-head">
+      <lb n="1"/><num xml:lang="en">782.</num> 
+எள்ளிளங்காயின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.155">
+        <l><lb n="2"/>கவ்வை, எள்இளங் காய்ஆ கும்மே.</l>
+    </lg>
+
+    <head corresp="#Tiv4.156-head">
+      <lb n="3"/><num xml:lang="en">783</num> 
+கதிரின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.156">
+        <l><lb n="4"/>குரல், கதிர் ஆகும்.</l>
+    </lg>
+
+    <head corresp="#Tiv4.157-head">
+      <lb n="5"/><num xml:lang="en">784.</num> 
+பதரின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.157">
+        <l><lb n="6"/>பதடி, பதரே.</l>
+    </lg>
+
+    <head corresp="#Tiv4.158-head">
+      <lb n="7"/><num xml:lang="en">785.</num> 
+தினைத்தாளின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.158">
+        <l><lb n="8"/>இருவியும், அருவியும், தினைத்தாள், ஆகும்.</l>
+    </lg>
+
+<pb n="246"/>      
+    <head corresp="#Tiv4.159-head">
+      <lb n="1"/><num xml:lang="en">786.</num> 
+வைக்கோலின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.159">
+        <l><lb n="2"/>வையே, பலாலம், வைக்கோல் ஆகும்.</l>
+        <l><lb n="3"/>அவ்வழி, வழுதும், அழியும் பெறுமே.</l>
+    </lg>
+
+    <head corresp="#Tiv4.160-head">
+      <lb n="4"/><num xml:lang="en">787</num> 
+தூற்றா நெற்குவையின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.160">
+        <l><lb n="5"/>பொங்கழி, தூற்றா நெற்கூடு ஆகும்.</l>
+    </lg>
+
+    <head corresp="#Tiv4.161-head">
+      <lb n="6"/><num xml:lang="en">788.</num> 
+பயிரின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.161">
+        <l><lb n="7"/>பயிரே, பசும்புல், பைங்கூழ், ஆகும்.</l>
+    </lg>
+
+<pb n="247"/>      
+    <head corresp="#Tiv4.162-head">
+      <lb n="1"/><num xml:lang="en">789.</num> 
+புற்பிறப்பின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.162">
+        <l><lb n="2"/>புதற்புல் எனவரு புற்பிறப்பு ஆகும்.</l>
+    </lg>
+
+    <head corresp="#Tiv4.163-head">
+      <lb n="3"/><num xml:lang="en">790</num> 
+தெங்குநார்ப்பாளையின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.163">
+        <l><lb n="4"/>நாரி, நெய்யரி, தெங்குநார்ப் பாளை.</l>
+    </lg>
+
+    <head corresp="#Tiv4.164-head">
+      <lb n="5"/><num xml:lang="en">791.</num> 
+கிழங்கின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.164">
+        <l><lb n="6"/>மூலம், கந்தம், கிழங்குஎன மொழிப.</l>
+    </lg>
+
+    <head corresp="#Tiv4.165-head">
+      <lb n="7"/><num xml:lang="en">792.</num> 
+கோற்கொடியின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.165">
+        <l><lb n="8"/>இலதை எனும்பெயர் கோற்கொடிக்கு எய்தும்.</l>
+    </lg>
+
+<pb n="248"/>      
+    <head corresp="#Tiv4.166-head">
+      <lb n="1"/><num xml:lang="en">793.</num> 
+கற்பகஞ்சேர் கொடியின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.166">
+        <l><lb n="2"/>கற்பகம் சேர்கொடி காம வல்லி.</l>
+    </lg>
+
+    <head corresp="#Tiv4.167-head">
+      <lb n="3"/><num xml:lang="en">794</num> 
+கொடிப்பிறப்பின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.167">
+        <l><lb n="4"/>கோற்கொடி, மென்கொடி, கொடியின் பிறப்பே.</l>
+    </lg>
+
+    <head corresp="#Tiv4.168-head">
+      <lb n="5"/><num xml:lang="en">795.</num> 
+கொடியின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.168">
+        <l><lb n="6"/>வல்லியும், நூழிலும், வள்ளியும், கொடியே.</l>
+    </lg>
+
+    <head corresp="#Tiv4.169-head">
+      <lb n="7"/><num xml:lang="en">796.</num> 
+மல்லிகையின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.196">
+        <l><lb n="8"/>மல்லிகை, மௌவல்.</l>
+    </lg>
+
+<pb n="249"/>      
+    <head corresp="#Tiv4.155-head">
+      <lb n="1"/><num xml:lang="en">782.</num> 
       
    </head>
-   <lg corresp="#Tiv4.143">
+   <lg corresp="#Tiv4.155">
         <l><lb n="2"/></l>
     </lg>
 
-    <head corresp="#Tiv4.144-head">
-      <lb n="3"/><num xml:lang="en">771</num> 
+    <head corresp="#Tiv4.156-head">
+      <lb n="3"/><num xml:lang="en">783</num> 
       
    </head>
-   <lg corresp="#Tiv4.144">
+   <lg corresp="#Tiv4.156">
         <l><lb n="4"/></l>
         <l><lb n="5"/></l>
     </lg>
 
-    <head corresp="#Tiv4.145-head">
-      <lb n="6"/><num xml:lang="en">772.</num> 
+    <head corresp="#Tiv4.157-head">
+      <lb n="6"/><num xml:lang="en">784.</num> 
       
    </head>
-   <lg corresp="#Tiv4.145">
+   <lg corresp="#Tiv4.157">
         <l><lb n="7"/></l>
         <l><lb n="8"/></l>
     </lg>
 
-    <head corresp="#Tiv4.146-head">
-      <lb n="9"/><num xml:lang="en">773.</num> 
+    <head corresp="#Tiv4.158-head">
+      <lb n="9"/><num xml:lang="en">785.</num> 
       
    </head>
-   <lg corresp="#Tiv4.146">
+   <lg corresp="#Tiv4.158">
         <l><lb n="10"/></l>
         <l><lb n="11"/></l>
     </lg>
 
-  </body>
+    </body>
   </text>
 </TEI>
