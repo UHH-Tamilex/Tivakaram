@@ -296,12 +296,61 @@
         <l>kuṭacam veṭpālai -</l>
       </lg>
           
-      <p xml:id="Tiv4.41-head"></p>
+      <p xml:id="Tiv4.41-head">kumiḻ marattiṉ peyar -</p>
       <lg xml:id="Tiv4.41">
-        <l></l>
-        <l></l>
+        <l>kūmpal kaṭampal kumiḻeṉak kūṟuvar -</l>
+      </lg>
+
+      <p xml:id="Tiv4.42-head">vēlamarattiṉ peyar -</p>
+      <lg xml:id="Tiv4.42">
+        <l>uṭai<milestone n="317r" facs="33" unit="folio"/><lb n="1"/>kuṭai vēlē</l>
       </lg>
           
+      <p xml:id="Tiv4.43-head">pātiriyiṉ peyar -</p>
+      <lg xml:id="Tiv4.43">
+        <l>pāṭalam pātiri -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.44-head">murukkiṉ peyar -</p>
+      <lg xml:id="Tiv4.44">
+        <l>kavirē kiñcuka murukkeṉak karutuvar -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.45-head">tēṟṟa marattiṉ peyar -</p>
+      <lg xml:id="Tiv4.45">
+        <l>illan tēṟām -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.46-head">viḷā<lb n="2"/> marattiṉ peyar -</p>
+      <lg xml:id="Tiv4.46">
+        <l>veḷḷil viḷāvām -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.47-head">villa marattiṉ peyar -</p>
+      <lg xml:id="Tiv4.47">
+        <l>kūviḷam villuva mālūraṅ kūviḷai -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.48-head">vēṅkai marattiṉ peyar -</p>
+      <lg xml:id="Tiv4.48">
+        <l>timicun timiluṅ kaṇiyum<lb n="3"/> vēṅkai -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.49-head">kaṭampiṉ peyar -</p>
+      <lg xml:id="Tiv4.49">
+        <l>katampu vicāla nīpaṅ kaṭampē -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.50-head">veṇkaṭampiṉ peyar -</p>
+      <lg xml:id="Tiv4.50">
+        <l>marāvē veṇkaṭampiṉ peyarē -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.51-head"></p>
+      <lg xml:id="Tiv4.51">
+        <l></l>
+      </lg>
+                  
       
       <milestone n="344r" facs="88" unit="folio"/>
       <p><lb n="6"/>patiṉorāvatu orucoṟpalporuṭ peyart tokuti - <g ref="#pcs"/></p>
