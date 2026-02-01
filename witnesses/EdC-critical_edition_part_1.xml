@@ -1881,37 +1881,83 @@
         <l><lb n="6"/>மலரோடு, இணர், இவை மலர்ந்த பூவே.</l>
     </lg>
 
-<pb n="258"/>      
-    <head corresp="#Tiv4.182-head">
-      <lb n="1"/><num xml:lang="en">809.</num> 
-      
+<pb n="262"/>      
+    <head corresp="#Tiv4.210-head">
+      <lb n="1"/><num xml:lang="en">837.</num> 
+வெற்றிப்பூவின் பெயர்      
    </head>
-   <lg corresp="#Tiv4.183">
-        <l><lb n="2"/></l>
+   <lg corresp="#Tiv4.210">
+        <l><lb n="2"/>நல்இசை அம்பர்ச் செல்வச் சேந்தனின்,</l>
+        <l><lb n="3"/>வரைவுஇல் கல்வியில், படையில், கொடையில்,</l>
+        <l><lb n="4"/>வெல்லுநர் அணிவாகை வெற்றிப்பூவே.</l>
     </lg>
 
-    <head corresp="#Tiv4.183-head">
-      <lb n="3"/><num xml:lang="en">810</num> 
-      
+    <head corresp="#Tiv4.211-head">
+      <lb n="5"/><num xml:lang="en">838</num> 
+பழம்பூவின் பெயர்      
    </head>
-   <lg corresp="#Tiv4.183">
-        <l><lb n="4"/></l>
+   <lg corresp="#Tiv4.211">
+        <l><lb n="6"/>செம்மல், பழம்பூ ஆகச் செப்புவர்.</l>
     </lg>
 
-    <head corresp="#Tiv4.184-head">
-      <lb n="5"/><num xml:lang="en">810.</num> 
-      
+    <head corresp="#Tiv4.212-head">
+      <lb n="7"/><num xml:lang="en">839.</num> 
+மலர்த்தாதின் பெயர்      
    </head>
-   <lg corresp="#Tiv4.184">
-        <l><lb n="6"/></l>
+   <lg corresp="#Tiv4.212">
+        <l><lb n="8"/>மகரந்தம், கேசரம், கொங்கு, மலர்த் தாதே.</l>
       </lg>
 
-    <head corresp="#Tiv4.185-head">
-      <lb n="7"/><num xml:lang="en">812.</num> 
-      
+    <head corresp="#Tiv4.213-head">
+      <lb n="9"/><num xml:lang="en">840.</num> 
+பூவிதழின் பெயர்      
    </head>
-   <lg corresp="#Tiv4.185">
-        <l><lb n="8"/></l>
+   <lg corresp="#Tiv4.213">
+        <l><lb n="10"/>ஏடும், தோடும், பூவின் இதழே.</l>
+    </lg>
+
+<pb n="262"/>      
+    <head corresp="#Tiv4.214-head">
+      <lb n="1"/><num xml:lang="en">841.</num> 
+மாலையின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.214">
+        <l><lb n="2"/>தொடையல், வாசிகை, சிகழிகை, கோதை,</l>
+        <l><lb n="3"/>படலை, அலங்கல், கத்திகை, பிணையல்,</l>
+        <l><lb n="4"/>அணியல், சுருக்கல், தொடலை, தாமம்,</l>
+        <l><lb n="5"/>தொங்கல், தெரியல், கண்ணி, தார், சூட்டு,</l>
+        <l><lb n="6"/>மஞ்சரி, ஒலியல், இலம்பகம், மாலை.</l>
+    </lg>
+
+    <head corresp="#Tiv4.215-head">
+      <lb n="7"/><num xml:lang="en">842</num> 
+நுதல்மாலையின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.215">
+        <l><lb n="8"/>சூட்டே, இலம்பகம், சூழ் நுதல் மேல்அணி.</l>
+    </lg>
+
+<pb n="264"/>      
+    <head corresp="#Tiv4.216-head">
+      <lb n="1"/><num xml:lang="en">843.</num> 
+தொடையல் மாலையின் பெயர்      
+   </head>
+   <lg corresp="#Tiv4.216">
+        <l><lb n="2"/>மாலை, சிகழிகை, வாசிகை, தொடையல்</l>
+        <l><lb n="3"/>ஆகும் என்ப அறிந்திசி னோரே.</l>
+    </lg>
+
+    <head corresp="#Tiv4.217-head">
+      <lb n="4"/><num xml:lang="en">844</num> 
+திவாகர வரலாறு      
+   </head>
+   <lg corresp="#Tiv4.217">
+        <l><lb n="5"/>நாடே பிறர் நாட்டிற்கு உவமை; யாறே</l>
+        <l><lb n="6"/>காலம் அறிந்து உதவும் காவிரிதானே;</l>
+        <l><lb n="7"/>ஆடவர் திலகன், அம்பர் மன்னன்,</l>
+        <l><lb n="8"/>நீடுஇசைத் தலைவன் அருவத்தைச் சேந்தன்</l>
+        <l><lb n="9"/>ஆய்ந்த திவாகரத்து அரும்பொருள் விளக்கும்</l>
+        <l><lb n="10"/>நான்காவது மரப்பெயர்த் தொகுதி முற்றும்.</l>
     </lg>
 
   </body>
