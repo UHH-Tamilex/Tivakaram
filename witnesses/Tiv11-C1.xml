@@ -89,6 +89,75 @@
    <graphic url="https://iiif.archive.org/iiif/UVSL-449/manifest.json"/></facsimile>
   <text corresp="#C1" xml:lang="ta">
     <body>
+      <milestone n="316r" facs="31" unit="folio"/>
+      <p><lb n="10"/>நாங்காவது மரப்பெயர்த் தொகுதி - <g ref="#pcs"/></p>
+      <p xml:id="Tiv4.1-head">கற்பக தருவின் பெயர் -</p>
+      <lg xml:id="Tiv4.1">
+        <l>சந்தானந் தேவதா ரந்தருக் கற்பகம் - </l>
+        <l>மந்தாரம் பாச்சா<lb n="11"/>த மவற்றின் வருக்கம்  -</l>
+      </lg>
+
+      <p xml:id="Tiv4.2-head">சந்தனமரத்தின் பெயர்</p>
+      <lg xml:id="Tiv4.2">
+        <l>சாந்த மலையஞ் சந்திர திலகம் -</l>
+        <l>ஏயந்த வாரஞ் சந்திவை சந்தனம் -</l>
+      </lg>
+
+      <p xml:id="Tiv4.3-head">அகிலின் பெயர் -</p>
+      <lg xml:id="Tiv4.3">
+        <l>அகருவும் பூழிலு மகி<lb n="12"/>லென வறைவர்</l>
+        <l>பகரிற் காக துண்டமு மென்ப</l>
+      </lg>
+
+      <p xml:id="Tiv4.4-head">சாலமரத்தின் பெயர் -</p>
+      <lg xml:id="Tiv4.4">
+        <l>சால மராமரம் -</l>
+      </lg>
+      
+      <p xml:id="Tiv4.5-head">ஆச்சாவின் பெயர் -</p>
+      <lg xml:id="Tiv4.5">
+        <l>ஆவே யாச்சா -</l>
+      </lg>
+      
+      <p xml:id="Tiv4.6-head">மகிழமரத்தின் பெயர் -</p>
+      <lg xml:id="Tiv4.6">
+        <l><lb n="13"/>வகுள மிலஞ்சி மகிழமர மென்ப -</l>
+      </lg>
+      
+      <p xml:id="Tiv4.7-head">தேக்கின் பெயர் -</p>
+      <lg xml:id="Tiv4.7">
+        <l>சாதி தேக்கே -</l>
+      </lg>
+      
+      <p xml:id="Tiv4.8-head">செண்பகத்தின் பெயர் -</p>
+      <lg xml:id="Tiv4.8">
+        <l>சண்பகஞ் செண்பகம் -</l>
+      </lg>
+      
+      <p xml:id="Tiv4.9-head"> ஆலின் பெயர் -</p>
+      <lg xml:id="Tiv4.9">
+        <l>பூதவங் காமரம் வடமரந் தொல்<milestone n="316v" facs="32" unit="folio"/><lb n="1"/>மரம் -</l>
+        <l>ஓதிய பழுமரங் கோழி யாலே -</l>
+      </lg>
+      
+      <p xml:id="Tiv4.10-head">மராமரத்தின் பெயர் -</p>
+      <lg xml:id="Tiv4.10">
+        <l>கணவம் பணையே மராமர மென்ப -</l>
+      </lg>
+      
+      <p xml:id="Tiv4.11-head"></p>
+      <lg xml:id="Tiv4.11">
+        <l></l>
+        <l></l>
+      </lg>
+
+      <p xml:id="Tiv4.12-head"></p>
+      <lg xml:id="Tiv4.12">
+        <l></l>
+        <l></l>
+      </lg>
+      
+      
       <milestone n="344r" facs="88" unit="folio"/>
       <p><lb n="6"/>patiṉorāvatu orucoṟpalporuṭ peyart tokuti - <g ref="#pcs"/></p>
       <p xml:id="Tiv11.1-head">emameṉṉum <lb n="7"/>peyar -</p>
@@ -131,7 +200,7 @@
       <lg xml:id="Tiv11.8">
        <l>veṇṭal viruppam viraiveṉa viḷampuvar -</l>
       </lg>
-
+   
     </body>
   </text>
 </TEI>
