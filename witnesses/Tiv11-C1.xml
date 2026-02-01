@@ -90,117 +90,218 @@
   <text corresp="#C1" xml:lang="ta">
     <body>
       <milestone n="316r" facs="31" unit="folio"/>
-      <p><lb n="10"/>நாங்காவது மரப்பெயர்த் தொகுதி - <g ref="#pcs"/></p>
-      <p xml:id="Tiv4.1-head">கற்பக தருவின் பெயர் -</p>
+      <p><lb n="10"/>nāṅkāvatu marappeyart tokuti - <g ref="#pcs"/></p>
+      <p xml:id="Tiv4.1-head">kaṟpaka taruviṉ peyar -</p>
       <lg xml:id="Tiv4.1">
-        <l>சந்தானந் தேவதா ரந்தருக் கற்பகம் - </l>
-        <l>மந்தாரம் பாச்சா<lb n="11"/>த மவற்றின் வருக்கம்  -</l>
+        <l>cantāṉan tēvatā rantaruk kaṟpakam - </l>
+        <l>mantāram pāccā<lb n="11"/>ta mavaṟṟiṉ varukkam  -</l>
       </lg>
 
-      <p xml:id="Tiv4.2-head">சந்தனமரத்தின் பெயர்</p>
+      <p xml:id="Tiv4.2-head">cantaṉamarattiṉ peyar -</p>
       <lg xml:id="Tiv4.2">
-        <l>சாந்த மலையஞ் சந்திர திலகம் -</l>
-        <l>ஏயந்த வாரஞ் சந்திவை சந்தனம் -</l>
+        <l>cānta malaiyañ cantira tilakam -</l>
+        <l>ēyanta vārañ cantivai cantaṉam -</l>
       </lg>
 
-      <p xml:id="Tiv4.3-head">அகிலின் பெயர் -</p>
+      <p xml:id="Tiv4.3-head">akiliṉ peyar -</p>
       <lg xml:id="Tiv4.3">
-        <l>அகருவும் பூழிலு மகி<lb n="12"/>லென வறைவர்</l>
-        <l>பகரிற் காக துண்டமு மென்ப</l>
+        <l>akaruvum pūḻilu maki<lb n="12"/>leṉa vaṟaivar -</l>
+        <l>pakariṟ kāka tuṇṭamu meṉpa -</l>
       </lg>
 
-      <p xml:id="Tiv4.4-head">சாலமரத்தின் பெயர் -</p>
+      <p xml:id="Tiv4.4-head">cālamarattiṉ peyar -</p>
       <lg xml:id="Tiv4.4">
-        <l>சால மராமரம் -</l>
+        <l>cāla marāmaram -</l>
       </lg>
       
-      <p xml:id="Tiv4.5-head">ஆச்சாவின் பெயர் -</p>
+      <p xml:id="Tiv4.5-head">āccāviṉ peyar -</p>
       <lg xml:id="Tiv4.5">
-        <l>ஆவே யாச்சா -</l>
+        <l>āvē yāccā -</l>
       </lg>
       
-      <p xml:id="Tiv4.6-head">மகிழமரத்தின் பெயர் -</p>
+      <p xml:id="Tiv4.6-head">makiḻamarattiṉ peyar -</p>
       <lg xml:id="Tiv4.6">
-        <l><lb n="13"/>வகுள மிலஞ்சி மகிழமர மென்ப -</l>
+        <l><lb n="13"/>vakuḷa milañci makiḻamara meṉpa -</l>
       </lg>
       
-      <p xml:id="Tiv4.7-head">தேக்கின் பெயர் -</p>
+      <p xml:id="Tiv4.7-head">tēkkiṉ peyar -</p>
       <lg xml:id="Tiv4.7">
-        <l>சாதி தேக்கே -</l>
+        <l>cāti tēkkē -</l>
       </lg>
       
-      <p xml:id="Tiv4.8-head">செண்பகத்தின் பெயர் -</p>
+      <p xml:id="Tiv4.8-head">ceṇpakattiṉ peyar -</p>
       <lg xml:id="Tiv4.8">
-        <l>சண்பகஞ் செண்பகம் -</l>
+        <l>caṇpakañ ceṇpakam -</l>
       </lg>
       
-      <p xml:id="Tiv4.9-head"> ஆலின் பெயர் -</p>
+      <p xml:id="Tiv4.9-head"> āliṉ peyar -</p>
       <lg xml:id="Tiv4.9">
-        <l>பூதவங் காமரம் வடமரந் தொல்<milestone n="316v" facs="32" unit="folio"/><lb n="1"/>மரம் -</l>
-        <l>ஓதிய பழுமரங் கோழி யாலே -</l>
+        <l>pūtavaṅ kāmaram vaṭamaran tol<milestone n="316v" facs="32" unit="folio"/><lb n="1"/>maram -</l>
+        <l>ōtiya paḻumaraṅ kōḻi yālē -</l>
       </lg>
       
-      <p xml:id="Tiv4.10-head">மராமரத்தின் பெயர் -</p>
+      <p xml:id="Tiv4.10-head">marāmarattiṉ peyar -</p>
       <lg xml:id="Tiv4.10">
-        <l>கணவம் பணையே மராமர மென்ப -</l>
+        <l>kaṇavam paṇaiyē marāmara meṉpa -</l>
       </lg>
       
-      <p xml:id="Tiv4.11-head">அரசின் பெயர் -</p>
+      <p xml:id="Tiv4.11-head">araciṉ peyar -</p>
       <lg xml:id="Tiv4.11">
-        <l>போதி யச்சு பிப்பில மரசே -</l>
+        <l>pōti yaccu pippila maracē -</l>
       </lg>
 
-      <p xml:id="Tiv4.12-head">அசோகின் பெயர் -</p>
+      <p xml:id="Tiv4.12-head">acōkiṉ peyar -</p>
       <lg xml:id="Tiv4.12">
-        <l><lb n="2"/>பிண்டி செயலை காகோளி யசோகே -</l>
+        <l><lb n="2"/>piṇṭi ceyalai kākōḷi yacōkē -</l>
       </lg>
       
-      <p xml:id="Tiv4.13-head">இறலியின் பெயர் -</p>
+      <p xml:id="Tiv4.13-head">iṟaliyiṉ peyar -</p>
       <lg xml:id="Tiv4.13">
-        <l>இரத்தி யிறலி -</l>
+        <l>iratti yiṟali -</l>
       </lg>
       
-      <p xml:id="Tiv4.14-head">மருதின் பெயர் -</p>
+      <p xml:id="Tiv4.14-head">marutiṉ peyar -</p>
       <lg xml:id="Tiv4.14">
-        <l>அருச்சுன மருதே -</l>
+        <l>aruccuṉa marutē -</l>
       </lg>
       
-      <p xml:id="Tiv4.15-head">கொன்றையின் பெயர் -</p>
+      <p xml:id="Tiv4.15-head">koṉṟaiyiṉ peyar -</p>
       <lg xml:id="Tiv4.15">
-        <l>இதழி கடுக்கை யாரக்குவதங்<lb n="3"/> கொன்றை -</l>
+        <l>itaḻi kaṭukkai yārakkuvataṅ<lb n="3"/> koṉṟai -</l>
       </lg>
       
-      <p xml:id="Tiv4.16-head">குடவின் பெயர் -</p>
+      <p xml:id="Tiv4.16-head">kuṭaviṉ peyar -</p>
       <lg xml:id="Tiv4.16">
-        <l>கோட்டங் குடிலங் குராவெனக் கூறுவர் -</l>
+        <l>kōṭṭaṅ kuṭilaṅ kurāveṉak kūṟuvar -</l>
       </lg>
       
-      <p xml:id="Tiv4.17-head">நாவலின் பெயர் -</p>
+      <p xml:id="Tiv4.16-head">kuṭaviṉ peyar -</p>
+      <lg xml:id="Tiv4.16">
+        <l>kōṭṭaṅ kuṭilaṅ kurāveṉak kūṟuvar -</l>
+      </lg>
+      
+      <p xml:id="Tiv4.17-head">nāvaliṉ peyar -</p>
       <lg xml:id="Tiv4.17">
-        <l>சம்பு நாவல் -</l>
+        <l>campu nāval -</l>
       </lg>
       
-      <p xml:id="Tiv4.18-head">வேம்பின் பெயர் -</p>
+      <p xml:id="Tiv4.18-head">vēmpiṉ peyar -</p>
       <lg xml:id="Tiv4.18">
-        <l>நிம்பம் வேம்பே -</l>
+        <l>nimpam vēmpē -</l>
       </lg>
       
-      <p xml:id="Tiv4.19-head">அத்தியின் பெயர் -</p>
+      <p xml:id="Tiv4.19-head">attiyiṉ peyar -</p>
       <lg xml:id="Tiv4.19">
-        <l><lb n="4"/>அதவு முதும்பரமு மத்தி யாகும் -</l>
+        <l><lb n="4"/>atavu mutumparamu matti yākum -</l>
       </lg>
       
-      <p xml:id="Tiv4.20-head">புளிமாவின் பெயர் -</p>
+      <p xml:id="Tiv4.20-head">puḷimāviṉ peyar -</p>
       <lg xml:id="Tiv4.20">
-        <l>ஆம்பிரஞ் சூத மாழை புளிமா -</l>
+        <l>āmpirañ cūta māḻai puḷimā -</l>
+      </lg>
+
+      <p xml:id="Tiv4.22-head">iruppaiyiṉ peyar -</p>
+      <lg xml:id="Tiv4.22">
+        <l>matūka miruppai yeṉavakut taṉarē -</l>
       </lg>
       
-      <p xml:id="Tiv4.20-head"></p>
-      <lg xml:id="Tiv4.20">
+      <p xml:id="Tiv4.23-head">ceruntiyiṉ peyar -</p>
+      <lg xml:id="Tiv4.23">
+        <l>pañcarañ ceṅkōṭu ce<lb n="6"/>runtiveṉap pakarvar -</l>
+      </lg>
+      
+      <p xml:id="Tiv4.24-head">kōṅkamarattiṉ peyar -</p>
+      <lg xml:id="Tiv4.24">
+        <l>kuyā cūṭiṇar kaṉṉikāraṅ kōṅkē -</l>
+      </lg>
+      
+      <p xml:id="Tiv4.25-head">paccilai marattiṉ peyar -</p>
+      <lg xml:id="Tiv4.25">
+        <l>pacumpaṭi tamā<lb n="7"/>lam paccilai yākum -</l>
+      </lg>
+      
+      <p xml:id="Tiv4.26-head">vaṉṉiyiṉ peyar -</p>
+      <lg xml:id="Tiv4.26">
+        <l>kalikañ camiyē kulicam vaṉṉi -</l>
+      </lg>
+      
+      <p xml:id="Tiv4.27-head">karuṅkāliyiṉ peyar -</p>
+      <lg xml:id="Tiv4.27">
+        <l>katiraṅ karuṅkāli -</l>
+      </lg>
+      
+      <p xml:id="Tiv4.28-head">kāñcirai<lb n="8"/>yiṉ peyar -</p>
+      <lg xml:id="Tiv4.28">
+        <l>kāñcirai yeṭṭi -</l>
+      </lg>
+      
+      <p xml:id="Tiv4.29-head">ceṅkaruṅkāliyiṉ peyar -</p>
+      <lg xml:id="Tiv4.29">
+        <l>ciṟumā rōṭañ ceṅkaruṅ kāli -</l>
+      </lg>
+      
+      <p xml:id="Tiv4.30-head">puṉṉaiyiṉ peyar -</p>
+      <lg xml:id="Tiv4.30">
+        <l>puṉṉai puṉṉā<lb n="9"/>kam -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.31-head">curapuṉṉaiyiṉ peyar -</p>
+      <lg xml:id="Tiv4.31">
+        <l>vaḻaicura puṉṉai -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.32-head">muruṅkaiyiṉ peyar -</p>
+      <lg xml:id="Tiv4.32">
+        <l>puṉkeṉ kiḷavi puṉamuruṅkaip peyarē -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.33-head">āttiyiṉ peyar -</p>
+      <lg xml:id="Tiv4.33">
+        <l>ārē<lb n="10"/> tātaki yātti yākum -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.34-head">mañcāṭi marattiṉ peyar -</p>
+      <lg xml:id="Tiv4.34">
+        <l>tilaka mañcāṭi -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.35-head">ilaviṉ peyar -</p>
+      <lg xml:id="Tiv4.35">
+        <l>ilavam poṅkaravam -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.36-head">nelliyiṉ peyar -</p>
+      <lg xml:id="Tiv4.36">
+        <l>āmalaka nelli -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.37-head"><lb n="11"/>kaṭumarattiṉ peyar -</p>
+      <lg xml:id="Tiv4.37">
+        <l>arītaki kaṭumaram -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.38-head">puḷiyiṉ peyar -</p>
+      <lg xml:id="Tiv4.38">
+        <l>cintañ cinturañ ciṟanta vāmpilam -</l>
+        <l>vanta tintiruṇi yekiṉam puḷiyē -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.39-head">kuruntiṉ peyar -</p>
+      <lg xml:id="Tiv4.39">
+        <l><lb n="11"/>kuntaṅ kuruntē -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.40-head">veṭpālaiyiṉ peyar -</p>
+      <lg xml:id="Tiv4.40">
+        <l>kuṭacam veṭpālai -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.41-head"></p>
+      <lg xml:id="Tiv4.41">
         <l></l>
         <l></l>
       </lg>
-      
+          
       
       <milestone n="344r" facs="88" unit="folio"/>
       <p><lb n="6"/>patiṉorāvatu orucoṟpalporuṭ peyart tokuti - <g ref="#pcs"/></p>
