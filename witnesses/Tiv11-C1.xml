@@ -1143,11 +1143,104 @@
         <l>kuvalaiya neyta<pb n="320r" facs="39" /><lb n="1"/> lākak kūṟuvar -</l>
       </lg>
           
-      <p xml:id="Tiv4.201-head"> -</p>
+      <p xml:id="Tiv4.201-head">cevvāmpaliṉ peyar -</p>
       <lg xml:id="Tiv4.201">
-        <l> -</l>
+        <l>cevvalli yiravam -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.202-head">kumutattiṉ peyar -</p>
+      <lg xml:id="Tiv4.202">
+        <l>veḷḷāmpal cētāmpa leṉṟiru vikaṟpamuṅ -</l>
+        <l>koḷvar maṉṉō ku<lb n="2"/>mutap peyarē -</l>
+        <l>āmpalu nelliyu malliyuṅ kumutam -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.203-head">akavitaḻiṉ peyar -</p>
+      <lg xml:id="Tiv4.203">
+        <l>alli yakavitaḻ -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.204-head">puṟavitaḻiṉ peyar -</p>
+      <lg xml:id="Tiv4.204">
+        <l>pullitaḻ puṟavitaḻ -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.205-head">pūviṉuṭ koṭṭaiyiṉ peyar -</p>
+      <lg xml:id="Tiv4.205">
+        <l><lb n="3"/>pokuṭṭē kaṉṉikai pūviṉuṭ koṭṭai -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.206-head">pūviṉ ṟōṟṟattiṉ peyar -</p>
+      <lg xml:id="Tiv4.206">
+        <l>kōṭṭuppūk koṭippū nīrppū veṉṉun -</l>
+        <l>tōṟṟa muṭaiya pūviṉ ṟoṭarpē -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.207-head">arumpiṉ<lb n="4"/> peyar -</p>
+      <lg xml:id="Tiv4.207">
+        <l>mukainaṉai kalikai mukiḻciṉai kōrakam -</l>
+        <l>nakaikaṇ ṇikaipō kilarumpu moṭṭē -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.208-head">malarnta pūviṉ peyar -</p>
+      <lg xml:id="Tiv4.208">
+        <l>alartā ralari pōtu vītu<lb n="5"/>ṇar -</l>
+        <l>malarō ṭiṇarivai malarnta pūvē -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.209-head">veṟṟippūviṉ peyar -</p>
+      <lg xml:id="Tiv4.209">
+        <l>nallicai yamparc celvac cēntaṉil -</l>
+        <l>vara<gap reason="lost" quantity="1" unit="character"/>viṟ kalviyiṟ palpaṭaiyiṟ<lb n="6"/> koṭaiyil -</l>
+        <l>velluna raṇivākai veṟṟip pūvē -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.210-head">paḻampūviṉ peyar -</p>
+      <lg xml:id="Tiv4.210">
+        <l>cemmal paḻampū vākac ceppuvar -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.211-head">pūntātiṉ peyar -</p>
+      <lg xml:id="Tiv4.211">
+        <l>maka<lb n="7"/>ntaṅ kēcaraṅ koṅkumalart tātē -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.212-head">pūviṉ itaḻiṉ peyar -</p>
+      <lg xml:id="Tiv4.212">
+        <l>ēṭun tōṭum pūvi ṉitaḻē -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.213-head">mālaiyiṉ peyar -</p>
+      <lg xml:id="Tiv4.213">
+        <l>toṭaiyal vācikai<lb n="8"/> cikaḻikai kōtai -</l>
+        <l>paṭalai yalaṅkal kattikai piṇaiyal -</l>
+        <l>aṇiyal curukkal toṭalai/yala tāmam -</l>
+        <l>toṅkal teriyal kaṇṇi tārcūṭṭu -</l>
+        <l>mañ<lb n="9"/>cari yoliya lilampaka mālai -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.214-head">nutalmālaiyiṉ peyar -</p>
+      <lg xml:id="Tiv4.214">
+        <l>cūṭṭē yilampakañ cūḻnutal mēlaṇi -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.215-head">toṭaiyal mālaiyiṉ peyar -</p>
+      <lg xml:id="Tiv4.215">
+        <l>mālai<lb n="10"/> cikaḻikai vācikai toṭaiyal -</l>
+        <l>āku meṉpa raṟintuci ṉōrē -</l>
+      </lg>
+          
+      <p xml:id="Tiv4.216-head">[Colophon] -</p>
+      <lg xml:id="Tiv4.216">
+        <l>nāṭē piṟanāṭṭuk kuvamai yāṟē -</l>
+        <l>kāla maṟintutavuṅ kāviri tāṉē -</l>
+        <l>āṭavar<lb n="11"/> tilaka ṉampar maṉṉaṉ -</l>
+        <l>nīṭicait talaivaṉ cēnta ṉaruvantai -</l>
+        <l>yāynta tivākarattu -</l>
+        <l>nāṉkāvatu marappeyart tokuti muṟṟum -</l>
       </lg>
 
+<l>āṟumukam tuṇai ௳</l>      
       
       <milestone n="344r" facs="88" unit="folio"/>
       <p><lb n="6"/>patiṉorāvatu orucoṟpalporuṭ peyart tokuti - <g ref="#pcs"/></p>
