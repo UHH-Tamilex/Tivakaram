@@ -93,14 +93,6 @@
     <body>
   <ab>
 
-   
-          
-    <p xml:id="Tiv4.216-head"> -</p>
-    <lg xml:id="Tiv4.216">
-       <l> -</l>
-    </lg>
-
-
     <pb facs="7" n="[1]r"/>
                 
     <fw place="left-margin">
@@ -134,7 +126,63 @@
           <l><lb n="4"/>peṟume cuḷaku vicākanāṭ peyare</l>
         </lg>
 
-        <pb facs="113" n="54r"/>
+   <pb facs="115" n="54r"/>
+    <fw place="left-margin">
+    <seg function="intertitle">
+  <lb n="54"/>nāṅkāvatu marappeyarttokuti</seg>     
+    </fw>
+          
+    <lg xml:id="Tiv4.1">
+       <l><cb n="1"/><lb n="1"/>cantāṉan tēvatā rantaruk kaṟpakam</l>
+       <l><lb n="2"/>mantāram pāricāta mavaṟṟiṉ varukkam</l>
+    </lg>
+
+    <lg xml:id="Tiv4.2">
+       <l><lb n="3"/>cānta malaiyañ cantira tilakam</l>
+       <l><lb n="4"/>ēynta vārañ cantivai cantaṉam</l>
+    </lg>
+
+    <lg xml:id="Tiv4.3">
+       <l><lb n="5"/>akaruvum pūḻilu makileṉa vaṟaivar</l>
+       <l><lb n="6"/>pakariṟ kāta tuṇṭamu mataṟkē</l>
+    </lg>
+
+    <lg xml:id="Tiv4.4-5">
+       <l><cb n="2"/><lb n="1"/>cāla marāmaram māyē vāccā</l>
+    </lg>
+
+    <lg xml:id="Tiv4.6">
+       <l><lb n="2"/>vakuḷa milañci makiḻamara meṉpa</l>
+    </lg>
+
+    <lg xml:id="Tiv4.7-8">
+       <l><lb n="3"/>cāti tēkkē caṇpakañ ceṇpakam</l>
+    </lg>
+
+    <lg xml:id="Tiv4.9">
+       <l><lb n="4"/>mutavaṅ kāmaram vaṭamaran toṉmaram</l>
+       <l><lb n="5"/>ōtiya paḻumaraṅ kōḷi yālē</l>
+    </lg>
+
+    <lg xml:id="Tiv4.10">
+       <l><lb n="6"/>kaṇavam paṇaiyē marāmaram pōti</l>
+       <l><cb n="3"/><lb n="1"/>accu vattam pippila maracē</l>
+    </lg>
+
+    <lg xml:id="Tiv4.11">
+       <l><lb n="2"/></l>
+    </lg>
+
+    <lg xml:id="Tiv4.12-13">
+       <l><lb n="3"/></l>
+    </lg>
+
+    <lg xml:id="Tiv4.14">
+       <l><lb n="4"/></l>
+    </lg>
+
+
+
 
         <pb facs="267" n="131r"/>
         <lg xml:id="Tiv11.1">
@@ -202,4 +250,4 @@
     <lb n="6"/>m <g ref="#end_of_text"/></seg> <seg function="blessing">kuru vāḻka <g ref="#end_of_text"/></seg></seg>
     
     </ab>
-  </body></text></TEI>
+   </body></text></TEI>
