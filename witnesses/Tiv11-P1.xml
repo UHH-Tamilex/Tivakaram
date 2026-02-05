@@ -126,7 +126,7 @@
           <l><lb n="4"/>peṟume cuḷaku vicākanāṭ peyare</l>
         </lg>
 
-   <pb facs="115" n="54r"/>
+   <pb facs="113" n="54r"/>
     <fw place="left-margin">
     <seg function="intertitle">
   <lb n="54"/>nāṅkāvatu marappeyarttokuti</seg>     
@@ -170,17 +170,57 @@
     </lg>
 
     <lg xml:id="Tiv4.11">
-       <l><lb n="2"/></l>
+       <l><lb n="2"/>piṇṭi ceyalai kākōḷi yacōku</l>
     </lg>
 
     <lg xml:id="Tiv4.12-13">
-       <l><lb n="3"/></l>
+       <l><lb n="3"/>iratti yiṟali yaruccuṉa marutē</l>
     </lg>
 
     <lg xml:id="Tiv4.14">
-       <l><lb n="4"/></l>
+       <l><lb n="4"/>itaḻi kaṭukkai yārakkuvataṅ koṉṟai</l>
     </lg>
 
+    <lg xml:id="Tiv4.15">
+       <l><lb n="5"/>kōṭṭaṅ kuṭilaṅ kuraveṉak kūṟuvar</l>
+    </lg>
+
+    <lg xml:id="Tiv4.16-17">
+       <l><lb n="6"/>campu nāvala nimpam vēmpē</l>
+    </lg>
+
+    <lg xml:id="Tiv4.18">
+       <l>   <pb facs="114" n="54v"/><cb n="1"/><lb n="1"/>atavu tumpara matti yākum</l>
+    </lg>
+
+    <lg xml:id="Tiv4.19">
+       <l><lb n="2"/>āmpirañ cūta māḻai puḷimā</l>
+      </lg>
+
+   <lg xml:id="Tiv4.20">
+      <l><lb n="3"/>cūtañ cēkara māmpiraṅ kokkē</l>
+      <l><lb n="4"/>tītiṉ marattivai tēmāp peyarē</l>
+      </lg>
+
+   <lg xml:id="Tiv4.21">
+      <l><lb n="5"/>matūka miruppai yeṉavakut taṉarē</l>
+      </lg>
+
+    <lg xml:id="Tiv4.22">
+      <l><lb n="6"/>pañcarañ ceṅkōṭu ceruntiyeṉap pakarvar</l>
+      </lg>
+
+   <lg xml:id="Tiv4.23">
+      <l><cb n="1"/><lb n="1"/></l>
+      </lg>
+
+   <lg xml:id="Tiv4.14">
+      <l><lb n="4"/></l>
+      </lg>
+
+   <lg xml:id="Tiv4.14">
+      <l><lb n="4"/></l>
+    </lg>
 
 
 
