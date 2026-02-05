@@ -89,7 +89,13 @@
    <graphic url="https://iiif.archive.org/iiif/UVSL-449/manifest.json"/></facsimile>
   <text corresp="#C1" xml:lang="ta">
     <body>
-      <milestone n="316r" facs="31" unit="folio"/>
+
+  <milestone n="316r" facs="31" unit="folio"/>
+      <fw place="left-margin">
+    <seg function="intertitle">
+  <lb n="2-4"/>nāṅkāvatu marappeyarttokuti</seg>     
+    </fw>
+
       <p><lb n="10"/>nāṅkāvatu marappeyart tokuti - <g ref="#pcs"/></p>
       <p xml:id="Tiv4.1-head">kaṟpaka taruviṉ peyar -</p>
       <lg xml:id="Tiv4.1">
