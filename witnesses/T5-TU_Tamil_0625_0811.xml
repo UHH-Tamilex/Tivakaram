@@ -88,5 +88,23 @@
    <facsimile>
    <graphic url="https://eap.bl.uk/archive-file/EAP1217-1-811/manifest"/></facsimile>
 <text corresp="#T5" xml:lang="ta"><body>
-  <!-- transcription here -->
+
+   <pb facs="64"/>
+    <fw place="left-margin">
+    <seg function="intertitle">
+  <lb n="54"/>nāṅkāvatu marappeyarttokuti</seg>     
+    </fw>
+
+    <p xml:id="Tiv4.1-head"><cb n="1"/><lb n="1"/>teyvattarukkaḷiṉ peyar -</p>
+      <lg xml:id="Tiv4.1">
+        <l><lb n="2"/>cantāṉan tēvatā rantaru kaṟpakam - 1</l>
+      </lg>
+
+      <p xml:id="Tiv4.1-head"><lb n="3"/>avaṟṟiṉ varukka tāṉpeyar</p>
+      <lg xml:id="Tiv4.2">
+        <l><lb n="4"/>mantāram pāricātam avaṟṟiṉ varukkam -2</l>
+      </lg>
+
+
+
 </body></text></TEI>
