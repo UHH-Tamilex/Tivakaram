@@ -992,19 +992,66 @@ poṅkar kūmpu potumpar maracceṟivu 80
         <l><lb n="12"/>tōṟṟa muṭaiya pūviṉ ṟoṭarpē <num rend="traditional">100</num>98</l>
       </lg>
       
-   <p xml:id="Tiv4.199-head"><pb facs="77"/><cb n="1"/><lb n="1"/></p>
+   <p xml:id="Tiv4.199-head"><pb facs="77"/><cb n="1"/><lb n="1"/>moṭṭiṉ peyar</p>
       <lg xml:id="Tiv4.199">
-        <l><lb n="9"/></l>
+        <l><lb n="2"/>mukai naṉai kalikai mukiḻ ciṉai kōrakai</l>
+        <l><lb n="3"/>nakai kaṉṉikai pōkil arumpu moṭṭē</l>
       </lg>
       
-   <p xml:id="Tiv4.19-head"><lb n="8"/></p>
-      <lg xml:id="Tiv4.19">
-        <l><lb n="9"/></l>
+   <p xml:id="Tiv4.200-head"><lb n="4"/>malariṉ peyar</p>
+      <lg xml:id="Tiv4.200">
+        <l><lb n="5"/>alar taṇ alari pōtu vītuṇar</l>
+        <l><lb n="6"/>malarōṭu iṇar ivai malarnta pūvē</l>
       </lg>
       
-   <p xml:id="Tiv4.19-head"><lb n="8"/></p>
-      <lg xml:id="Tiv4.19">
-        <l><lb n="9"/></l>
+   <p xml:id="Tiv4.201-head"><lb n="7"/>vellunar aṇiyum pūviṉ peyar</p>
+      <lg xml:id="Tiv4.201">
+        <l><lb n="8"/>nallicai yampalaṟac celvac cēntaṉil</l>
+        <l><lb n="9"/>valaviṟ kaka<gap reason="illegible" quantity="1" unit="character"/><space quantity="1" unit="character"/>ṟayil palpaṭaiyiṟ koṭaiyil</l>
+        <l><lb n="10"/>vellu nāṭiṇi vākai veṟṟip pūvē</l>
       </lg>
+      
+   <p xml:id="Tiv4.202-head"><lb n="11"/>paḻampūviṉ peyar</p>
+      <lg xml:id="Tiv4.202">
+        <l><lb n="12"/>cemmal paḻampū vākac ceppuvar</l>
+      </lg>
+      
+   <p xml:id="Tiv4.203-head"><cb n="2"/><lb n="1"/>malarttātiṉ peyar</p>
+      <lg xml:id="Tiv4.203">
+        <l><lb n="2"/>makarantam kēcaram koṅkumalart tātē</l>
+      </lg>
+      
+   <p xml:id="Tiv4.204-head"><lb n="3"/>pūviṉ teḻiṉ peyar</p>
+      <lg xml:id="Tiv4.204">
+        <l><lb n="4"/>ēṭum tōṭum pūvi ṉitaḷē</l>
+      </lg>
+      
+   <p xml:id="Tiv4.205-head"><lb n="5"/>mālaiyiṉ peyar</p>
+      <lg xml:id="Tiv4.205">
+        <l><lb n="6"/>toṭaiyal vācikai cikaḻikai kōtai</l>
+        <l><lb n="7"/>paṭalai yalaṅkal kattikai piṇaiyal</l>
+        <l><lb n="8"/>aṇiyal curukkai toṭalai tāmam</l>
+        <l><lb n="9"/>toṅkal teriyal kaṇṇi tārcūṭṭu</l>
+        <l><lb n="10"/>mañcari oliyal ilampakam mālai</l>
+      </lg>
+      
+   <p xml:id="Tiv4.206-head"><lb n="11"/>nutal mēl aṇi mālaiyiṉ peyar</p>
+      <lg xml:id="Tiv4.206">
+        <l><lb n="12"/>cūṭṭē ilampakam cūḻnutal mēlaṇi</l>
+      </lg>
+      
+   <p xml:id="Tiv4.207-head"><cb n="3"/><lb n="1"/>tivākara varalāṟu</p>
+      <lg xml:id="Tiv4.207">
+        <l><lb n="2"/>nāṭē piṟanāṭṭuk kuvamai āṟē</l>
+        <l><lb n="3"/>kālam aṟintutavum kāviri tāṉē</l>
+        <l><lb n="4"/>āvaṭavar tilakaṉ ampala maṉṉaṉ</l>
+        <l><lb n="5"/>nīṭicait talaivaṉ cēntaṉ aruvantai</l>
+        <l><lb n="6"/>āynta tivākarat tarumporuḷ viḷakkum</l>
+        <l><lb n="7"/>nāṉkāvatu marappeyart tokuti muṟṟum</l>
+      </lg>
+
+<l>cuvāmiñāṉatēcikaṉ tuṇai௳</l>
+<l>ācāriyaṉ āḷvarāyaṅkarāta<gap reason="illegible" quantity="1" unit="character"/>vaṭika</l>
+<l>caraṇam ௳ <gap reason="illegible" quantity="1" unit="character"/>ḷam ceyam ௳</l>
 
 </body></text></TEI>
