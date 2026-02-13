@@ -837,102 +837,173 @@ poṅkar kūmpu potumpar maracceṟivu 80
       
    <p xml:id="Tiv4.164-head"><lb n="3"/>mullaiyiṉ peyar</p>
       <lg xml:id="Tiv4.164">
-        <l><lb n="4"/>mauvalum taḷavamum kaṟpum mullai<num rend="traditional">100</num>6<gap reason="lost" quantity="1" unit="character"/></l>
+        <l><lb n="4"/>mauvalum taḷavamum kaṟpum mullai <num rend="traditional">100</num>6<gap reason="lost" quantity="1" unit="character"/></l>
       </lg>
       
    <p xml:id="Tiv4.165-head"><lb n="5"/>karumukaiyiṉ peyar</p>
       <lg xml:id="Tiv4.165">
         <l><lb n="6"/>pittikai cāti ciṟuceṇ pakameṉa</l>
-        <l><lb n="7"/>otta mūṉṟum karumukaik kuṟumpeyar<num rend="traditional">100</num>6<gap reason="lost" quantity="1" unit="character"/></l>
+        <l><lb n="7"/>otta mūṉṟum karumukaik kuṟumpeyar <num rend="traditional">100</num>6<gap reason="lost" quantity="1" unit="character"/></l>
       </lg>
       
    <p xml:id="Tiv4.166-head"><lb n="8"/>mauvaliṉ peyar</p>
       <lg xml:id="Tiv4.166">
-        <l><lb n="9"/>mālati mauval āku meṉpa<num rend="traditional">100</num>6<gap reason="lost" quantity="1" unit="character"/></l>
+        <l><lb n="9"/>mālati mauval āku meṉpa <num rend="traditional">100</num>6<gap reason="lost" quantity="1" unit="character"/></l>
       </lg>
       
    <p xml:id="Tiv4.167-head"><lb n="10"/>tūtāḷiyiṉ peyar</p>
       <lg xml:id="Tiv4.167">
-        <l><pb facs="75"/><cb n="1"/><lb n="1"/>tuṭikū tāḷam tūtāḷi yākum<num rend="traditional">100</num>67</l>
+        <l><pb facs="75"/><cb n="1"/><lb n="1"/>tuṭikū tāḷam tūtāḷi yākum <num rend="traditional">100</num>67</l>
       </lg>
       
-   <p xml:id="Tiv4.168-head"><lb n="8"/></p>
+   <p xml:id="Tiv4.168-head"><lb n="2"/>kovvaiyiṉ peyar</p>
       <lg xml:id="Tiv4.168">
+        <l><lb n="3"/>vimpamum toṇṭaiyum kovvaip peyarē <num rend="traditional">100</num>68</l>
+      </lg>
+      
+   <p xml:id="Tiv4.169-170-head"><lb n="4"/>aṭampukkum viritūrukkum peyar</p>
+      <lg xml:id="Tiv4.169-170">
+        <l><lb n="5"/>aṭampucō pālikai -<num rend="traditional">100</num>69- atiral viritūṟu <num rend="traditional">100</num>70</l>
+      </lg>
+      
+   <p xml:id="Tiv4.171-172-head"><lb n="6"/>pīrkkukkum pākalukkum peyar</p>
+      <lg xml:id="Tiv4.171-172">
+        <l><lb n="7"/>pīram pīrkku -<num rend="traditional">100</num>71- kūlam pākal <num rend="traditional">100</num>72</l>
+      </lg>
+      
+   <p xml:id="Tiv4.173-174-head"><lb n="8"/>civētaikkum cīntilukkum peyar</p>
+      <lg xml:id="Tiv4.173-174">
+        <l><lb n="9"/>pakaṇṭai civētai -<num rend="traditional">100</num>73- amutavalli cīntil <num rend="traditional">100</num>74</l>
+      </lg>
+      
+   <p xml:id="Tiv4.175-176-head"><lb n="10"/><gap reason="lost" quantity="1" unit="character"/>ñcoṟikkum tāḷikkum peyar</p>
+      <lg xml:id="Tiv4.175-176">
+        <l><cb n="2"/><lb n="1"/>kaṇṭūram kāñcoṟi -<num rend="traditional">100</num>75- pañcikam tāḷi <num rend="traditional">100</num>76</l>
+      </lg>
+      
+   <p xml:id="Tiv4.177-head"><lb n="2"/>pakaṉṟaiyiṉ peyar</p>
+      <lg xml:id="Tiv4.177">
+        <l><lb n="3"/>pakaṉṟai nakaiyāl eṉṉa pakarvar <num rend="traditional">100</num>77</l>
+      </lg>
+      
+   <p xml:id="Tiv4.178-head"><lb n="4"/>veṟṟilaiyiṉ peyar</p>
+      <lg xml:id="Tiv4.178">
+        <l><lb n="5"/>nāka valli tāmpūlam veṟṟilai <num rend="traditional">100</num>78</l>
+      </lg>
+      
+   <p xml:id="Tiv4.179-head"><lb n="6"/>piraṇṭaiyiṉ peyar</p>
+      <lg xml:id="Tiv4.179">
+        <l><lb n="7"/>vaccira valli piraṇṭai yākum <num rend="traditional">100</num>79</l>
+      </lg>
+      
+   <p xml:id="Tiv4.180-181-head"><lb n="8"/>avurikkum kuṟiñcikkum peyar</p>
+      <lg xml:id="Tiv4.180-181">
+        <l><lb n="9"/>nīli avuri -<num rend="traditional">100</num>8<num rend="traditional">10</num>- cakacari kuṟiñci <num rend="traditional">100</num>8<num rend="traditional">10</num></l>
+      </lg>
+      
+   <p xml:id="Tiv4.182-head"><lb n="10"/> tumpaiyiṉ peyar</p>
+      <lg xml:id="Tiv4.182">
+        <l><cb n="3"/><lb n="1"/>turōṇam tumpai ākac colvar <num rend="traditional">100</num>81</l>
+      </lg>
+      
+   <p xml:id="Tiv4.183-head"><lb n="2"/>taruppaiyiṉ peyar</p>
+      <lg xml:id="Tiv4.183">
+        <l><lb n="3"/>kucaiyē taruppai ākak kūṟuvar <num rend="traditional">100</num>82</l>
+      </lg>
+      
+   <p xml:id="Tiv4.184-head"><lb n="4"/>kōṟaiyiṉ peyar</p>
+      <lg xml:id="Tiv4.184">
+        <l><lb n="5"/>eruvai pañcāy kōrai yākum <num rend="traditional">100</num>83</l>
+      </lg>
+      
+   <p xml:id="Tiv4.185-186-head"><lb n="6"/>vāṭkōraikkum nāṇalukkum peyar</p>
+      <lg xml:id="Tiv4.185-186">
+        <l><lb n="7"/>cerunti vāṭkkōrai -<num rend="traditional">100</num>84- kācai nāṇal <num rend="traditional">100</num><gap reason="lost" quantity="2" unit="character"/></l>
+      </lg>
+      
+   <p xml:id="Tiv4.187-head"><lb n="8"/>curaiyiṉ peyar</p>
+      <lg xml:id="Tiv4.187">
+        <l><lb n="9"/>puḷaṟkoṭi meṉpū curaiyiṉ peyarē <num rend="traditional">100</num><gap reason="lost" quantity="2" unit="character"/></l>
+      </lg>
+      
+   <p xml:id="Tiv4.188-head"><lb n="10"/>nīrmuḷḷiyiṉ peyar</p>
+      <lg xml:id="Tiv4.188">
+        <l><pb facs="76"/><cb n="1"/><lb n="1"/>nīrmuḷḷi muṇṭakam āmeṉ nikattuvar <num rend="traditional">100</num>87</l>
+      </lg>
+      
+   <p xml:id="Tiv4.189-head"><lb n="2"/>pāciyiṉ peyar</p>
+      <lg xml:id="Tiv4.189">
+        <l><lb n="3"/>nāram ceviram patiyam caivalam</l>
+        <l><lb n="4"/>pāci yeṉṟu pakarap paṭumē <num rend="traditional">100</num>88</l>
+      </lg>
+      
+   <p xml:id="Tiv4.190-head"><lb n="5"/>nīrkkuḷiriyiṉ peyar</p>
+      <lg xml:id="Tiv4.190">
+        <l><lb n="6"/>kalla kāram nīrkkuḷiri yeṉpa <num rend="traditional">100</num>9<num rend="traditional">10</num></l>
+      </lg>
+      
+   <p xml:id="Tiv4.191-head"><lb n="7"/>tāmaraiyiṉ peyar</p>
+      <lg xml:id="Tiv4.191">
+        <l><lb n="8"/>puṇṭarīkam naḷiṉam patumam carōrukam</l>
+        <l><lb n="9"/>muṇṭakam ampōrukam aravintam paṟpam</l>
+        <l><lb n="10"/>paṅkayam tōṭakam vārīcam calacam</l>
+        <l><cb n="2"/><lb n="1"/>kañcam vaṉacam kōkaṉakam kamalam</l>
+        <l><lb n="2"/>ampuyam muḷari tirumāl koppūḻ</l>
+        <l><lb n="3"/>tirumalar iṇṭai catpat tiri eṉa</l>
+        <l><lb n="4"/>varupavai tāmarai vaṇpeya rākum <num rend="traditional">100</num>91</l>
+      </lg>
+      
+   <p xml:id="Tiv4.192-head"><lb n="5"/>karuṅkuvaḷaiyiṉ peyar</p>
+      <lg xml:id="Tiv4.192">
+        <l><lb n="6"/>nīla vuṟpalam intīvaram kuvalaiyam</l>
+        <l><lb n="7"/>nīlam pāṉal kāvi karuṅkuvaḷai</l>
+        <l><lb n="8"/>kallāramu meṉak ka?ṟavu mākum <num rend="traditional">100</num>92</l>
+      </lg>
+      
+   <p xml:id="Tiv4.193-head"><lb n="9"/>ceṅkuvaḷaiyiṉ peyar</p>
+      <lg xml:id="Tiv4.193">
+        <l><lb n="10"/>ceṅkuvaḷai arattam uṟpalam ceṅkaḻunīr <num rend="traditional">100</num>93</l>
+      </lg>
+      
+   <p xml:id="Tiv4.194-head"><cb n="3"/>neytaliṉ peyar<lb n="1"/></p>
+      <lg xml:id="Tiv4.194">
+        <l><lb n="2"/>kuvalaiyam neytal āmeṉak kūṟuvar <num rend="traditional">100</num>94</l>
+      </lg>
+      
+   <p xml:id="Tiv4.195-head"><lb n="3"/>veḷḷāmpalukkum cētāmpalukkum peyar</p>
+      <lg xml:id="Tiv4.195">
+        <l><lb n="4"/>veḷḷāmpal cētāmpal eṉṟiru vikaṟpamum</l>
+        <l><lb n="5"/>koḷpa maṉṉō kumukap peyarē <num rend="traditional">100</num>95</l>
+      </lg>
+      
+   <p xml:id="Tiv4.196-head"><lb n="6"/>akavitaḷukkum puṟavitaḷukkum peyar</p>
+      <lg xml:id="Tiv4.196">
+        <l><lb n="7"/>alli akavitaḻ pulli puṟavitaḻ <num rend="traditional">100</num>96</l>
+      </lg>
+      
+   <p xml:id="Tiv4.197-head"><lb n="8"/>pūviṉuṭ koṭṭaiyiṉ peyar</p>
+      <lg xml:id="Tiv4.197">
+        <l><lb n="9"/>pokuṭṭē pūviṉuṭ koṭṭai yākum <num rend="traditional">100</num>97</l>
+      </lg>
+      
+   <p xml:id="Tiv4.198-head"><lb n="10"/>pūviṉ vakaiyiṉ  peyar</p>
+      <lg xml:id="Tiv4.198">
+        <l><lb n="11"/>kōṭṭuppū koṭippū nīrppū nilappū</l>
+        <l><lb n="12"/>tōṟṟa muṭaiya pūviṉ ṟoṭarpē <num rend="traditional">100</num>98</l>
+      </lg>
+      
+   <p xml:id="Tiv4.199-head"><pb facs="77"/><cb n="1"/><lb n="1"/></p>
+      <lg xml:id="Tiv4.199">
         <l><lb n="9"/></l>
       </lg>
       
-   <p xml:id="Tiv4.168-head"><lb n="8"/></p>
-      <lg xml:id="Tiv4.168">
+   <p xml:id="Tiv4.19-head"><lb n="8"/></p>
+      <lg xml:id="Tiv4.19">
         <l><lb n="9"/></l>
       </lg>
       
-   <p xml:id="Tiv4.168-head"><lb n="8"/></p>
-      <lg xml:id="Tiv4.168">
-        <l><lb n="9"/></l>
-      </lg>
-      
-   <p xml:id="Tiv4.168-head"><lb n="8"/></p>
-      <lg xml:id="Tiv4.168">
-        <l><lb n="9"/></l>
-      </lg>
-      
-   <p xml:id="Tiv4.168-head"><lb n="8"/></p>
-      <lg xml:id="Tiv4.168">
-        <l><lb n="9"/></l>
-      </lg>
-      
-   <p xml:id="Tiv4.168-head"><lb n="8"/></p>
-      <lg xml:id="Tiv4.168">
-        <l><lb n="9"/></l>
-      </lg>
-      
-   <p xml:id="Tiv4.168-head"><lb n="8"/></p>
-      <lg xml:id="Tiv4.168">
-        <l><lb n="9"/></l>
-      </lg>
-      
-   <p xml:id="Tiv4.168-head"><lb n="8"/></p>
-      <lg xml:id="Tiv4.168">
-        <l><lb n="9"/></l>
-      </lg>
-      
-   <p xml:id="Tiv4.168-head"><lb n="8"/></p>
-      <lg xml:id="Tiv4.168">
-        <l><lb n="9"/></l>
-      </lg>
-      
-   <p xml:id="Tiv4.168-head"><lb n="8"/></p>
-      <lg xml:id="Tiv4.168">
-        <l><lb n="9"/></l>
-      </lg>
-      
-   <p xml:id="Tiv4.168-head"><lb n="8"/></p>
-      <lg xml:id="Tiv4.168">
-        <l><lb n="9"/></l>
-      </lg>
-      
-   <p xml:id="Tiv4.168-head"><lb n="8"/></p>
-      <lg xml:id="Tiv4.168">
-        <l><lb n="9"/></l>
-      </lg>
-      
-   <p xml:id="Tiv4.168-head"><lb n="8"/></p>
-      <lg xml:id="Tiv4.168">
-        <l><lb n="9"/></l>
-      </lg>
-      
-   <p xml:id="Tiv4.168-head"><lb n="8"/></p>
-      <lg xml:id="Tiv4.168">
-        <l><lb n="9"/></l>
-      </lg>
-      
-   <p xml:id="Tiv4.168-head"><lb n="8"/></p>
-      <lg xml:id="Tiv4.168">
-        <l><lb n="9"/></l>
-      </lg>
-      
-   <p xml:id="Tiv4.168-head"><lb n="8"/></p>
-      <lg xml:id="Tiv4.168">
+   <p xml:id="Tiv4.19-head"><lb n="8"/></p>
+      <lg xml:id="Tiv4.19">
         <l><lb n="9"/></l>
       </lg>
 
