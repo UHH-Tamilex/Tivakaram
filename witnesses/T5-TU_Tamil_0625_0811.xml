@@ -308,27 +308,27 @@
 
    <p xml:id="Tiv4.52-head"><lb n="9"/>mātaḷaiyiṉ peyar</p>
       <lg xml:id="Tiv4.52">
-        <l><pb facs="67"/><cb n="1"/><lb n="1"/>mātuḷam kaḻumuḷ mātaḷaiyā yākum</l>
+        <l><pb facs="67"/><cb n="1"/><lb n="1"/>mātuḷam kaḻumuḷ mātaḷaiyā yākum 52</l>
       </lg>
 
    <p xml:id="Tiv4.53-head"><lb n="2"/>tātu mātaḷaiyiṉ peyar</p>
       <lg xml:id="Tiv4.53">
-        <l><lb n="3"/>tāṭimam tātu mātaḷai yeṉpa</l>
+        <l><lb n="3"/>tāṭimam tātu mātaḷai yeṉpa 53</l>
       </lg>
 
    <p xml:id="Tiv4.54-head"><lb n="4"/>elumicciṉ peyar</p>
       <lg xml:id="Tiv4.54">
-        <l><lb n="5"/>campīram muruku elumiccu/catarpalam mākum</l>
+        <l><lb n="5"/>campīram muruku elumiccu/catarpalam mākum 54</l>
       </lg>
 
    <p xml:id="Tiv4.55-head"><lb n="6"/>nārattiṉ peyar</p>
       <lg xml:id="Tiv4.55">
-        <l><lb n="7"/>narantam nārattu nāma mākum</l>
+        <l><lb n="7"/>narantam nārattu nāma mākum  55</l>
       </lg>
 
    <p xml:id="Tiv4.56-head"><lb n="8"/>kurukkattiyiṉ peyar</p>
       <lg xml:id="Tiv4.2">
-        <l><cb n="2"/><lb n="1"/>kurukē vacanta/mātavik kurukkatti yākum</l>
+        <l><cb n="2"/><lb n="1"/>kurukē vacanta/mātavik kurukkatti yākum 56</l>
       </lg>
 
    <p xml:id="Tiv4.57-58-head"><lb n="2"/>akattikkum erukkukkum peyar</p>
@@ -343,7 +343,7 @@
 
    <p xml:id="Tiv4.61-head"><lb n="6"/>kāyāmarattiṉ peyar</p>
       <lg xml:id="Tiv4.61">
-        <l><lb n="7"/>kācai pūvai kāyā vākum</l>
+        <l><lb n="7"/>kācai pūvai kāyā vākum 61</l>
       </lg>
 
    <p xml:id="Tiv4.62-62-head"><lb n="8"/>cuḷḷikkum ñāḻalukkum peyar</p>
@@ -353,7 +353,7 @@
 
    <p xml:id="Tiv4.63-head"><cb n="3"/><lb n="1"/>kuṅkuma marattiṉ peyar</p>
       <lg xml:id="Tiv4.63">
-        <l><lb n="2"/>maravam turukkam kuṅkuma mākum</l>
+        <l><lb n="2"/>maravam turukkam kuṅkuma mākum 63</l>
       </lg>
 
    <p xml:id="Tiv4.64-65-head"><lb n="3"/>taṇakkukkum ōṭaikkum peyar</p>
@@ -369,28 +369,28 @@
    <p xml:id="Tiv4.68-head"><lb n="7"/>orupeyaraiyuṭaiya maraṅkaḷiṉ peyar</p>
       <lg xml:id="Tiv4.68">
         <l><lb n="8"/>ekiṉam cēmaram āṇmaram meṉacaṟivai</l>
-        <l><lb n="9"/>orumaram orupeyar uraikkum kiḷavi</l>
+        <l><lb n="9"/>orumaram orupeyar uraikkum kiḷavi 68</l>
       </lg>
 
-   <p xml:id="Tiv4.69-head"><pb facs="67"/><cb n="1"/><lb n="1"/>kamukiṉ  peyar</p>
+   <p xml:id="Tiv4.69-head"><pb facs="68"/><cb n="1"/><lb n="1"/>kamukiṉ  peyar</p>
       <lg xml:id="Tiv4.69">
-        <l><lb n="2"/>kanti pūkatam pūkaṅ kamukē</l>
+        <l><lb n="2"/>kanti pūkatam pūkaṅ kamukē 69</l>
       </lg>
       
    <p xml:id="Tiv4.70-head"><lb n="3"/>paṉaiyiṉ peyar</p>
       <lg xml:id="Tiv4.70">
         <l><lb n="4"/>peṇṇai tālam pul tāḷi pōntai eṉ</l>
-        <l><lb n="5"/>ṟeṇṇiya nāmam paṉaiyeṉa vicaippar</l>
+        <l><lb n="5"/>ṟeṇṇiya nāmam paṉaiyeṉa vicaippar 70</l>
       </lg>
       
    <p xml:id="Tiv4.71-head"><lb n="6"/>iḷampaṉaiyiṉ peyar</p>
       <lg xml:id="Tiv4.71">
-        <l><lb n="7"/>pōntai yiḷampaṉai ākap pukalvar</l>
+        <l><lb n="7"/>pōntai yiḷampaṉai ākap pukalvar 71</l>
       </lg>
       
    <p xml:id="Tiv4.72-head"><lb n="8"/>teṅkkiṉ peyar</p>
       <lg xml:id="Tiv4.72">
-        <l><lb n="9"/>nāḷikēram tāḻai teṅkeṉa navilvar</l>
+        <l><lb n="9"/>nāḷikēram tāḻai teṅkeṉa navilvar 72</l>
       </lg>
       
    <p xml:id="Tiv4.73-head"><cb n="2"/><lb n="1"/>mūṅkiliṉ peyar</p>
@@ -400,63 +400,230 @@
         <l><lb n="4"/>muntūḷ taṭṭai kīcakam vēypaṇai</l>
         <l><lb n="5"/>ampu vēṇukaḻai amai ōṅkal</l>
         <l><lb n="6"/>tikiri kiḷaikaṇ pāṇṭil varai eṉa</l>
-        <l><lb n="7"/>varuvavai mūṅkil eṉavakut taṉarē</l>
+        <l><lb n="7"/>varuvavai mūṅkil eṉavakut taṉarē 73</l>
       </lg>
       
    <p xml:id="Tiv4.74-head"><lb n="8"/>karumpiṉ peyar</p>
       <lg xml:id="Tiv4.74">
-        <l><lb n="9"/>kaḻaivēḻam ikku kaṉṉal karumpē</l>
+        <l><lb n="9"/>kaḻaivēḻam ikku kaṉṉal karumpē 74</l>
       </lg>
       
    <p xml:id="Tiv4.75-head"><cb n="3"/><lb n="1"/>tāḻaiyiṉ peyar</p>
       <lg xml:id="Tiv4.75">
         <l><lb n="2"/>kaṇṭal kētatai maṭikaitai muṭaṅkal</l>
-        <l><lb n="3"/>vaṇṭamir tāḻai eṉavakut taṉarē</l>
+        <l><lb n="3"/>vaṇṭamir tāḻai eṉavakut taṉarē 75</l>
       </lg>
       
    <p xml:id="Tiv4.76-head"><lb n="4"/>vāḻaiyiṉ peyar</p>
       <lg xml:id="Tiv4.76">
-        <l><lb n="5"/>kataliyum arampaiyum vāḻai yākum</l>
+        <l><lb n="5"/>kataliyum arampaiyum vāḻai yākum 76</l>
       </lg>
       
    <p xml:id="Tiv4.77-head"><lb n="6"/>avaṟṟuḷ pūvātu kāykkumarattiṉ peyar</p>
       <lg xml:id="Tiv4.77">
-        <l><lb n="7"/>kōḷi pūvātu kāykkum kuḷir<gap reason="lost" quantity="3" unit="character"/></l>
+        <l><lb n="7"/>kōḷi pūvātu kāykkum kuḷir<gap reason="lost" quantity="5" unit="character"/></l>
       </lg>
       
    <p xml:id="Tiv4.78-head"><lb n="8"/>vaṇṭuṇā malarmarattiṉ peyar</p>
       <lg xml:id="Tiv4.78">
-        <l><lb n="9"/>caṇpakamum vēṅkaiyum vaṇṭuṇā malarma<gap reason="lost" quantity="2" unit="character"/></l>
+        <l><lb n="9"/>caṇpakamum vēṅkaiyum vaṇṭuṇā malarma<gap reason="lost" quantity="4" unit="character"/></l>
       </lg>
       
-   <p xml:id="Tiv4.6-head"><lb n="3"/></p>
-      <lg xml:id="Tiv4.6">
-        <l><lb n="4"/></l>
+   <p xml:id="Tiv4.79-head"><pb facs="69"/><cb n="1"/><lb n="1"/>marappotup peyar</p>
+      <lg xml:id="Tiv4.79">
+        <l><lb n="2"/>pātavam tāru taruvē tāparam - ōtiya mūla marappotup peyarē 79</l>
+      </lg>
+            
+   <p xml:id="Tiv4.80-head"><lb n="3"/>maracceṟiviṉ peyar</p>
+      <lg xml:id="Tiv4.80">
+poṅkar kūmpu potumpar maracceṟivu 80
       </lg>
       
-   <p xml:id="Tiv4.6-head"><lb n="3"/></p>
-      <lg xml:id="Tiv4.6">
-        <l><lb n="4"/></l>
+   <p xml:id="Tiv4.81-head"><lb n="4"/>nantavaṉattiṉ peyar</p>
+      <lg xml:id="Tiv4.81">
+        <l><lb n="5"/>tēmpoḻil marakkāt tōṭṭam tuṭaiva</l>
+        <l><lb n="6"/>uyyāṉam cōlai vaṉam utti yāṉam</l>
+        <l><lb n="7"/>taṇṭalai kāṉam aṭavi patiṉoṉṟum</l>
+        <l><lb n="8"/>miṇṭiya nantavaṉa meṉa icaippar 81</l>
       </lg>
       
-   <p xml:id="Tiv4.6-head"><lb n="3"/></p>
+   <p xml:id="Tiv4.82-head"><lb n="9"/>kāṭṭiṉ peyar</p>
       <lg xml:id="Tiv4.6">
-        <l><lb n="4"/></l>
+        <l><cb n="2"/><lb n="1"/>kaṭamviyal paḻuvam kaṭci kuṟumpoṟai</l>
+        <l><lb n="2"/>kaṭaṟukān tāram aṭavi kāṉakam</l>
+        <l><lb n="3"/>kavaṉam kāṇṭam kakaṉam muḷari</l>
+        <l><lb n="4"/>āriyam kāṉvaṉam kaḷari curam attam</l>
+        <l><lb n="5"/>cīraṇi poccaiviṭar tillam kāṭē 82</l>
       </lg>
       
-   <p xml:id="Tiv4.6-head"><lb n="3"/></p>
-      <lg xml:id="Tiv4.6">
-        <l><lb n="4"/></l>
+   <p xml:id="Tiv4.83-head"><lb n="6"/>mutukāṭṭiṉ peyar</p>
+      <lg xml:id="Tiv4.83">
+        <l><lb n="7"/>mutaiyē ilaiyutirvu piṟaṅkiyal mutukāṭē 83</l>
       </lg>
       
-   <p xml:id="Tiv4.6-head"><lb n="3"/></p>
-      <lg xml:id="Tiv4.6">
-        <l><lb n="4"/></l>
+   <p xml:id="Tiv4.84-head"><lb n="8"/>karikāṭṭiṉ peyar</p>
+      <lg xml:id="Tiv4.84">
+        <l><lb n="9"/>poccaiyum curamum potikari kāṭē 84</l>
       </lg>
       
-   <p xml:id="Tiv4.6-head"><lb n="3"/></p>
-      <lg xml:id="Tiv4.6">
-        <l><lb n="4"/></l>
+   <p xml:id="Tiv4.85-head"><cb n="3"/><lb n="1"/>kāvaṟkāṭṭiṉ peyar</p>
+      <lg xml:id="Tiv4.85">
+        <l><lb n="2"/>araṇam miḻaikkāvaṟ kāṭeṉa araivar 85</l>
+      </lg>
+      
+   <p xml:id="Tiv4.86-87-head"><lb n="3"/>iṭaitūrukkum īñcaikku peyar</p>
+      <lg xml:id="Tiv4.86-87">
+        <l><lb n="4"/>iṟumpē iṭaitūṟu aḷai iṇṭai īñcai [86-87]</l>
+      </lg>
+      
+   <p xml:id="Tiv4.88-head"><lb n="5"/>muḷḷuṭai mūlattiṉ peyar</p>
+      <lg xml:id="Tiv4.88">
+        <l><lb n="6"/>muṇṭakam muḷḷuṭai mūla meṉpa 88</l>
+      </lg>
+      
+   <p xml:id="Tiv4.89-head"><lb n="7"/>muḷḷiṉ peyar</p>
+      <lg xml:id="Tiv4.89">
+        <l><lb n="8"/>kaṇṭaṅ kaṭu <g ref="#kompu"/>vai muḷḷeṉa karutuvar 89</l>
+      </lg>
+      
+   <p xml:id="Tiv4.90-head"><lb n="9"/>marattiṉ vayirattiṉ peyar</p>
+      <lg xml:id="Tiv4.90">
+        <l><lb n="10"/>āciṉi karilē ariyē vayiram</l>
+        <l><lb n="11"/>cēkē marattiṉ kāḻppeṉac ceppuvar 90</l>
+      </lg>
+      
+   <p xml:id="Tiv4.91-head"><pb facs="70"/><cb n="1"/><lb n="1"/>pirampiṉ peyar</p>
+      <lg xml:id="Tiv4.91">
+        <l><lb n="2"/>vēttiram cāti cūral pirampē 91</l>
+      </lg>
+      
+   <p xml:id="Tiv4.92-head"><lb n="3"/>uḷvayiramuḷaṉ maraṅkaṭku potuppeyar</p>
+      <lg xml:id="Tiv4.92">
+        <l><lb n="4"/>akkā ḻaṉavē vaṉmara mākum 92</l>
+      </lg>
+      
+   <p xml:id="Tiv4.93-head"><lb n="5"/>puṟavayiramuḷḷa maraṅkaḷukkum potuppeyar</p>
+      <lg xml:id="Tiv4.93">
+        <l><lb n="6"/>puṟakkā ḻaṉavē vaṉpul lākum 93</l>
+      </lg>
+      
+   <p xml:id="Tiv4.94-head"><lb n="7"/>vaṉapala maraṅkaḷukkum veḷiṟṟumaraṅkaḷukkum potuppeyar</p>
+      <lg xml:id="Tiv4.94">
+        <l><lb n="8"/>avaitām terukkiṉ paṉaikamuku teṅku mūṅkil</l>
+        <l><lb n="9"/>varukkil ālpāl kāḻuta lāyiṉ</l>
+        <l><lb n="10"/>veḷiṟṟumara meṉṉu vikarppamum peṟumē 94</l>
+      </lg>
+      
+   <p xml:id="Tiv4.95-head"><lb n="11"/>ciṟuceṭikaḷakku potuppeyar</p>
+      <lg xml:id="Tiv4.95">
+        <l><cb n="2"/><lb n="1"/>arilē patukkai ciṟutū rākum 95</l>
+      </lg>
+      
+   <p xml:id="Tiv4.96-head"><lb n="2"/>pul maram pucil pūṭu valli eṉpavaikaḷiṉ potuppeyar</p>
+      <lg xml:id="Tiv4.96">
+        <l><lb n="3"/>pullum maraṉum putalum pūṭum</l>
+        <l><lb n="4"/>valliyum peyarkkoṭai marunteṉap paṭumē 96</l>
+      </lg>
+      
+   <p xml:id="Tiv4.97-head"><lb n="5"/>ampuvēlmutalivaikaḷ paṭṭa puṇkaḷai āṟṟumaruntiṉ peyar</p>
+      <lg xml:id="Tiv4.97">
+        <l><lb n="6"/>taitta attiram cattiram taṉakku</l>
+        <l><lb n="7"/>meytta nalamaruntē calliya karaṉi 97</l>
+      </lg>
+      
+   <p xml:id="Tiv4.98-head"><lb n="8"/>tuṇṭamāṉa uṟuppukkaḷai poruttu maruntiṉ peyar</p>
+      <lg xml:id="Tiv4.98">
+        <l><lb n="9"/>tuṇṭa māṉa uṟupput tuṇiyiṉai</l>
+        <l><lb n="10"/>cantucey maruntu cantāṉa karaṇi 98</l>
+      </lg>
+      
+   <p xml:id="Tiv4.99-head"><lb n="11"/>puṇ taḻumpu eṉpavaikaḷai nīkkum <gap reason="illegible" quantity="1" unit="character"/>ntaṉ peyar</p>
+      <lg xml:id="Tiv4.99">
+        <l><cb n="3"/><lb n="1"/>viraṇamum taḻumpum nīkki meyyiṉai</l>
+        <l><lb n="2"/>takaimaicey maruntē cama<gap reason="lost" quantity="5" unit="character"/>ṉi 99</l>
+      </lg>
+      
+   <p xml:id="Tiv4.100-head"><lb n="3"/>uyirtaru maruntiṉ peyar</p>
+      <lg xml:id="Tiv4.100">
+        <l><lb n="4"/>uyirtaru maruntē amirtacañ cīviṉi <num rend="traditional">100</num></l>
+      </lg>
+      
+   <p xml:id="Tiv4.101-head"><lb n="5"/>maramutaliyavaṟṟiḷamaikkup potuppeyar</p>
+      <lg xml:id="Tiv4.101">
+        <l><lb n="6"/>piḷḷai kuḷavi kaṉṟē pōtteṉak</l>
+        <l><lb n="7"/>koḷpa marammuta liḷamaip peyarkkoṭai <num rend="traditional">100</num>1</l>
+      </lg>
+      
+   <p xml:id="Tiv4.102-head"><lb n="8"/>piḷḷaimutaliya poruntātavaṟṟiḷa pe<gap reason="lost" quantity="2" unit="character"/></p>
+      <lg xml:id="Tiv4.102">
+        <l><lb n="9"/>nellum pullum nērā rāṇṭē <num rend="traditional">100</num>2</l>
+      </lg>
+      
+   <p xml:id="Tiv4.103-head"><lb n="10"/>marakkompiṉ peyar</p>
+      <lg xml:id="Tiv4.103">
+        <l><lb n="11"/>poṅkar kāmpu cākai uṟuppu</l>
+        <l><pb facs="71"/><cb n="1"/><lb n="1"/>kōṭu piṟakkam ciṉai paṇai ulavai</l>
+        <l><lb n="2"/>kōṭaram viṭapam tarumarak kompē <num rend="traditional">100</num>3</l>
+      </lg>
+      
+   <p xml:id="Tiv4.100-head"></p>
+      <lg xml:id="Tiv4.100">
+        <l><lb n="9"/></l>
+      </lg>
+      
+   <p xml:id="Tiv4.100-head"><lb n="8"/></p>
+      <lg xml:id="Tiv4.100">
+        <l><lb n="9"/></l>
+      </lg>
+      
+   <p xml:id="Tiv4.100-head"><lb n="8"/></p>
+      <lg xml:id="Tiv4.100">
+        <l><lb n="9"/></l>
+      </lg>
+      
+   <p xml:id="Tiv4.100-head"><lb n="8"/></p>
+      <lg xml:id="Tiv4.100">
+        <l><lb n="9"/></l>
+      </lg>
+      
+   <p xml:id="Tiv4.100-head"><lb n="8"/></p>
+      <lg xml:id="Tiv4.100">
+        <l><lb n="9"/></l>
+      </lg>
+      
+   <p xml:id="Tiv4.100-head"><lb n="8"/></p>
+      <lg xml:id="Tiv4.100">
+        <l><lb n="9"/></l>
+      </lg>
+      
+   <p xml:id="Tiv4.100-head"><lb n="8"/></p>
+      <lg xml:id="Tiv4.100">
+        <l><lb n="9"/></l>
+      </lg>
+      
+   <p xml:id="Tiv4.100-head"><lb n="8"/></p>
+      <lg xml:id="Tiv4.100">
+        <l><lb n="9"/></l>
+      </lg>
+      
+   <p xml:id="Tiv4.100-head"><lb n="8"/></p>
+      <lg xml:id="Tiv4.100">
+        <l><lb n="9"/></l>
+      </lg>
+      
+   <p xml:id="Tiv4.100-head"><lb n="8"/></p>
+      <lg xml:id="Tiv4.100">
+        <l><lb n="9"/></l>
+      </lg>
+      
+   <p xml:id="Tiv4.100-head"><lb n="8"/></p>
+      <lg xml:id="Tiv4.100">
+        <l><lb n="9"/></l>
+      </lg>
+      
+   <p xml:id="Tiv4.100-head"><lb n="8"/></p>
+      <lg xml:id="Tiv4.100">
+        <l><lb n="9"/></l>
       </lg>
 
 </body></text></TEI>
