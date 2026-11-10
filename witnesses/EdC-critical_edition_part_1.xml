@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="../lib/js/xslt-polyfill.min.js"></script>
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -632,7 +630,7 @@
 புன்கின் பெயர்      
    </p>
    <lg corresp="#Tiv4.65">
-        <l><lb n="10"/>நத்த மாலம், புன்கு என நவில்வர்.></l>
+        <l><lb n="10"/>நத்த மாலம், புன்கு என நவில்வர்.&gt;</l>
     </lg>
     
 <pb n="219"/>      
@@ -716,7 +714,7 @@
 தெங்கின் பெயர்      
    </p>
    <lg corresp="#Tiv4.75">
-   <l><lb n="7"/>நாளிகேரம், தெங்கு, தாழை என நவில்வர்.></l>
+   <l><lb n="7"/>நாளிகேரம், தெங்கு, தாழை என நவில்வர்.&gt;</l>
     </lg>
 
 <pb n="222"/>      

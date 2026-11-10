@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="../lib/js/xslt-polyfill.min.js"></script>
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -40,7 +38,7 @@
                      <support>
                            
                         </support><extent>
-                           <measure unit="folio" quantity="153"></measure>
+                           <measure unit="folio" quantity="153"/>
                            <dimensions type="object" unit="mm">
                               
                               
@@ -89,6 +87,19 @@
    <graphic url="https://iiif.archive.org/iiif/UVSL-1572/manifest.json"/></facsimile>
   <text corresp="#C2" xml:lang="ta">
     <body>
+      <pb n="1r" facs="3"/>
+      <lg>
+        <l><lb/><gap reason="lost"/> cataṅkaip patampōṟṟic</l>
+        <l>cintai viḷakkān tivākarattiṉ - vanta -</l>
+        <l>tokutiyoru paṉṉiraṇṭuñ cōrā maṉē<lb/>rē</l>
+        <l><gap reason="lost"/><unclear>mē</unclear> paṟṟu <g ref="#pcs"/></l>
+      </lg>
+      <lg>
+        <l>tavaḷat tāmarai tātār kōyil</l>
+        <l>vaṉaippoṟṟu maruntamiḻ kuṟittē <g ref="#pcs"/></l>
+      </lg>
+      <p>caṇmukaṉṟuṇai <g ref="#pcs"/> <g ref="#pcs"/></p>
+
       <milestone n="215r" facs="233" unit="folio"/>
       <fw place="left-margin"><lb n="1"/>patiṉorā<lb n="2"/>vatu oru<lb n="3"/>coṟ pal<lb n="4"/>poruṭ <lb n="5"/>peyart <lb n="6"/>tokuti</fw>
 
