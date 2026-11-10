@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="../lib/js/xslt-polyfill.min.js"></script>
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -142,7 +140,7 @@
       
       <p xml:id="Tiv4.9-head"> āliṉ peyar -</p>
       <lg xml:id="Tiv4.9">
-        <l>pūtavaṅ kāmaram vaṭamaran tol<pb n="316v" facs="32" /><lb n="1"/>maram -</l>
+        <l>pūtavaṅ kāmaram vaṭamaran tol<pb n="316v" facs="32"/><lb n="1"/>maram -</l>
         <l>ōtiya paḻumaraṅ kōḻi yālē -</l>
       </lg>
       
@@ -309,7 +307,7 @@
 
       <p xml:id="Tiv4.42-head">vēlamarattiṉ peyar -</p>
       <lg xml:id="Tiv4.42">
-        <l>uṭai<pb n="317r" facs="33" /><lb n="1"/>kuṭai vēlē</l>
+        <l>uṭai<pb n="317r" facs="33"/><lb n="1"/>kuṭai vēlē</l>
       </lg>
           
       <p xml:id="Tiv4.43-head">pātiriyiṉ peyar -</p>
@@ -459,7 +457,7 @@
           
       <p xml:id="Tiv4.72-head">orupeyar marattiṉ peyar -</p>
       <lg xml:id="Tiv4.72">
-        <l>ekiṉañ cēmara māṇmara meṉpa> -</l>
+        <l>ekiṉañ cēmara māṇmara meṉpa&gt; -</l>
         <l>orumaram orupeya ruraikkuṅ kiḷavi -</l>
         </lg>
           
@@ -476,7 +474,7 @@
           
       <p xml:id="Tiv4.75-head">iḷampaṉaiyiṉ peyar -</p>
       <lg xml:id="Tiv4.75">
-        <l>pōntai yiḷam<pb n="317v" facs="34" /><lb n="1"/>paṉai yākap pukalvar -</l>
+        <l>pōntai yiḷam<pb n="317v" facs="34"/><lb n="1"/>paṉai yākap pukalvar -</l>
       </lg>
           
       <p xml:id="Tiv4.76-head">teṉṉamarattiṉ peyar -</p>
@@ -592,7 +590,7 @@
       <p xml:id="Tiv4.95-head">maravayirattiṉ peyar -</p>
       <lg xml:id="Tiv4.95">
         <l>āciṉi kariyē yariyē vayiram -</l>
-        <l>cēkē marattiṉ<pb n="318r" facs="35" /><lb n="1"/> kāṭpeṉac ceppuvar -</l>
+        <l>cēkē marattiṉ<pb n="318r" facs="35"/><lb n="1"/> kāṭpeṉac ceppuvar -</l>
       </lg>
           
       <p xml:id="Tiv4.96-head">pirampiṉ peyar -</p>
@@ -637,7 +635,7 @@
           
       <p xml:id="Tiv4.103-head">cantāṉa karaṇi ~eṉṉum peyar -</p>
       <lg xml:id="Tiv4.103">
-        <l>tuṇṭa māṉa vuṟupput tuṇiyiṉaic> -</l>
+        <l>tuṇṭa māṉa vuṟupput tuṇiyiṉaic&gt; -</l>
         <l>cantucey maruntē cantāṉa karaṇi -</l>
       </lg>
           
@@ -710,7 +708,7 @@
         <l>palaṅkaṉi paḻamē -</l>
       </lg>
           
-      <p xml:id="Tiv4.116-head"><pb n="318v" facs="36" /><lb n="1"/>uṭkuruttiṉ peyar -</p>
+      <p xml:id="Tiv4.116-head"><pb n="318v" facs="36"/><lb n="1"/>uṭkuruttiṉ peyar -</p>
       <lg xml:id="Tiv4.116">
         <l>payiṉē parali ṉuṭpaṭu kuruttē -</l>
       </lg>
@@ -841,7 +839,7 @@
           
       <p xml:id="Tiv4.141-head">cēmpiṉ peyar -</p>
       <lg xml:id="Tiv4.141">
-        <l>caku<pb n="319r" facs="37" /><lb n="1"/>ṭañ cēmpē -</l>
+        <l>caku<pb n="319r" facs="37"/><lb n="1"/>ṭañ cēmpē -</l>
       </lg>
           
       <p xml:id="Tiv4.142-head">ciṟukīraiyiṉ peyar -</p>
@@ -995,7 +993,7 @@
         <l>mavvalun taḷavamuṅ kaṟpu mullai -</l>
       </lg>
           
-      <p xml:id="Tiv4.172-head"><pb n="319v" facs="38" /><lb n="1"/>ciṟucaṇpakattiṉ peyar -</p>
+      <p xml:id="Tiv4.172-head"><pb n="319v" facs="38"/><lb n="1"/>ciṟucaṇpakattiṉ peyar -</p>
       <lg xml:id="Tiv4.172">
         <l><gap reason="lost" quantity="1" unit="character"/>ttikai cāti ciṟucaṇ pakamē -</l>
         <l>otta mūṉṟuṅ karumukaik kuṟumpeyar -</l>
@@ -1146,7 +1144,7 @@
           
       <p xml:id="Tiv4.200-head">neytaliṉ peyar -</p>
       <lg xml:id="Tiv4.200">
-        <l>kuvalaiya neyta<pb n="320r" facs="39" /><lb n="1"/> lākak kūṟuvar -</l>
+        <l>kuvalaiya neyta<pb n="320r" facs="39"/><lb n="1"/> lākak kūṟuvar -</l>
       </lg>
           
       <p xml:id="Tiv4.201-head">cevvāmpaliṉ peyar -</p>

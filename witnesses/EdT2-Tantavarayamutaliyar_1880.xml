@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="../lib/js/xslt-polyfill.min.js"></script>
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -89,6 +87,18 @@
     <graphic url="https://iiif.archive.org/iiif/tva-bok-0045216-1880/manifest.json" facs="159"/></facsimile>
   <text corresp="#EdT2" xml:lang="ta">
     <body>
+      <pb n="3" facs="3"/>
+      <p><lb/><g ref="#pcs"/></p>
+      <head><lb/>centaṉ tivākaram.</head>
+      <head type="sub"><lb/>mutalāvatu</head>
+      <head type="sub"><lb/>teyvappeyar tokuti.</head>
+      <head type="sub"><lb/>mulapāṭam — kāppu</head>
+      <lg>
+        <l><lb/>tantimukat tentai cataṅkaip patampōṟṟic</l>
+        <l><lb/>cintaiviḷakkān tivākarattuḷ – vanta</l>
+        <l><lb/>tokutiyoru paṉṉiraṇṭuñ cōrā maṉērē</l>
+        <l><lb/>pakutiyuṟa manamē paṟṟu.</l>
+      </lg>
 
       <pb n="148" facs="146"/>
       <p xml:id="Tiv11.5-head"><lb n="25"/>unti yeṉṉum peyar–</p>

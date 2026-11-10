@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="../lib/js/xslt-polyfill.min.js"></script>
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -86,6 +84,12 @@
   <facsimile><graphic url="https://didomena.ehess.fr/concern/data_sets/6m311x183/manifest.json"/></facsimile>
   <text synch="#U5" corresp="#P2" xml:lang="ta">
     <body>
+      <pb facs="11" n="1r"/>
+      <lg>
+        <l>tavaḷat tāmarai tātā kovil</l>
+        <l>avaḷaip pōttum aruntamiḻk kuṟittē <g ref="#pcs"/></l>
+      </lg>
+
       <pb facs="92" n="34r"/>
       <fw place="left-margin">
         <seg function="title">
